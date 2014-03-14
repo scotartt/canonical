@@ -36,8 +36,8 @@
 
 <encodingDesc>
 <refsDecl doctype="TEI.2">
-<step delim="." refunit="book" from="DESCENDANT (1 DIV1 N %1)"/>
-<step delim="." refunit="poem" from="DESCENDANT (1 DIV2 N %2)" n="chunk"/>
+<step delim="." refunit="Book" from="DESCENDANT (1 DIV1 N %1)"/>
+<step delim="." refunit="Poem" from="DESCENDANT (1 DIV2 N %2)" n="chunk"/>
 <!--<step refunit="line" from="DESCENDANT (1 L N %3)"/>-->
 </refsDecl>
 </encodingDesc>
