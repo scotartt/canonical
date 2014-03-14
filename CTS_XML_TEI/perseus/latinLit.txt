@@ -151,6 +151,11 @@ latinLit/stoa0045/stoa026/stoa0045.stoa026.perseus-lat1.xml
 latinLit/stoa0045/stoa027/stoa0045.stoa027.perseus-lat1.xml
 latinLit/stoa0045/stoa028/stoa0045.stoa028.perseus-lat1.xml
 latinLit/stoa0058/stoa001/stoa0058.stoa001.perseus-lat2.xml
+latinLit/stoa0058/stoa003/stoa0058.stoa003.perseus-lat1.xml
+latinLit/stoa0058/stoa006/stoa0058.stoa006.perseus-lat1.xml
+latinLit/stoa0058/stoa023/stoa0058.stoa023.perseus-lat1.xml
+latinLit/stoa0058/stoa025/stoa0058.stoa025.perseus-lat1.xml
+latinLit/stoa0058/stoa028/stoa0058.stoa028.perseus-lat1.xml
 latinLit/stoa0089/stoa001/stoa0089.stoa001.perseus-lat1.xml
 latinLit/stoa0089/stoa002/stoa0089.stoa002.perseus-lat1.xml
 latinLit/stoa0089/stoa003/stoa0089.stoa003.perseus-lat1.xml
