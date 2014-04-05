@@ -127,7 +127,7 @@ Changed names and redid headers.
 </teiHeader>
 <text><body>
 <div1 type="book" n="1">
-<milestone ed="p" n="1" unit="card"/>
+<div2 n="1" type="card">
 <l>Arma virumque cano, Troiae qui primus ab oris</l>
 <l>Italiam, fato profugus, Laviniaque venit</l>
 <l>litora, multum ille et terris iactatus et alto</l>
@@ -135,12 +135,14 @@ Changed names and redid headers.
 <l n="5">multa quoque et bello passus, dum conderet urbem,</l>
 <l>inferretque deos Latio, genus unde Latinum,</l>
 <l>Albanique patres, atque altae moenia Romae.</l>
-<milestone ed="p" n="8" unit="card"/>
+</div2>
+<div2 n="8" type="card">
 <l>Musa, mihi causas memora, quo numine laeso,</l>
 <l>quidve dolens, regina deum tot volvere casus</l>
 <l n="10">insignem pietate virum, tot adire labores</l>
 <l>impulerit. Tantaene animis caelestibus irae?</l>
-<milestone ed="p" n="12" unit="card"/>
+</div2>
+<div2 n="12" type="card">
 <l>Urbs antiqua fuit, Tyrii tenuere coloni,</l>
 <l>Karthago, Italiam contra Tiberinaque longe</l>
 <l>ostia, dives opum studiisque asperrima belli;</l>
@@ -163,7 +165,8 @@ Changed names and redid headers.
 <l>arcebat longe Latio, multosque per annos</l>
 <l>errabant, acti fatis, maria omnia circum.</l>
 <l>Tantae molis erat Romanam condere gentem!</l>
-<milestone ed="p" n="34" unit="card"/>
+</div2>
+<div2 n="34" type="card">
 <l>Vix e conspectu Siculae telluris in altum</l>
 <l n="35">vela dabant laeti, et spumas salis aere ruebant,</l>
 <l>cum Iuno, aeternum servans sub pectore volnus,</l>
@@ -180,7 +183,8 @@ Changed names and redid headers.
 <l>et soror et coniunx, una cum gente tot annos</l>
 <l>bella gero!  Et quisquam numen Iunonis adoret</l>
 <l>praeterea, aut supplex aris imponet honorem?&rdquo;</l>
-<milestone ed="p" n="50" unit="card"/>
+</div2>
+<div2 n="50" type="card">
 <l n="50">Talia flammato secum dea corde volutans</l>
 <l>nimborum in patriam, loca feta furentibus austris,</l>
 <l>Aeoliam venit. Hic vasto rex Aeolus antro</l>
@@ -196,7 +200,8 @@ Changed names and redid headers.
 <l>imposuit, regemque dedit, qui foedere certo</l>
 <l>et premere et laxas sciret dare iussus habenas.</l>
 <l>Ad quem tum Iuno supplex his vocibus usa est:</l>
-<milestone ed="p" n="65" unit="card"/>
+</div2>
+<div2 n="65" type="card">
 <l n="65">&ldquo;Aeole, namque tibi divom pater atque hominum rex</l>
 <l>et mulcere dedit fluctus et tollere vento,</l>
 <l>gens inimica mihi Tyrrhenum navigat aequor,</l>
@@ -208,13 +213,15 @@ Changed names and redid headers.
 <l>conubio iungam stabili propriamque dicabo,</l>
 <l>omnis ut tecum meritis pro talibus annos</l>
 <l n="75">exigat, et pulchra faciat te prole parentem.&rdquo;</l>
-<milestone ed="p" n="76" unit="card"/>
+</div2>
+<div2 n="76" type="card">
 <l>Aeolus haec contra: &ldquo;Tuus, O regina, quid optes</l>
 <l>explorare labor; mihi iussa capessere fas est.</l>
 <l>Tu mihi, quodcumque hoc regni, tu sceptra Iovemque</l>
 <l>concilias, tu das epulis accumbere divom,</l>
 <l n="80">nimborumque facis tempestatumque potentem.&rdquo;</l>
-<milestone ed="p" n="81" unit="card"/>
+</div2>
+<div2 n="81" type="card">
 <l>Haec ubi dicta, cavum conversa cuspide montem</l>
 <l>impulit in latus: ac venti, velut agmine facto,</l>
 <l>qua data porta, ruunt et terras turbine perflant.</l>
@@ -236,7 +243,8 @@ Changed names and redid headers.
 <l>saevus ubi Aeacidae telo iacet Hector, ubi ingens</l>
 <l n="100">Sarpedon, ubi tot Simois correpta sub undis</l>
 <l>scuta virum galeasque et fortia corpora volvit?&rdquo;</l>
-<milestone ed="p" n="102" unit="card"/>
+</div2>
+<div2 n="102" type="card">
 <l>Talia iactanti stridens Aquilone procella</l>
 <l>velum adversa ferit, fluctusque ad sidera tollit.</l>
 <l>Franguntur remi; tum prora avertit, et undis</l>
@@ -259,7 +267,8 @@ Changed names and redid headers.
 <l>et qua vectus Abas, et qua grandaevus Aletes,</l>
 <l>vicit hiems; laxis laterum compagibus omnes</l>
 <l>accipiunt inimicum imbrem, rimisque fatiscunt.</l>
-<milestone ed="p" n="124" unit="card"/>
+</div2>
+<div2 n="124" type="card">
 <l>Interea magno misceri murmure pontum,</l>
 <l n="125">emissamque hiemem sensit Neptunus, et imis</l>
 <l>stagna refusa vadis, graviter commotus; et alto</l>
@@ -268,7 +277,8 @@ Changed names and redid headers.
 <l>fluctibus oppressos Troas caelique ruina,</l>
 <l n="130">nec latuere doli fratrem Iunonis et irae.</l>
 <l>Eurum ad se Zephyrumque vocat, dehinc talia fatur:</l>
-<milestone ed="p" n="132" unit="card"/>
+</div2>
+<div2 n="132" type="card">
 <l>&ldquo;Tantane vos generis tenuit fiducia vestri?</l>
 <l>Iam caelum terramque meo sine numine, venti,</l>
 <l>miscere, et tantas audetis tollere moles?</l>
@@ -279,7 +289,8 @@ Changed names and redid headers.
 <l>sed mihi sorte datum. Tenet ille immania saxa,</l>
 <l n="140">vestras, Eure, domos; illa se iactet in aula</l>
 <l>Aeolus, et clauso ventorum carcere regnet.&rdquo;</l>
-<milestone ed="p" n="142" unit="card"/>
+</div2>
+<div2 n="142" type="card">
 <l>Sic ait, et dicto citius tumida aequora placat,</l>
 <l>collectasque fugat nubes, solemque reducit.</l>
 <l>Cymothoe simul et Triton adnixus acuto</l>
@@ -295,7 +306,8 @@ Changed names and redid headers.
 <l>sic cunctus pelagi cecidit fragor, aequora postquam</l>
 <l n="155">prospiciens genitor caeloque invectus aperto</l>
 <l>flectit equos, curruque volans dat lora secundo.</l>
-<milestone ed="p" n="157" unit="card"/>
+</div2>
+<div2 n="157" type="card">
 <l>Defessi Aeneadae, quae proxima litora, cursu</l>
 <l>contendunt petere, et Libyae vertuntur ad oras.</l>
 <l>Est in secessu longo locus: insula portum</l>
@@ -319,7 +331,8 @@ Changed names and redid headers.
 <l>Tum Cererem corruptam undis Cerealiaque arma</l>
 <l>expediunt fessi rerum, frugesque receptas</l>
 <l>et torrere parant flammis et frangere saxo.</l>
-<milestone ed="p" n="180" unit="card"/>
+</div2>
+<div2 n="180" type="card">
 <l n="180">Aeneas scopulum interea conscendit, et omnem</l>
 <l>prospectum late pelago petit, Anthea si quem</l>
 <l>iactatum vento videat Phrygiasque biremis,</l>
@@ -338,7 +351,8 @@ Changed names and redid headers.
 <l n="195">Vina bonus quae deinde cadis onerarat Acestes</l>
 <l>litore Trinacrio dederatque abeuntibus heros,</l>
 <l>dividit, et dictis maerentia pectora mulcet:</l>
-<milestone ed="p" n="198" unit="card"/>
+</div2>
+<div2 n="198" type="card">
 <l>&ldquo;O socii&mdash;neque enim ignari sumus ante malorum&mdash;</l>
 <l>O passi graviora, dabit deus his quoque finem.</l>
 <l n="200">Vos et Scyllaeam rabiem penitusque sonantis</l>
@@ -349,7 +363,8 @@ Changed names and redid headers.
 <l n="205">tendimus in Latium; sedes ubi fata quietas</l>
 <l>ostendunt; illic fas regna resurgere Troiae.</l>
 <l>Durate, et vosmet rebus servate secundis.&rdquo;</l>
-<milestone ed="p" n="208" unit="card"/>
+</div2>
+<div2 n="208" type="card">
 <l>Talia voce refert, curisque ingentibus aeger</l>
 <l>spem voltu simulat, premit altum corde dolorem.</l>
 <l n="210">Illi se praedae accingunt, dapibusque futuris;</l>
@@ -365,7 +380,8 @@ Changed names and redid headers.
 <l n="220">Praecipue pius Aeneas nunc acris Oronti,</l>
 <l>nunc Amyci casum gemit et crudelia secum</l>
 <l>fata Lyci, fortemque Gyan, fortemque Cloanthum.</l>
-<milestone ed="p" n="223" unit="card"/>
+</div2>
+<div2 n="223" type="card">
 <l>Et iam finis erat, cum Iuppiter aethere summo</l>
 <l>despiciens mare velivolum terrasque iacentis</l>
 <l n="225">litoraque et latos populos, sic vertice caeli</l>
@@ -397,7 +413,8 @@ Changed names and redid headers.
 <l>navibus (infandum!) amissis, unius ob iram</l>
 <l>prodimur atque Italis longe disiungimur oris.</l>
 <l>Hic pietatis honos? Sic nos in sceptra reponis?&rdquo;</l>
-<milestone ed="p" n="254" unit="card"/>
+</div2>
+<div2 n="254" type="card">
 <l>Olli subridens hominum sator atque deorum,</l>
 <l n="255">voltu, quo caelum tempestatesque serenat,</l>
 <l>oscula libavit natae, dehinc talia fatur:</l>
@@ -416,7 +433,8 @@ Changed names and redid headers.
 <l>triginta magnos volvendis mensibus orbis</l>
 <l n="270">imperio explebit, regnumque ab sede Lavini</l>
 <l>transferet, et longam multa vi muniet Albam.</l>
-<milestone ed="p" n="272" unit="card"/>
+</div2>
+<div2 n="272" type="card">
 <l>Hic iam ter centum totos regnabitur annos</l>
 <l>gente sub Hectorea, donec regina sacerdos,</l>
 <l>Marte gravis, geminam partu dabit Ilia prolem.</l>
@@ -442,7 +460,8 @@ Changed names and redid headers.
 <l>claudentur Belli portae; Furor impius intus,</l>
 <l n="295">saeva sedens super arma, et centum vinctus aenis</l>
 <l>post tergum nodis, fremet horridus ore cruento.&rdquo;</l>
-<milestone ed="p" n="297" unit="card"/>
+</div2>
+<div2 n="297" type="card">
 <l>Haec ait, et Maia genitum demittit ab alto,</l>
 <l>ut terrae, utque novae pateant Karthaginis arces</l>
 <l>hospitio Teucris, ne fati nescia Dido</l>
@@ -451,7 +470,8 @@ Changed names and redid headers.
 <l>Et iam iussa facit, ponuntque ferocia Poeni</l>
 <l>corda volente deo; in primis regina quietum</l>
 <l>accipit in Teucros animum mentemque benignam.</l>
-<milestone ed="p" n="305" unit="card"/>
+</div2>
+<div2 n="305" type="card">
 <l n="305">At pius Aeneas, per noctem plurima volvens,</l>
 <l>ut primum lux alma data est, exire locosque</l>
 <l>explorare novos, quas vento accesserit oras,</l>
@@ -472,7 +492,8 @@ Changed names and redid headers.
 <l>vidistis si quam hic errantem forte sororum,</l>
 <l>succinctam pharetra et maculosae tegmine lyncis,</l>
 <l>aut spumantis apri cursum clamore prementem.&rdquo;</l>
-<milestone ed="p" n="325" unit="card"/>
+</div2>
+<div2 n="325" type="card">
 <l n="325">Sic Venus; et Veneris contra sic filius orsus:</l>
 <l>&ldquo;Nulla tuarum audita mihi neque visa sororum&mdash;</l>
 <l>O quam te memorem, virgo? Namque haud tibi voltus</l>
@@ -483,7 +504,8 @@ Changed names and redid headers.
 <l>iactemur, doceas. Ignari hominumque locorumque</l>
 <l>erramus, vento huc vastis et fluctibus acti:</l>
 <l>multa tibi ante aras nostra cadet hostia dextra.&rdquo;</l>
-<milestone ed="p" n="335" unit="card"/>
+</div2>
+<div2 n="335" type="card">
 <l n="335">Tum Venus: &ldquo;Haud equidem tali me dignor honore;</l>
 <l>virginibus Tyriis mos est gestare pharetram,</l>
 <l>purpureoque alte suras vincire cothurno.</l>
@@ -521,7 +543,8 @@ Changed names and redid headers.
 <l>Sed vos qui tandem, quibus aut venistis ab oris,</l>
 <l n="370">quove tenetis iter? &ldquo;Quaerenti talibus ille</l>
 <l>suspirans, imoque trahens a pectore vocem:</l>
-<milestone ed="p" n="372" unit="card"/>
+</div2>
+<div2 n="372" type="card">
 <l>&ldquo;O dea, si prima repetens ab origine pergam,</l>
 <l>et vacet annalis nostrorum audire laborum,</l>
 <l>ante diem clauso componat Vesper Olympo.</l>
@@ -537,7 +560,8 @@ Changed names and redid headers.
 <l>Ipse ignotus, egens, Libyae deserta peragro,</l>
 <l n="385">Europa atque Asia pulsus.&rdquo; Nec plura querentem</l>
 <l>passa Venus medio sic interfata dolore est:</l>
-<milestone ed="p" n="387" unit="card"/>
+</div2>
+<div2 n="387" type="card">
 <l>&ldquo;Quisquis es, haud, credo, invisus caelestibus auras</l>
 <l>vitalis carpis, Tyriam qui adveneris urbem.</l>
 <l>Perge modo, atque hinc te reginae ad limina perfer,</l>
@@ -553,7 +577,8 @@ Changed names and redid headers.
 <l>haud aliter puppesque tuae pubesque tuorum</l>
 <l n="400">aut portum tenet aut pleno subit ostia velo.</l>
 <l>Perge modo, et, qua te ducit via, dirige gressum.&rdquo;</l>
-<milestone ed="p" n="402" unit="card"/>
+</div2>
+<div2 n="402" type="card">
 <l>Dixit, et avertens rosea cervice refulsit,</l>
 <l>ambrosiaeque comae divinum vertice odorem</l>
 <l>spiravere, pedes vestis defluxit ad imos,</l>
@@ -570,7 +595,8 @@ Changed names and redid headers.
 <l n="415">Ipsa Paphum sublimis abit, sedesque revisit</l>
 <l>laeta suas, ubi templum illi, centumque Sabaeo</l>
 <l>ture calent arae, sertisque recentibus halant.</l>
-<milestone ed="p" n="418" unit="card"/>
+</div2>
+<div2 n="418" type="card">
 <l>Corripuere viam interea, qua semita monstrat.</l>
 <l>Iamque ascendebant collem, qui plurimus urbi</l>
 <l n="420">imminet, adversasque adspectat desuper arces.</l>
@@ -594,7 +620,8 @@ Changed names and redid headers.
 <l>Aeneas ait, et fastigia suspicit urbis.</l>
 <l>Infert se saeptus nebula, mirabile dictu,</l>
 <l n="440">per medios, miscetque viris, neque cernitur ulli.</l>
-<milestone ed="p" n="441" unit="card"/>
+</div2>
+<div2 n="441" type="card">
 <l>Lucus in urbe fuit media, laetissimus umbra,</l>
 <l>quo primum iactati undis et turbine Poeni</l>
 <l>effodere loco signum, quod regia Iuno</l>
@@ -618,7 +645,8 @@ Changed names and redid headers.
 <l>En Priamus! Sunt hic etiam sua praemia laudi;</l>
 <l>sunt lacrimae rerum et mentem mortalia tangunt.</l>
 <l>Solve metus; feret haec aliquam tibi fama salutem.&rdquo;</l>
-<milestone ed="p" n="464" unit="card"/>
+</div2>
+<div2 n="464" type="card">
 <l>Sic ait, atque animum pictura pascit inani,</l>
 <l n="465">multa gemens, largoque umectat flumine voltum.</l>
 <l>Namque videbat, uti bellantes Pergama circum</l>
@@ -649,7 +677,8 @@ Changed names and redid headers.
 <l>Penthesilea furens, mediisque in milibus ardet,</l>
 <l>aurea subnectens exsertae cingula mammae,</l>
 <l>bellatrix, audetque viris concurrere virgo.</l>
-<milestone ed="p" n="494" unit="card"/>
+</div2>
+<div2 n="494" type="card">
 <l>Haec dum Dardanio Aeneae miranda videntur,</l>
 <l n="495">dum stupet, obtutuque haeret defixus in uno,</l>
 <l>regina ad templum, forma pulcherrima Dido,</l>
@@ -676,7 +705,8 @@ Changed names and redid headers.
 <l>quae fortuna viris, classem quo litore linquant,</l>
 <l>quid veniant; cunctis nam lecti navibus ibant,</l>
 <l>orantes veniam, et templum clamore petebant.</l>
-<milestone ed="p" n="520" unit="card"/>
+</div2>
+<div2 n="520" type="card">
 <l n="520">Postquam introgressi et coram data copia fandi,</l>
 <l>maxumus Ilioneus placido sic pectore coepit:</l>
 <l>&ldquo;O Regina, novam cui condere Iuppiter urbem</l>
@@ -701,7 +731,8 @@ Changed names and redid headers.
 <l>bella cient, primaque vetant consistere terra.</l>
 <l>Si genus humanum et mortalia temnitis arma</l>
 <l>at sperate deos memores fandi atque nefandi.</l>
-<milestone ed="p" n="544" unit="card"/>
+</div2>
+<div2 n="544" type="card">
 <l>&ldquo;Rex erat Aeneas nobis, quo iustior alter,</l>
 <l n="545">nec pietate fuit, nec bello maior et armis.</l>
 <l>Quem si fata virum servant, si vescitur aura</l>
@@ -719,7 +750,8 @@ Changed names and redid headers.
 <l>unde huc advecti, regemque petamus Acesten.&rdquo;</l>
 <l>Talibus Ilioneus; cuncti simul ore fremebant</l>
 <l part="Y" n="560">Dardanidae.</l>
-<milestone ed="p" n="561" unit="card"/>
+</div2>
+<div2 n="561" type="card">
 <l>Tum breviter Dido, voltum demissa, profatur:</l>
 <l>&ldquo;Solvite corde metum, Teucri, secludite curas.</l>
 <l>Res dura et regni novitas me talia cogunt</l>
@@ -738,7 +770,8 @@ Changed names and redid headers.
 <l>adforet Aeneas! Equidem per litora certos</l>
 <l>dimittam et Libyae lustrare extrema iubebo,</l>
 <l>si quibus eiectus silvis aut urbibus errat.&rdquo;</l>
-<milestone ed="p" n="579" unit="card"/>
+</div2>
+<div2 n="579" type="card">
 <l>His animum arrecti dictis et fortis Achates</l>
 <l n="580">et pater Aeneas iamdudum erumpere nubem</l>
 <l>ardebant. Prior Aenean compellat Achates:</l>
@@ -773,7 +806,8 @@ Changed names and redid headers.
 <l n="610">quae me cumque vocant terrae.&rdquo; Sic fatus, amicum</l>
 <l>Ilionea petit dextra, laevaque Serestum,</l>
 <l>post alios, fortemque Gyan fortemque Cloanthum.</l>
-<milestone ed="p" n="613" unit="card"/>
+</div2>
+<div2 n="613" type="card">
 <l>Obstipuit primo aspectu Sidonia Dido,</l>
 <l>casu deinde viri tanto, et sic ore locuta est:</l>
 <l n="615">&ldquo;Quis te, nate dea, per tanta pericula casus</l>
@@ -804,7 +838,8 @@ Changed names and redid headers.
 <l n="640">ingens argentum mensis, caelataque in auro</l>
 <l>fortia facta patrum, series longissima rerum</l>
 <l>per tot ducta viros antiqua ab origine gentis.</l>
-<milestone ed="p" n="643" unit="card"/>
+</div2>
+<div2 n="643" type="card">
 <l>Aeneas (neque enim patrius consistere mentem</l>
 <l>passus amor) rapidum ad navis praemittit Achaten,</l>
 <l n="645">Ascanio ferat haec, ipsumque ad moenia ducat;</l>
@@ -819,7 +854,8 @@ Changed names and redid headers.
 <l>maxima natarum Priami, colloque monile</l>
 <l n="655">bacatum, et duplicem gemmis auroque coronam.</l>
 <l>Haec celerans ita ad naves tendebat Achates.</l>
-<milestone ed="p" n="657" unit="card"/>
+</div2>
+<div2 n="657" type="card">
 <l>At Cytherea novas artes, nova pectore versat</l>
 <l>Consilia, ut faciem mutatus et ora Cupido</l>
 <l>pro dulci Ascanio veniat, donisque furentem</l>
@@ -858,7 +894,8 @@ Changed names and redid headers.
 <l>inrigat, et fotum gremio dea tollit in altos</l>
 <l>Idaliae lucos, ubi mollis amaracus illum</l>
 <l>floribus et dulci adspirans complectitur umbra.</l>
-<milestone ed="p" n="695" unit="card"/>
+</div2>
+<div2 n="695" type="card">
 <l n="695">Iamque ibat dicto parens et dona Cupido</l>
 <l>regia portabat Tyriis, duce laetus Achate.</l>
 <l>Cum venit, aulaeis iam se regina superbis</l>
@@ -887,7 +924,8 @@ Changed names and redid headers.
 <l n="720">matris Acidaliae paulatim abolere Sychaeum</l>
 <l>incipit, et vivo temptat praevertere amore</l>
 <l>iam pridem resides animos desuetaque corda.</l>
-<milestone ed="p" n="723" unit="card"/>
+</div2>
+<div2 n="723" type="card">
 <l>Postquam prima quies epulis, mensaeque remotae,</l>
 <l>crateras magnos statuunt et vina coronant.</l>
 <l n="725">Fit strepitus tectis, vocemque per ampla volutant</l>
@@ -921,9 +959,11 @@ Changed names and redid headers.
 <l>&ldquo;Immo age, et a prima dic, hospes, origine nobis</l>
 <l>insidias,&rdquo; inquit, &ldquo;Danaum, casusque tuorum,</l>
 <l n="755">erroresque tuos; nam te iam septima portat</l>
-<l>omnibus errantem terris et fluctibus aestas.&rdquo;</l></div1>
+<l>omnibus errantem terris et fluctibus aestas.&rdquo;</l>
+</div2>
+</div1>
 <div1 type="book" n="2">
-<milestone ed="p" n="1" unit="card"/>
+<div2 n="1" type="card">
 <l>Conticuere omnes, intentique ora tenebant.</l>
 <l>Inde toro pater Aeneas sic orsus ab alto:</l>
 <l>Infandum, regina, iubes renovare dolorem,</l>
@@ -944,7 +984,8 @@ Changed names and redid headers.
 <l>Huc delecta virum sortiti corpora furtim</l>
 <l>includunt caeco lateri, penitusque cavernas</l>
 <l n="20">ingentis uterumque armato milite complent.</l>
-<milestone ed="p" n="21" unit="card"/>
+</div2>
+<div2 n="21" type="card">
 <l>Est in conspectu Tenedos, notissima fama</l>
 <l>insula, dives opum, Priami dum regna manebant,</l>
 <l>nunc tantum sinus et statio male fida carinis:</l>
@@ -964,7 +1005,8 @@ Changed names and redid headers.
 <l>praecipitare iubent, subiectisque urere flammis,</l>
 <l>aut terebrare cavas uteri et temptare latebras.</l>
 <l>Scinditur incertum studia in contraria volgus.</l>
-<milestone ed="p" n="40" unit="card"/>
+</div2>
+<div2 n="40" type="card">
 <l n="40">Primus ibi ante omnis, magna comitante caterva,</l>
 <l>Laoco&ouml;n ardens summa decurrit ab arce,</l>
 <l>et procul: &ldquo;O miseri, quae tanta insania, cives?</l>
@@ -982,7 +1024,8 @@ Changed names and redid headers.
 <l>Et, si fata deum, si mens non laeva fuisset,</l>
 <l n="55">impulerat ferro Argolicas foedare latebras,</l>
 <l>Troiaque, nunc stares, Priamique arx alta, maneres.</l>
-<milestone ed="p" n="57" unit="card"/>
+</div2>
+<div2 n="57" type="card">
 <l>Ecce, manus iuvenem interea post terga revinctum</l>
 <l>pastores magno ad regem clamore trahebant</l>
 <l>Dardanidae, qui se ignotum venientibus ultro,</l>
@@ -1003,7 +1046,8 @@ Changed names and redid headers.
 <l>impetus.  Hortamur fari; quo sanguine cretus,</l>
 <l n="75">quidve ferat, memoret, quae sit fiducia capto.</l>
 <l><del>Ille haec, deposita tandem formidine, fatur:</del></l>
-<milestone ed="p" n="77" unit="card"/>
+</div2>
+<div2 n="77" type="card">
 <l>&ldquo;Cuncta equidem tibi, Rex, fuerit quodcumque, fatebor</l>
 <l>vera, inquit; neque me Argolica de gente negabo:</l>
 <l>hoc primum; nec, si miserum Fortuna Sinonem</l>
@@ -1032,7 +1076,8 @@ Changed names and redid headers.
 <l>Quidve moror, si omnis uno ordine habetis Achivos,</l>
 <l>idque audire sat est?  Iamdudum sumite poenas,</l>
 <l>hoc Ithacus velit, et magno mercentur Atridae.&rdquo;</l>
-<milestone ed="p" n="105" unit="card"/>
+</div2>
+<div2 n="105" type="card">
 <l n="105">Tum vero ardemus scitari et quaerere causas,</l>
 <l>ignari scelerum tantorum artisque Pelasgae.</l>
 <l>Prosequitur pavitans, et ficto pectore fatur:</l>
@@ -1073,7 +1118,8 @@ Changed names and redid headers.
 <l>per si qua est quae restet adhuc mortalibus usquam</l>
 <l>intemerata fides, oro, miserere laborum</l>
 <l>tantorum, miserere animi non digna ferentis.&rdquo;</l>
-<milestone ed="p" n="145" unit="card"/>
+</div2>
+<div2 n="145" type="card">
 <l n="145">His lacrimis vitam damus, et miserescimus ultro.</l>
 <l>Ipse viro primus manicas atque arta levari</l>
 <l>vincla iubet Priamus, dictisque ita fatur amicis:</l>
@@ -1124,7 +1170,8 @@ Changed names and redid headers.
 <l>sin manibus vestris vestram ascendisset in urbem,</l>
 <l>ultro Asiam magno Pelopea ad moenia bello</l>
 <l>venturam, et nostros ea fata manere nepotes.&rdquo;</l>
-<milestone ed="p" n="195" unit="card"/>
+</div2>
+<div2 n="195" type="card">
 <l n="195">Talibus insidiis periurique arte Sinonis</l>
 <l>credita res, captique dolis lacrimisque coactis,</l>
 <l>quos neque Tydides, nec Larisaeus Achilles,</l>
@@ -1164,7 +1211,8 @@ Changed names and redid headers.
 <l>laeserit, et tergo sceleratam intorserit hastam.</l>
 <l>Ducendum ad sedes simulacrum orandaque divae</l>
 <l part="Y">numina conclamant.</l>
-<milestone ed="p" n="234" unit="card"/>
+</div2>
+<div2 n="234" type="card">
 <l>Dividimus muros et moenia pandimus urbis.</l>
 <l n="235">Accingunt omnes operi, pedibusque rotarum</l>
 <l>subiciunt lapsus, et stuppea vincula collo</l>
@@ -1181,7 +1229,8 @@ Changed names and redid headers.
 <l>ora, dei iussu non umquam credita Teucris.</l>
 <l>Nos delubra deum miseri, quibus ultimus esset</l>
 <l>ille dies, festa velamus fronde per urbem.</l>
-<milestone ed="p" n="250" unit="card"/>
+</div2>
+<div2 n="250" type="card">
 <l n="250">&ldquo;Vertitur interea caelum et ruit oceano nox,</l>
 <l>involvens umbra magna terramque polumque</l>
 <l>Myrmidonumque dolos; fusi per moenia Teucri</l>
@@ -1200,7 +1249,8 @@ Changed names and redid headers.
 <l n="265">Invadunt urbem somno vinoque sepultam;</l>
 <l>caeduntur vigiles, portisque patentibus omnis</l>
 <l>accipiunt socios atque agmina conscia iungunt.</l>
-<milestone ed="p" n="268" unit="card"/>
+</div2>
+<div2 n="268" type="card">
 <l>Tempus erat, quo prima quies mortalibus aegris</l>
 <l>incipit, et dono divom gratissima serpit.</l>
 <l n="270">In somnis, ecce, ante oculos maestissimus Hector</l>
@@ -1231,7 +1281,8 @@ Changed names and redid headers.
 <l n="295">magna, pererrato statues quae denique ponto.&rdquo;</l>
 <l>Sic ait, et manibus vittas Vestamque potentem</l>
 <l>aeternumque adytis effert penetralibus ignem.</l>
-<milestone ed="p" n="298" unit="card"/>
+</div2>
+<div2 n="298" type="card">
 <l>Diverso interea miscentur moenia luctu,</l>
 <l>et magis atque magis, quamquam secreta parentis</l>
 <l n="300">Anchisae domus arboribusque obtecta recessit,</l>
@@ -1252,7 +1303,8 @@ Changed names and redid headers.
 <l n="315">sed glomerare manum bello et concurrere in arcem</l>
 <l>cum sociis ardent animi; furor iraque mentem</l>
 <l>praecipitant, pulchrumque mori succurrit in armis.</l>
-<milestone ed="p" n="318" unit="card"/>
+</div2>
+<div2 n="318" type="card">
 <l>Ecce autem telis Panthus elapsus Achivom,</l>
 <l>Panthus Othryades, arcis Phoebique sacerdos,</l>
 <l n="320">sacra manu victosque deos parvumque nepotem</l>
@@ -1282,7 +1334,8 @@ Changed names and redid headers.
 <l>et gener auxilium Priamo Phrygibusque ferebat,</l>
 <l n="345">infelix, qui non sponsae praecepta furentis</l>
 <l part="Y">audierit.</l>
-<milestone ed="p" n="347" unit="card"/>
+</div2>
+<div2 n="347" type="card">
 <l>Quos ubi confertos audere in proelia vidi,</l>
 <l>incipio super his: &ldquo;Iuvenes, fortissima frustra</l>
 <l>pectora, si vobis audentem extrema cupido</l>
@@ -1306,7 +1359,8 @@ Changed names and redid headers.
 <l>quondam etiam victis redit in praecordia virtus</l>
 <l>victoresque cadunt Danai: crudelis ubique</l>
 <l>luctus, ubique pavor, et plurima mortis imago.</l>
-<milestone ed="p" n="370" unit="card"/>
+</div2>
+<div2 n="370" type="card">
 <l n="370">Primus se, Danaum magna comitante caterva,</l>
 <l>Androgeos offert nobis, socia agmina credens</l>
 <l>inscius, atque ultro verbis compellat amicis:</l>
@@ -1339,7 +1393,8 @@ Changed names and redid headers.
 <l>Diffugiunt alii ad navis, et litora cursu</l>
 <l n="400">fida petunt: pars ingentem formidine turpi</l>
 <l>scandunt rursus equum et nota conduntur in alvo.</l>
-<milestone ed="p" n="402" unit="card"/>
+</div2>
+<div2 n="402" type="card">
 <l>Heu nihil invitis fas quemquam fidere divis!</l>
 <l>Ecce trahebatur passis Priame&iuml;a virgo</l>
 <l>crinibus a templo Cassandra adytisque Minervae,</l>
@@ -1376,7 +1431,8 @@ Changed names and redid headers.
 <l n="435">Iphitus et Pelias mecum, quorum Iphitus aevo</l>
 <l>iam gravior, Pelias et volnere tardus Ulixi;</l>
 <l>protinus ad sedes Priami clamore vocati.</l>
-<milestone ed="p" n="438" unit="card"/>
+</div2>
+<div2 n="438" type="card">
 <l>Hic vero ingentem pugnam, ceu cetera nusquam</l>
 <l>bella forent, nulli tota morerentur in urbe.</l>
 <l n="440">Sic Martem indomitum, Danaosque ad tecta ruentis</l>
@@ -1392,7 +1448,8 @@ Changed names and redid headers.
 <l n="450">obsedere fores; has servant agmine denso.</l>
 <l>Instaurati animi, regis succurrere tectis,</l>
 <l>auxilioque levare viros, vimque addere victis.</l>
-<milestone ed="p" n="453" unit="card"/>
+</div2>
+<div2 n="453" type="card">
 <l>Limen erat caecaeque fores et pervius usus</l>
 <l>tectorum inter se Priami, postesque relicti</l>
 <l n="455">a tergo, infelix qua se, dum regna manebant,</l>
@@ -1409,7 +1466,8 @@ Changed names and redid headers.
 <l>cum sonitu trahit et Danaum super agmina late</l>
 <l>incidit: ast alii subeunt, nec saxa, nec ullum</l>
 <l>telorum interea cessat genus.</l>
-<milestone ed="p" n="469" unit="card"/>
+</div2>
+<div2 n="469" type="card">
 <l>Vestibulum ante ipsum primoque in limine Pyrrhus</l>
 <l n="470">exsultat, telis et luce coruscus a&euml;na;</l>
 <l>qualis ubi in lucem coluber mala gramina pastus</l>
@@ -1447,7 +1505,8 @@ Changed names and redid headers.
 <l>Quinquaginta illi thalami, spes tanta nepotum,</l>
 <l>barbarico postes auro spoliisque superbi,</l>
 <l n="505">procubuere; tenent Danai, qua deficit ignis.</l>
-<milestone ed="p" n="506" unit="card"/>
+</div2>
+<div2 n="506" type="card">
 <l>Forsitan et Priami fuerint quae fata requiras.</l>
 <l>Urbis uti captae casum convolsaque vidit</l>
 <l>limina tectorum et medium in penetralibus hostem,</l>
@@ -1468,7 +1527,8 @@ Changed names and redid headers.
 <l>Huc tandem concede; haec ara tuebitur omnis,</l>
 <l>aut moriere simul.&rdquo; Sic ore effata recepit</l>
 <l n="525">ad sese et sacra longaevum in sede locavit.</l>
-<milestone ed="p" n="526" unit="card"/>
+</div2>
+<div2 n="526" type="card">
 <l>Ecce autem elapsus Pyrrhi de caede Polites,</l>
 <l>unus natorum Priami, per tela, per hostis</l>
 <l>porticibus longis fugit, et vacua atria lustrat</l>
@@ -1502,7 +1562,8 @@ Changed names and redid headers.
 <l>Pergama, tot quondam populis terrisque superbum</l>
 <l>regnatorem Asiae.  Iacet ingens litore truncus,</l>
 <l>avolsumque umeris caput, et sine nomine corpus.</l>
-<milestone ed="p" n="559" unit="card"/>
+</div2>
+<div2 n="559" type="card">
 <l>At me tum primum saevus circumstetit horror</l>
 <l n="560">Obstipui; subiit cari genitoris imago,</l>
 <l>ut regem aequaevum crudeli volnere vidi</l>
@@ -1511,7 +1572,8 @@ Changed names and redid headers.
 <l>Respicio, et quae sit me circum copia lustro.</l>
 <l n="565">Deseruere omnes defessi, et corpora saltu</l>
 <l>ad terram misere aut ignibus aegra dedere.</l>
-<milestone ed="p" n="567" unit="card"/>
+</div2>
+<div2 n="567" type="card">
 <l><del>Iamque adeo super unus eram, cum limina Vestae</del></l>
 <l><del>servantem et tacitam secreta in sede latentem</del></l>
 <l><del>Tyndarida aspicio: dant clara incendia lucem</del></l>
@@ -1533,7 +1595,8 @@ Changed names and redid headers.
 <l n="585"><del>extinxisse nefas tamen et sumpsisse merentis</del></l>
 <l><del>laudabor poenas, animumque explesse iuvabit</del></l>
 <l><del>ultricis flammae, et cineres satiasse meorum.&rdquo;</del></l>
-<milestone ed="p" n="588" unit="card"/>
+</div2>
+<div2 n="588" type="card">
 <l><del>Talia iactabam, et furiata mente ferebar:</del></l>
 <l>cum mihi se, non ante oculis tam clara, videndam</l>
 <l n="590">obtulit et pura per noctem in luce refulsit</l>
@@ -1570,7 +1633,8 @@ Changed names and redid headers.
 <l>Dixerat, et spissis noctis se condidit umbris.</l>
 <l>Adparent dirae facies inimicaque Troiae</l>
 <l part="Y">numina magna deum.</l>
-<milestone ed="p" n="624" unit="card"/>
+</div2>
+<div2 n="624" type="card">
 <l>Tum vero omne mihi visum considere in ignis</l>
 <l n="625">Ilium et ex imo verti Neptunia Troia;</l>
 <l>ac veluti summis antiquam in montibus ornum</l>
@@ -1581,7 +1645,8 @@ Changed names and redid headers.
 <l>congemuit, traxitque iugis avolsa ruinam.</l>
 <l>Descendo, ac ducente deo flammam inter et hostis</l>
 <l>expedior; dant tela locum, flammaeque recedunt.</l>
-<milestone ed="p" n="634" unit="card"/>
+</div2>
+<div2 n="634" type="card">
 <l>Atque ubi iam patriae perventum ad limina sedis</l>
 <l n="635">antiquasque domos, genitor, quem tollere in altos</l>
 <l>optabam primum montis primumque petebam,</l>
@@ -1598,7 +1663,8 @@ Changed names and redid headers.
 <l>Iam pridem invisus divis et inutilis annos</l>
 <l>demoror, ex quo me divom pater atque hominum rex</l>
 <l>fulminis adflavit ventis et contigit igni.&rdquo;</l>
-<milestone ed="p" n="650" unit="card"/>
+</div2>
+<div2 n="650" type="card">
 <l n="650">Talia perstabat memorans, fixusque manebat.</l>
 <l>Nos contra effusi lacrimis, coniunxque Cre&uuml;sa</l>
 <l>Ascaniusque omnisque domus, ne vertere secum</l>
@@ -1620,7 +1686,8 @@ Changed names and redid headers.
 <l>Arma, viri, ferte arma; vocat lux ultima victos.</l>
 <l>Reddite me Danais; sinite instaurata revisam</l>
 <l n="670">proelia: Numquam omnes hodie moriemur inulti.&rdquo;</l>
-<milestone ed="p" n="671" unit="card"/>
+</div2>
+<div2 n="671" type="card">
 <l>Hinc ferro accingor rursus clipeoque sinistram</l>
 <l>insertabam aptans, meque extra tecta ferebam.</l>
 <l>Ecce autem complexa pedes in limine coniunx</l>
@@ -1629,7 +1696,8 @@ Changed names and redid headers.
 <l>sin aliquam expertus sumptis spem ponis in armis,</l>
 <l>hanc primum tutare domum.  Cui parvus Iulus,</l>
 <l>cui pater et coniunx quondam tua dicta relinquor?&rdquo;</l>
-<milestone ed="p" n="679" unit="card"/>
+</div2>
+<div2 n="679" type="card">
 <l>Talia vociferans gemitu tectum omne replebat,</l>
 <l n="680">cum subitum dictuque oritur mirabile monstrum.</l>
 <l>Namque manus inter maestorumque ora parentum</l>
@@ -1643,7 +1711,8 @@ Changed names and redid headers.
 <l>&ldquo;Iuppiter omnipotens, precibus si flecteris ullis,</l>
 <l n="690">aspice nos; hoc tantum, et, si pietate meremur,</l>
 <l>da deinde auxilium, pater, atque haec omina firma.&rdquo;</l>
-<milestone ed="p" n="692" unit="card"/>
+</div2>
+<div2 n="692" type="card">
 <l>Vix ea fatus erat senior, subitoque fragore</l>
 <l>intonuit laevum, et de caelo lapsa per umbras</l>
 <l>stella facem ducens multa cum luce cucurrit.</l>
@@ -1704,7 +1773,8 @@ Changed names and redid headers.
 <l>ipse urbem repeto et cingor fulgentibus armis.</l>
 <l n="750">Stat casus renovare omnis, omnemque reverti</l>
 <l>per Troiam, et rursus caput obiectare periclis.</l>
-<milestone ed="p" n="752" unit="card"/>
+</div2>
+<div2 n="752" type="card">
 <l>Principio muros obscuraque limina portae,</l>
 <l>qua gressum extuleram, repeto, et vestigia retro</l>
 <l>observata sequor per noctem et lumine lustro.</l>
@@ -1748,7 +1818,8 @@ Changed names and redid headers.
 <l>Ter conatus ibi collo dare bracchia circum:</l>
 <l>ter frustra comprensa manus effugit imago,</l>
 <l>par levibus ventis volucrique simillima somno.</l>
-<milestone ed="p" n="795" unit="card"/>
+</div2>
+<div2 n="795" type="card">
 <l n="795">Sic demum socios consumpta nocte reviso.</l>
 <l>Atque hic ingentem comitum adfluxisse novorum</l>
 <l>invenio admirans numerum, matresque virosque,</l>
@@ -1758,9 +1829,11 @@ Changed names and redid headers.
 <l>Iamque iugis summae surgebat Lucifer Idae</l>
 <l>ducebatque diem, Danaique obsessa tenebant</l>
 <l>limina portarum, nec spes opis ulla dabatur;</l>
-<l>cessi, et sublato montes genitore petivi.</l></div1>
+<l>cessi, et sublato montes genitore petivi.</l>
+</div2>
+</div1>
 <div1 type="book" n="3">
-<milestone ed="p" n="1" unit="card"/>
+<div2 n="1" type="card">
 <l>Postquam res Asiae Priamique evertere gentem</l>
 <l>immeritam visum Superis, ceciditque superbum</l>
 <l>Ilium, et omnis humo fumat Neptunia Troia,</l>
@@ -1773,14 +1846,16 @@ Changed names and redid headers.
 <l n="10">litora cum patriae lacrimans portusque relinquo</l>
 <l>et campos, ubi Troia fuit: feror exsul in altum</l>
 <l>cum sociis natoque Penatibus et magnis dis.</l>
-<milestone ed="p" n="13" unit="card"/>
+</div2>
+<div2 n="13" type="card">
 <l>Terra procul vastis colitur Mavortia campis,</l>
 <l>Thraces arant, acri quondam regnata Lycurgo,</l>
 <l n="15">hospitium antiquum Troiae sociique Penates,</l>
 <l>dum Fortuna fuit.  Feror huc, et litore curvo</l>
 <l>moenia prima loco, fatis ingressus iniquis,</l>
 <l>Aeneadasque meo nomen de nomine fingo.</l>
-<milestone ed="p" n="19" unit="card"/>
+</div2>
+<div2 n="19" type="card">
 <l>Sacra Dionaeae matri divisque ferebam</l>
 <l n="20">auspicibus coeptorum operum, superoque nitentem</l>
 <l>caelicolum regi mactabam in litore taurum.</l>
@@ -1811,7 +1886,8 @@ Changed names and redid headers.
 <l>telorum seges et iaculis increvit acutis.&rdquo;</l>
 <l>Tum vero ancipiti mentem formidine pressus</l>
 <l>obstipui, steteruntque comae et vox faucibus haesit.</l>
-<milestone ed="p" n="49" unit="card"/>
+</div2>
+<div2 n="49" type="card">
 <l>Hunc Polydorum auri quondam cum pondere magno</l>
 <l n="50">infelix Priamus furtim mandarat alendum</l>
 <l>Threicio regi, cum iam diffideret armis</l>
@@ -1832,7 +1908,8 @@ Changed names and redid headers.
 <l>inferimus tepido spumantia cymbia lacte</l>
 <l>sanguinis et sacri pateras, animamque sepulchro</l>
 <l>condimus, et magna supremum voce ciemus.</l>
-<milestone ed="p" n="69" unit="card"/>
+</div2>
+<div2 n="69" type="card">
 <l>Inde, ubi prima fides pelago, placataque venti</l>
 <l n="70">dant maria et lenis crepitans vocat Auster in altum,</l>
 <l>deducunt socii navis et litora complent:</l>
@@ -1848,14 +1925,16 @@ Changed names and redid headers.
 <l>vittis et sacra redimitus tempora lauro,</l>
 <l>occurrit; veterem Anchisen adgnovit amicum.</l>
 <l>Iungimus hospitio dextras, et tecta subimus.</l>
-<milestone ed="p" n="84" unit="card"/>
+</div2>
+<div2 n="84" type="card">
 <l>Templa dei saxo venerabar structa vetusto:</l>
 <l n="85">&ldquo;Da propriam, Thymbraee, domum; da moenia fessis</l>
 <l>et genus et mansuram urbem; serva altera Troiae</l>
 <l>Pergama, reliquias Danaum atque immitis Achilli.</l>
 <l>Quem sequimur?  Quove ire iubes?  Ubi ponere sedes?</l>
 <l>Da, pater, augurium, atque animis inlabere nostris.&rdquo;</l>
-<milestone ed="p" n="90" unit="card"/>
+</div2>
+<div2 n="90" type="card">
 <l n="90">Vix ea fatus eram: tremere omnia visa repente,</l>
 <l>liminaque laurusque dei, totusque moveri</l>
 <l>mons circum, et mugire adytis cortina reclusis.</l>
@@ -1887,7 +1966,8 @@ Changed names and redid headers.
 <l>Sic fatus, meritos aris mactavit honores,</l>
 <l>taurum Neptuno, taurum tibi, pulcher Apollo</l>
 <l n="120">nigram Hiemi pecudem, Zephyris felicibus albam.</l>
-<milestone ed="p" n="121" unit="card"/>
+</div2>
+<div2 n="121" type="card">
 <l>Fama volat pulsum regnis cessisse paternis</l>
 <l>Idomenea ducem, desertaque litora Cretae</l>
 <l>hoste vacare domos, sedesque adstare relictas.</l>
@@ -1902,7 +1982,8 @@ Changed names and redid headers.
 <l>Ergo avidus muros optatae molior urbis,</l>
 <l>Pergameamque voco, et laetam cognomine gentem</l>
 <l>hortor amare focos arcemque attollere tectis.</l>
-<milestone ed="p" n="135" unit="card"/>
+</div2>
+<div2 n="135" type="card">
 <l n="135">Iamque fere sicco subductae litore puppes;</l>
 <l>conubiis arvisque novis operata iuventus;</l>
 <l>iura domosque dabam: subito cum tabida membris,</l>
@@ -1915,7 +1996,8 @@ Changed names and redid headers.
 <l>hortatur pater ire mari, veniamque precari:</l>
 <l n="145">quam fessis finem rebus ferat; unde laborum</l>
 <l>temptare auxilium iubeat; quo vertere cursus.</l>
-<milestone ed="p" n="147" unit="card"/>
+</div2>
+<div2 n="147" type="card">
 <l>Nox erat, et terris animalia somnus habebat:</l>
 <l>effigies sacrae divom Phrygiique Penates,</l>
 <l>quos mecum a Troia mediisque ex ignibus urbis</l>
@@ -1961,7 +2043,8 @@ Changed names and redid headers.
 <l>Sic ait, et cuncti dicto paremus ovantes.</l>
 <l n="190">Hanc quoque deserimus sedem, paucisque relictis</l>
 <l>vela damus, vastumque cava trabe currimus aequor.</l>
-<milestone ed="p" n="192" unit="card"/>
+</div2>
+<div2 n="192" type="card">
 <l>Postquam altum tenuere rates, nec iam amplius ullae</l>
 <l>adparent terrae, caelum undique et undique pontus,</l>
 <l>tum mihi caeruleus supra caput adstitit imber,</l>
@@ -2028,7 +2111,8 @@ Changed names and redid headers.
 <l n="255">sed non ante datam cingetis moenibus urbem,</l>
 <l>quam vos dira fames nostraeque iniuria caedis</l>
 <l>ambesas subigat malis absumere mensas.&rdquo;</l>
-<milestone ed="p" n="258" unit="card"/>
+</div2>
+<div2 n="258" type="card">
 <l>Dixit, et in silvam pennis ablata refugit.</l>
 <l>At sociis subita gelidus formidine sanguis</l>
 <l n="260">deriguit; cecidere animi, nec iam amplius armis,</l>
@@ -2049,7 +2133,8 @@ Changed names and redid headers.
 <l n="275">et formidatus nautis aperitur Apollo.</l>
 <l>Hunc petimus fessi et parvae succedimus urbi;</l>
 <l>ancora de prora iacitur, stant litore puppes.</l>
-<milestone ed="p" n="278" unit="card"/>
+</div2>
+<div2 n="278" type="card">
 <l>Ergo insperata tandem tellure potiti,</l>
 <l>lustramurque Iovi votisque incendimus aras,</l>
 <l n="280">Actiaque Iliacis celebramus litora ludis.</l>
@@ -2066,7 +2151,8 @@ Changed names and redid headers.
 <l>Protinus a&euml;rias Phaeacum abscondimus arces,</l>
 <l>litoraque Epiri legimus portuque subimus</l>
 <l>Chaonio, et celsam Buthroti accedimus urbem.</l>
-<milestone ed="p" n="294" unit="card"/>
+</div2>
+<div2 n="294" type="card">
 <l>Hic incredibilis rerum fama occupat auris,</l>
 <l n="295">Priamiden Helenum Graias regnare per urbes,</l>
 <l>coniugio Aeacidae Pyrrhi sceptrisque potitum,</l>
@@ -2093,7 +2179,8 @@ Changed names and redid headers.
 <l>Heu, quis te casus deiectam coniuge tanto</l>
 <l>excipit, aut quae digna satis fortuna revisit</l>
 <l>Hectoris Andromachen?  Pyrrhin&rdquo; conubia servas?&rdquo;</l>
-<milestone ed="p" n="320" unit="card"/>
+</div2>
+<div2 n="320" type="card">
 <l n="320">Deiecit vultum et demissa voce locuta est:</l>
 <l>&ldquo;O felix una ante alias Priame&iuml;a virgo,</l>
 <l>hostilem ad tumulum Troiae sub moenibus altis</l>
@@ -2130,7 +2217,8 @@ Changed names and redid headers.
 <l>illos porticibus rex accipiebat in amplis;</l>
 <l>aula&iuml; medio libabant pocula Bacchi,</l>
 <l n="355">impositis auro dapibus, paterasque tenebant.</l>
-<milestone ed="p" n="356" unit="card"/>
+</div2>
+<div2 n="356" type="card">
 <l>Iamque dies alterque dies processit, et aurae</l>
 <l>vela vocant tumidoque inflatur carbasus austro.</l>
 <l>His vatem adgredior dictis ac talia quaeso:</l>
@@ -2149,7 +2237,8 @@ Changed names and redid headers.
 <l>sacrati capitis, meque ad tua limina, Phoebe,</l>
 <l>ipse manu multo suspensum numine ducit,</l>
 <l>atque haec deinde canit divino ex ore sacerdos:</l>
-<milestone ed="p" n="374" unit="card"/>
+</div2>
+<div2 n="374" type="card">
 <l>&ldquo;Nate dea,&mdash;nam te maioribus ire per altum</l>
 <l n="375">auspiciis manifesta fides: sic fata deum rex</l>
 <l>sortitur, volvitque vices; is vertitur ordo&mdash;</l>
@@ -2217,7 +2306,8 @@ Changed names and redid headers.
 <l>Iunoni cane vota libens, dominamque potentem</l>
 <l>supplicibus supera donis: sic denique victor</l>
 <l n="440">Trinacria finis Italos mittere relicta.</l>
-<milestone ed="p" n="441" unit="card"/>
+</div2>
+<div2 n="441" type="card">
 <l>&ldquo;Huc ubi delatus Cumaeam accesseris urbem,</l>
 <l>divinosque lacus, et Averna sonantia silvis,</l>
 <l>insanam vatem aspicies, quae rupe sub ima</l>
@@ -2240,7 +2330,8 @@ Changed names and redid headers.
 <l n="460">expediet, cursusque dabit venerata secundos.</l>
 <l>Haec sunt, quae nostra liceat te voce moneri.</l>
 <l>Vade age, et ingentem factis fer ad aethera Troiam.&rdquo;</l>
-<milestone ed="p" n="463" unit="card"/>
+</div2>
+<div2 n="463" type="card">
 <l>Quae postquam vates sic ore effatus amico est,</l>
 <l>dona dehinc auro gravia sectoque elephanto</l>
 <l n="465">imperat ad navis ferri, stipatque carinis</l>
@@ -2250,7 +2341,8 @@ Changed names and redid headers.
 <l>arma Neoptolemi; sunt et sua dona parenti.</l>
 <l part="Y" n="470">Addit equos, additque duces;</l>
 <l>remigium supplet; socios simul instruit armis.</l>
-<milestone ed="p" n="472" unit="card"/>
+</div2>
+<div2 n="472" type="card">
 <l>Interea classem velis aptare iubebat</l>
 <l>Anchises, fieret vento mora ne qua ferenti.</l>
 <l>Quem Phoebi interpres multo compellat honore:</l>
@@ -2285,7 +2377,8 @@ Changed names and redid headers.
 <l>Epiro, Hesperia, quibus idem Dardanus auctor</l>
 <l>atque idem casus, unam faciemus utramque</l>
 <l n="505">Troiam animis; maneat nostros ea cura nepotes.&rdquo;</l>
-<milestone ed="p" n="506" unit="card"/>
+</div2>
+<div2 n="506" type="card">
 <l>Provehimur pelago vicina Ceraunia iuxta,</l>
 <l>unde iter Italiam cursusque brevissimus undis.</l>
 <l>Sol ruit interea et montes umbrantur opaci;</l>
@@ -2301,7 +2394,8 @@ Changed names and redid headers.
 <l>Postquam cuncta videt caelo constare sereno,</l>
 <l>dat clarum e puppi signum; nos castra movemus,</l>
 <l n="520">temptamusque viam et velorum pandimus alas.</l>
-<milestone ed="p" n="521" unit="card"/>
+</div2>
+<div2 n="521" type="card">
 <l>Iamque rubescebat stellis Aurora fugatis,</l>
 <l>cum procul obscuros collis humilemque videmus</l>
 <l>Italiam.  &ldquo;Italiam&rdquo; primus conclamat Achates,</l>
@@ -2329,7 +2423,8 @@ Changed names and redid headers.
 <l n="545">et capita ante aras Phrygio velamur amictu;</l>
 <l>praeceptisque Heleni, dederat quae maxima, rite</l>
 <l>Iunoni Argivae iussos adolemus honores.</l>
-<milestone ed="p" n="548" unit="card"/>
+</div2>
+<div2 n="548" type="card">
 <l>Haud mora, continuo perfectis ordine votis,</l>
 <l>cornua velatarum obvertimus antemarum,</l>
 <l n="550">Graiugenumque domos suspectaque linquimus arva.</l>
@@ -2352,7 +2447,8 @@ Changed names and redid headers.
 <l>ter spumam elisam et rorantia vidimus astra.</l>
 <l>Interea fessos ventus cum sole reliquit,</l>
 <l>ignarique viae Cyclopum adlabimur oris.</l>
-<milestone ed="p" n="570" unit="card"/>
+</div2>
+<div2 n="570" type="card">
 <l n="570">Portus ab accessu ventorum immotus et ingens</l>
 <l>ipse; sed horrificis iuxta tonat Aetna ruinis;</l>
 <l>interdumque atram prorumpit ad aethera nubem,</l>
@@ -2371,7 +2467,8 @@ Changed names and redid headers.
 <l n="585">Nam neque erant astrorum ignes, nec lucidus aethra</l>
 <l>siderea polus, obscuro sed nubila caelo,</l>
 <l>et lunam in nimbo nox intempesta tenebat.</l>
-<milestone ed="p" n="588" unit="card"/>
+</div2>
+<div2 n="588" type="card">
 <l>Postera iamque dies primo surgebat Eoo,</l>
 <l>umentemque Aurora polo dimoverat umbram:</l>
 <l n="590">cum subito e silvis, macie confecta suprema,</l>
@@ -2397,7 +2494,8 @@ Changed names and redid headers.
 <l n="610">Ipse pater dextram Anchises, haud multa moratus,</l>
 <l>dat iuveni, atque animum praesenti pignore firmat.</l>
 <l>Ille haec, deposita tandem formidine, fatur:</l>
-<milestone ed="p" n="613" unit="card"/>
+</div2>
+<div2 n="613" type="card">
 <l>&ldquo;Sum patria ex Ithaca, comes infelicis Ulixi,</l>
 <l>nomine Achaemenides, Troiam genitore Adamasto</l>
 <l n="615">paupere&mdash;mansissetque utinam fortuna!&mdash;profectus.</l>
@@ -2440,7 +2538,8 @@ Changed names and redid headers.
 <l>conspexi venientem.  Huic me, quaecumque fuisset,</l>
 <l>addixi: satis est gentem effugisse nefandam.</l>
 <l>Vos animam hanc potius quocumque absumite leto.&rdquo;</l>
-<milestone ed="p" n="655" unit="card"/>
+</div2>
+<div2 n="655" type="card">
 <l n="655">Vix ea fatus erat, summo cum monte videmus</l>
 <l>ipsum inter pecudes vasta se mole moventem</l>
 <l>pastorem Polyphemum et litora nota petentem,</l>
@@ -2461,7 +2560,8 @@ Changed names and redid headers.
 <l>clamorem immensum tollit, quo pontus et omnes</l>
 <l>contremuere undae, penitusque exterrita tellus</l>
 <l>Italiae, curvisque immugiit Aetna cavernis.</l>
-<milestone ed="p" n="675" unit="card"/>
+</div2>
+<div2 n="675" type="card">
 <l n="675">At genus e silvis Cyclopum et montibus altis</l>
 <l>excitum ruit ad portus et litora complent.</l>
 <l>Cernimus adstantis nequiquam lumine torvo</l>
@@ -2479,7 +2579,8 @@ Changed names and redid headers.
 <l>Pantagiae Megarosque sinus Thapsumque iacentem.</l>
 <l n="690">Talia monstrabat relegens errata retrorsus</l>
 <l>litora Achaemenides; comes infelicis Ulixi.</l>
-<milestone ed="p" n="692" unit="card"/>
+</div2>
+<div2 n="692" type="card">
 <l>Sicanio praetenta sinu iacet insula contra</l>
 <l>Plemyrium undosum; nomen dixere priores</l>
 <l>Ortygiam.  Alpheum fama est huc Elidis amnem</l>
@@ -2504,12 +2605,15 @@ Changed names and redid headers.
 <l>hos mihi praedixit luctus, non dira Celaeno.</l>
 <l>Hic labor extremus, longarum haec meta viarum.</l>
 <l n="715">Hinc me digressum vestris deus adpulit oris.</l>
-<milestone ed="p" n="716" unit="card"/>
+</div2>
+<div2 n="716" type="card">
 <l>Sic pater Aeneas intentis omnibus unus</l>
 <l>fata renarrabat divom, cursusque docebat.</l>
-<l>Conticuit tandem, factoque hic fine quievit.</l></div1>
+<l>Conticuit tandem, factoque hic fine quievit.</l>
+</div2>
+</div1>
 <div1 type="book" n="4">
-<milestone ed="p" n="1" unit="card"/>
+<div2 n="1" type="card">
 <l>At regina gravi iamdudum saucia cura</l>
 <l>volnus alit venis, et caeco carpitur igni.</l>
 <l>Multa viri virtus animo, multusque recursat</l>
@@ -2540,7 +2644,8 @@ Changed names and redid headers.
 <l>Ille meos, primus qui me sibi iunxit, amores</l>
 <l>abstulit; ille habeat secum servetque sepulchro.&rdquo;</l>
 <l n="30">Sic effata sinum lacrimis implevit obortis.</l>
-<milestone ed="p" n="31" unit="card"/>
+</div2>
+<div2 n="31" type="card">
 <l>Anna refert: &ldquo;O luce magis dilecta sorori,</l>
 <l>solane perpetua maerens carpere iuventa,</l>
 <l>nec dulcis natos, Veneris nec praemia noris?</l>
@@ -2564,7 +2669,8 @@ Changed names and redid headers.
 <l>indulge hospitio, causasque innecte morandi,</l>
 <l>dum pelago desaevit hiemps et aquosus Orion,</l>
 <l>quassataeque rates, dum non tractabile caelum.&rdquo;</l>
-<milestone ed="p" n="54" unit="card"/>
+</div2>
+<div2 n="54" type="card">
 <l>His dictis incensum animum inflammavit amore,</l>
 <l n="55">spemque dedit dubiae menti, solvitque pudorem.</l>
 <l>Principio delubra adeunt, pacemque per aras</l>
@@ -2601,7 +2707,8 @@ Changed names and redid headers.
 <l>exercet, portusve aut propugnacula bello</l>
 <l>tuta parant; pendent opera interrupta, minaeque</l>
 <l>murorum ingentes aequataque machina caelo.</l>
-<milestone ed="p" n="90" unit="card"/>
+</div2>
+<div2 n="90" type="card">
 <l n="90">Quam simul ac tali persensit peste teneri</l>
 <l>cara Iovis coniunx, nec famam obstare furori,</l>
 <l>talibus adgreditur Venerem Saturnia dictis:</l>
@@ -2617,7 +2724,8 @@ Changed names and redid headers.
 <l>Communem hunc ergo populum paribusque regamus</l>
 <l>auspiciis; liceat Phrygio servire marito,</l>
 <l>dotalisque tuae Tyrios permittere dextrae.&rdquo;</l>
-<milestone ed="p" n="105" unit="card"/>
+</div2>
+<div2 n="105" type="card">
 <l n="105">Olli&mdash;sensit enim simulata mente locutam,</l>
 <l>quo regnum Italiae Libycas averteret oras&mdash;</l>
 <l>sic contra est ingressa Venus: &ldquo;Quis talia demens</l>
@@ -2642,7 +2750,8 @@ Changed names and redid headers.
 <l><del>conubio iungam stabili propriamque dicabo,</del></l>
 <l>hic hymenaeus erit.&rdquo;&mdash;Non adversata petenti</l>
 <l>adnuit, atque dolis risit Cytherea repertis.</l>
-<milestone ed="p" n="129" unit="card"/>
+</div2>
+<div2 n="129" type="card">
 <l>Oceanum interea surgens Aurora reliquit.</l>
 <l n="130">It portis iubare exorto delecta iuventus;</l>
 <l>retia rara, plagae, lato venabula ferro,</l>
@@ -2674,7 +2783,8 @@ Changed names and redid headers.
 <l>gaudet equo, iamque hos cursu, iam praeterit illos,</l>
 <l>spumantemque dari pecora inter inertia votis</l>
 <l>optat aprum, aut fulvum descendere monte leonem.</l>
-<milestone ed="p" n="160" unit="card"/>
+</div2>
+<div2 n="160" type="card">
 <l n="160">Interea magno misceri murmure caelum</l>
 <l>incipit; insequitur commixta grandine nimbus;</l>
 <l>et Tyrii comites passim et Troiana iuventus</l>
@@ -2688,7 +2798,8 @@ Changed names and redid headers.
 <l n="170">causa fuit; neque enim specie famave movetur,</l>
 <l>nec iam furtivum Dido meditatur amorem:</l>
 <l>coniugium vocat; hoc praetexit nomine culpam.</l>
-<milestone ed="p" n="173" unit="card"/>
+</div2>
+<div2 n="173" type="card">
 <l>Extemplo Libyae magnas it Fama per urbes&mdash;</l>
 <l>Fama, malum qua non aliud velocius ullum;</l>
 <l n="175">mobilitate viget, viresque adquirit eundo,</l>
@@ -2714,7 +2825,8 @@ Changed names and redid headers.
 <l n="195">Haec passim dea foeda virum diffundit in ora.</l>
 <l>Protinus ad regem cursus detorquet Iarban,</l>
 <l>incenditque animum dictis atque aggerat iras.</l>
-<milestone ed="p" n="198" unit="card"/>
+</div2>
+<div2 n="198" type="card">
 <l>Hic Hammone satus, rapta Garamantide Nympha,</l>
 <l>templa Iovi centum latis immania regnis,</l>
 <l n="200">centum aras posuit, vigilemque sacraverat ignem,</l>
@@ -2736,7 +2848,8 @@ Changed names and redid headers.
 <l>Maeonia mentum mitra crinemque madentem</l>
 <l>subnexus, rapto potitur: nos munera templis</l>
 <l>quippe tuis ferimus, famamque fovemus inanem.&rdquo;</l>
-<milestone ed="p" n="219" unit="card"/>
+</div2>
+<div2 n="219" type="card">
 <l>Talibus orantem dictis arasque tenentem</l>
 <l n="220">audiit omnipotens, oculosque ad moenia torsit</l>
 <l>regia et oblitos famae melioris amantes.</l>
@@ -2756,7 +2869,8 @@ Changed names and redid headers.
 <l n="235">Quid struit, aut qua spe inimica in gente moratur,</l>
 <l>nec prolem Ausoniam et Lavinia respicit arva?</l>
 <l>Naviget: haec summa est; hic nostri nuntius esto.&rdquo;</l>
-<milestone ed="p" n="238" unit="card"/>
+</div2>
+<div2 n="238" type="card">
 <l>Dixerat. Ille patris magni parere parabat</l>
 <l>imperio; et primum pedibus talaria nectit</l>
 <l n="240">aurea, quae sublimem alis sive aequora supra</l>
@@ -2798,7 +2912,8 @@ Changed names and redid headers.
 <l>debentur.&rdquo; Tali Cyllenius ore locutus</l>
 <l>mortalis visus medio sermone reliquit,</l>
 <l>et procul in tenuem ex oculis evanuit auram.</l>
-<milestone ed="p" n="279" unit="card"/>
+</div2>
+<div2 n="279" type="card">
 <l>At vero Aeneas aspectu obmutuit amens,</l>
 <l n="280">arrectaeque horrore comae, et vox faucibus haesit.</l>
 <l>Ardet abire fuga dulcisque relinquere terras,</l>
@@ -2816,7 +2931,8 @@ Changed names and redid headers.
 <l>temptaturum aditus, et quae mollissima fandi</l>
 <l>tempora, quis rebus dexter modus. Ocius omnes</l>
 <l n="295">imperio laeti parent ac iussa facessunt.</l>
-<milestone ed="p" n="296" unit="card"/>
+</div2>
+<div2 n="296" type="card">
 <l>At regina dolos&mdash;quis fallere possit amantem?</l>
 <l>praesensit, motusque excepit prima futuros,</l>
 <l>omnia tuta timens. Eadem impia Fama furenti</l>
@@ -2852,7 +2968,8 @@ Changed names and redid headers.
 <l>ante fugam suboles, si quis mihi parvulus aula</l>
 <l>luderet Aeneas, qui te tamen ore referret,</l>
 <l n="330">non equidem omnino capta ac deserta viderer.&rdquo;</l>
-<milestone ed="p" n="331" unit="card"/>
+</div2>
+<div2 n="331" type="card">
 <l>Dixerat. Ille Iovis monitis immota tenebat</l>
 <l>lumina, et obnixus curam sub corde premebat.</l>
 <l>Tandem pauca refert: &ldquo;Ego te, quae plurima fando</l>
@@ -2884,7 +3001,8 @@ Changed names and redid headers.
 <l>intrantem muros, vocemque his auribus hausi.</l>
 <l n="360">Desine meque tuis incendere teque querelis:</l>
 <l part="Y">Italiam non sponte sequor.&rdquo;</l>
-<milestone ed="p" n="362" unit="card"/>
+</div2>
+<div2 n="362" type="card">
 <l>Talia dicentem iamdudum aversa tuetur,</l>
 <l>huc illuc volvens oculos, totumque pererrat</l>
 <l>luminibus tacitis, et sic accensa profatur:</l>
@@ -2916,7 +3034,8 @@ Changed names and redid headers.
 <l n="390">linquens multa metu cunctantem et multa parantem</l>
 <l>dicere. Suscipiunt famulae, conlapsaque membra</l>
 <l>marmoreo referunt thalamo stratisque reponunt.</l>
-<milestone ed="p" n="393" unit="card"/>
+</div2>
+<div2 n="393" type="card">
 <l>At pius Aeneas, quamquam lenire dolentem</l>
 <l>solando cupit et dictis avertere curas,</l>
 <l n="395">multa gemens magnoque animum labefactus amore,</l>
@@ -2940,7 +3059,8 @@ Changed names and redid headers.
 <l>Ire iterum in lacrimas, iterum temptare precando</l>
 <l>cogitur, et supplex animos submittere amori,</l>
 <l n="415">ne quid inexpertum frustra moritura relinquat.</l>
-<milestone ed="p" n="416" unit="card"/>
+</div2>
+<div2 n="416" type="card">
 <l>&ldquo;Anna, vides toto properari litore; circum</l>
 <l>undique convenere; vocat iam carbasus auras,</l>
 <l>puppibus et laeti nautae imposuere coronas.</l>
@@ -2962,7 +3082,8 @@ Changed names and redid headers.
 <l>dum mea me victam doceat fortuna dolere.</l>
 <l n="435">Extremam hanc oro veniam&mdash;miserere sororis&mdash;</l>
 <l>quam mihi cum dederit, cumulatam morte remittam.&rdquo;</l>
-<milestone ed="p" n="437" unit="card"/>
+</div2>
+<div2 n="437" type="card">
 <l>Talibus orabat, talisque miserrima fletus</l>
 <l>fertque refertque soror: sed nullis ille movetur</l>
 <l>fletibus, aut voces ullas tractabilis audit;</l>
@@ -2976,7 +3097,8 @@ Changed names and redid headers.
 <l>haud secus adsiduis hinc atque hinc vocibus heros</l>
 <l>tunditur, et magno persentit pectore curas;</l>
 <l>mens immota manet; lacrimae volvuntur inanes.</l>
-<milestone ed="p" n="450" unit="card"/>
+</div2>
+<div2 n="450" type="card">
 <l n="450">Tum vero infelix fatis exterrita Dido</l>
 <l>mortem orat; taedet caeli convexa tueri.</l>
 <l>Quo magis inceptum peragat lucemque relinquat,</l>
@@ -3001,7 +3123,8 @@ Changed names and redid headers.
 <l>aut Agamemnonius scaenis agitatus Orestes</l>
 <l>armatam facibus matrem et serpentibus atris</l>
 <l>cum fugit, ultricesque sedent in limine Dirae.</l>
-<milestone ed="p" n="474" unit="card"/>
+</div2>
+<div2 n="474" type="card">
 <l>Ergo ubi concepit furias evicta dolore</l>
 <l n="475">decrevitque mori, tempus secum ipsa modumque</l>
 <l>exigit, et, maestam dictis adgressa sororem,</l>
@@ -3032,7 +3155,8 @@ Changed names and redid headers.
 <l>germanam credit, nec tantos mente furores</l>
 <l>concipit, aut graviora timet, quam morte Sychaei:</l>
 <l part="Y">ergo iussa parat.</l>
-<milestone ed="p" n="504" unit="card"/>
+</div2>
+<div2 n="504" type="card">
 <l>At regina, pyra penetrali in sede sub auras</l>
 <l n="505">erecta ingenti taedis atque ilice secta,</l>
 <l>intenditque locum sertis, et fronde coronat</l>
@@ -3051,7 +3175,8 @@ Changed names and redid headers.
 <l>testatur moritura deos et conscia fati</l>
 <l n="520">sidera; tum, si quod non aequo foedere amantes</l>
 <l>curae numen habet iustumque memorque, precatur.</l>
-<milestone ed="p" n="522" unit="card"/>
+</div2>
+<div2 n="522" type="card">
 <l>Nox erat, et placidum carpebant fessa soporem</l>
 <l>corpora per terras, silvaeque et saeva quierant</l>
 <l>aequora: cum medio volvuntur sidera lapsu,</l>
@@ -3083,7 +3208,8 @@ Changed names and redid headers.
 <l n="550">Non licuit thalami expertem sine crimine vitam</l>
 <l>degere, more ferae, tales nec tangere curas!</l>
 <l>Non servata fides cineri promissa Sychaeo!&rdquo;</l>
-<milestone ed="p" n="553" unit="card"/>
+</div2>
+<div2 n="553" type="card">
 <l>Tantos illa suo rumpebat pectore questus.</l>
 <l>Aeneas celsa in puppi, iam certus eundi,</l>
 <l n="555">carpebat somnos, rebus iam rite paratis.</l>
@@ -3102,7 +3228,8 @@ Changed names and redid headers.
 <l>si te his attigerit terris Aurora morantem.</l>
 <l>Heia age, rumpe moras. Varium et mutabile semper</l>
 <l n="570">femina.&rdquo; Sic fatus, nocti se immiscuit atrae.</l>
-<milestone ed="p" n="571" unit="card"/>
+</div2>
+<div2 n="571" type="card">
 <l>Tum vero Aeneas, subitis exterritus umbris,</l>
 <l>corripit e somno corpus, sociosque fatigat:</l>
 <l>&ldquo;Praecipites vigilate, viri, et considite transtris;</l>
@@ -3116,7 +3243,8 @@ Changed names and redid headers.
 <l>Idem omnes simul ardor habet, rapiuntque ruuntque;</l>
 <l>litora deseruere; latet sub classibus aequor;</l>
 <l>adnixi torquent spumas et caerula verrunt.</l>
-<milestone ed="p" n="584" unit="card"/>
+</div2>
+<div2 n="584" type="card">
 <l>Et iam prima novo spargebat lumine terras</l>
 <l n="585">Tithoni croceum linquens Aurora cubile.</l>
 <l>Regina e speculis ut primum albescere lucem</l>
@@ -3163,7 +3291,8 @@ Changed names and redid headers.
 <l>nunc, olim, quocumque dabunt se tempore vires.</l>
 <l>Litora litoribus contraria, fluctibus undas</l>
 <l>imprecor, arma armis; pugnent ipsique nepotesque.&rdquo;</l>
-<milestone ed="p" n="630" unit="card"/>
+</div2>
+<div2 n="630" type="card">
 <l n="630">Haec ait, et partis animum versabat in omnis,</l>
 <l>invisam quaerens quam primum abrumpere lucem.</l>
 <l>Tum breviter Barcen nutricem adfata Sychaei;</l>
@@ -3193,7 +3322,8 @@ Changed names and redid headers.
 <l>ulta virum, poenas inimico a fratre recepi;</l>
 <l>felix, heu nimium felix, si litora tantum</l>
 <l>numquam Dardaniae tetigissent nostra carinae!&rdquo;</l>
-<milestone ed="p" n="659" unit="card"/>
+</div2>
+<div2 n="659" type="card">
 <l>Dixit, et, os impressa toro, &ldquo;Moriemur inultae,</l>
 <l n="660">sed moriamur&rdquo; ait. &ldquo;Sic, sic iuvat ire sub umbras:</l>
 <l>Hauriat hunc oculis ignem crudelis ab alto</l>
@@ -3228,7 +3358,8 @@ Changed names and redid headers.
 <l n="690">Ter sese attollens cubitoque adnixa levavit;</l>
 <l>ter revoluta toro est, oculisque errantibus alto</l>
 <l>quaesivit caelo lucem, ingemuitque reperta.</l>
-<milestone ed="p" n="693" unit="card"/>
+</div2>
+<div2 n="693" type="card">
 <l>Tum Iuno omnipotens, longum miserata dolorem</l>
 <l>difficilisque obitus, Irim demisit Olympo,</l>
 <l n="695">quae luctantem animam nexosque resolveret artus.</l>
@@ -3241,9 +3372,11 @@ Changed names and redid headers.
 <l>devolat, et supra caput adstitit: &ldquo;Hunc ego Diti</l>
 <l>sacrum iussa fero, teque isto corpore solvo.&rdquo;</l>
 <l>Sic ait, et dextra crinem secat: omnis et una</l>
-<l n="705">dilapsus calor, atque in ventos vita recessit.</l></div1>
+<l n="705">dilapsus calor, atque in ventos vita recessit.</l>
+</div2>
+</div1>
 <div1 type="book" n="5">
-<milestone ed="p" n="1" unit="card"/>
+<div2 n="1" type="card">
 <l>Interea medium Aeneas iam classe tenebat</l>
 <l>certus iter, fluctusque atros Aquilone secabat,</l>
 <l>moenia respiciens, quae iam infelicis Elissae</l>
@@ -3278,7 +3411,8 @@ Changed names and redid headers.
 <l>Haec ubi dicta, petunt portus, et vela secundi</l>
 <l>intendunt Zephyri; fertur cita gurgite classis,</l>
 <l>et tandem laeti notae advertuntur harenae.</l>
-<milestone ed="p" n="35" unit="card"/>
+</div2>
+<div2 n="35" type="card">
 <l n="35">At procul ex celso miratus vertice montis</l>
 <l>adventum sociasque rates occurrit Acestes,</l>
 <l>horridus in iaculis et pelle Libystidis ursae,</l>
@@ -3286,7 +3420,8 @@ Changed names and redid headers.
 <l>quem genuit: veterum non immemor ille parentum</l>
 <l n="40">gratatur reduces, et gaza laetus agresti</l>
 <l>excipit, ac fessos opibus solatur amicis.</l>
-<milestone ed="p" n="42" unit="card"/>
+</div2>
+<div2 n="42" type="card">
 <l>Postera cum primo stellas Oriente fugarat</l>
 <l>clara dies, socios in coetum litore ab omni</l>
 <l>advocat Aeneas, tumulique ex aggere fatur:</l>
@@ -3317,7 +3452,8 @@ Changed names and redid headers.
 <l>seu crudo fidit pugnam committere caestu,</l>
 <l n="70">cuncti adsint, meritaeque exspectent praemia palmae.</l>
 <l>Ore favete omnes, et cingite tempora ramis.&rdquo;</l>
-<milestone ed="p" n="72" unit="card"/>
+</div2>
+<div2 n="72" type="card">
 <l>Sic fatus, velat materna tempora myrto;</l>
 <l>hoc Elymus facit, hoc aevi maturus Acestes,</l>
 <l>hoc puer Ascanius, sequitur quos cetera pubes.</l>
@@ -3350,7 +3486,8 @@ Changed names and redid headers.
 <l>dona ferunt, onerant aras, mactantque iuvencos;</l>
 <l>ordine aena locant alii, fusique per herbam</l>
 <l>subiciunt veribus prunas et viscera torrent.</l>
-<milestone ed="p" n="104" unit="card"/>
+</div2>
+<div2 n="104" type="card">
 <l>Exspectata dies aderat, nonamque serena</l>
 <l n="105">Auroram Phaethontis equi iam luce vehebant,</l>
 <l>famaque finitimos et clari nomen Acestae</l>
@@ -3361,7 +3498,8 @@ Changed names and redid headers.
 <l>et palmae pretium victoribus, armaque et ostro</l>
 <l>perfusae vestes, argenti aurique talenta;</l>
 <l>et tuba commissos medio canit aggere ludos.</l>
-<milestone ed="p" n="114" unit="card"/>
+</div2>
+<div2 n="114" type="card">
 <l>Prima pares ineunt gravibus certamina remis</l>
 <l n="115">quattuor ex omni delectae classe carinae.</l>
 <l>Velocem Mnestheus agit acri remige Pristim,</l>
@@ -3372,7 +3510,8 @@ Changed names and redid headers.
 <l>Sergestusque, domus tenet a quo Sergia nomen,</l>
 <l>Centauro invehitur magna, Scyllaque Cloanthus</l>
 <l>caerulea, genus unde tibi, Romane Cluenti.</l>
-<milestone ed="p" n="124" unit="card"/>
+</div2>
+<div2 n="124" type="card">
 <l>Est procul in pelago saxum spumantia contra</l>
 <l n="125">litora, quod tumidis submersum tunditur olim</l>
 <l>fluctibus, hiberni condunt ubi sidera cori;</l>
@@ -3400,7 +3539,8 @@ Changed names and redid headers.
 <l>Tum plausu fremituque virum studiisque faventum</l>
 <l>consonat omne nemus, vocemque inclusa volutant</l>
 <l n="150">litora, pulsati colles clamore resultant.</l>
-<milestone ed="p" n="151" unit="card"/>
+</div2>
+<div2 n="151" type="card">
 <l>Effugit ante alios primisque elabitur undis</l>
 <l>turbam inter fremitumque Gyas; quem deinde Cloanthus</l>
 <l>consequitur, melior remis, sed pondere pinus</l>
@@ -3433,7 +3573,8 @@ Changed names and redid headers.
 <l n="180">summa petit scopuli siccaque in rupe resedit.</l>
 <l>Ilium et labentem Teucri et risere natantem,</l>
 <l>et salsos rident revomentem pectore fluctus.</l>
-<milestone ed="p" n="183" unit="card"/>
+</div2>
+<div2 n="183" type="card">
 <l>Hic laeta extremis spes est accensa duobus,</l>
 <l>Sergesto Mnestheique, Gyan superare morantem.</l>
 <l n="185">Sergestus capit ante locum scopuloque propinquat,</l>
@@ -3476,7 +3617,8 @@ Changed names and redid headers.
 <l>auxilia, et fractis discentem currere remis</l>
 <l>Inde Gyan ipsamque ingenti mole Chimaeram</l>
 <l>consequitur; cedit, quoniam spoliata magistro est.</l>
-<milestone ed="p" n="225" unit="card"/>
+</div2>
+<div2 n="225" type="card">
 <l n="225">Solus iamque ipso superest in fine Cloanthus:</l>
 <l>quem petit, et summis adnixus viribus urguet.</l>
 <l>Tum vero ingeminat clamor, cunctique sequentem</l>
@@ -3496,7 +3638,8 @@ Changed names and redid headers.
 <l>et pater ipse manu magna Portunus euntem</l>
 <l>impulit; illa Noto citius volucrique sagitta</l>
 <l>ad terram fugit, et portu se condidit alto.</l>
-<milestone ed="p" n="244" unit="card"/>
+</div2>
+<div2 n="244" type="card">
 <l>Tum satus Anchisa, cunctis ex more vocatis,</l>
 <l n="245">victorem magna praeconis voce Cloanthum</l>
 <l>declarat viridique advelat tempora lauro,</l>
@@ -3539,7 +3682,8 @@ Changed names and redid headers.
 <l>servatam ob navem laetus sociosque reductos.</l>
 <l>Olli serva datur, operum haud ignara Minervae,</l>
 <l n="285">Cressa genus, Pholo&euml;, geminique sub ubere nati.</l>
-<milestone ed="p" n="286" unit="card"/>
+</div2>
+<div2 n="286" type="card">
 <l>Hoc pius Aeneas misso certamine tendit</l>
 <l>gramineum in campum, quem collibus undique curvis</l>
 <l>cingebant silvae, mediaque in valle theatri</l>
@@ -3569,7 +3713,8 @@ Changed names and redid headers.
 <l>Thre&iuml;ciis, lato quam circum amplectitur auro</l>
 <l>balteus et tereti subnectit fibula gemma;</l>
 <l>tertius Argolica hac galea contentus abito.&rdquo;</l>
-<milestone ed="p" n="315" unit="card"/>
+</div2>
+<div2 n="315" type="card">
 <l n="315">Haec ubi dicta, locum capiunt, signoque repente</l>
 <l>corripiunt spatia audito, limenque relinquunt,</l>
 <l>effusi nimbo similes, simul ultima signant.</l>
@@ -3603,7 +3748,8 @@ Changed names and redid headers.
 <l n="345">Adiuvat et magna proclamat voce Diores,</l>
 <l>qui subiit palmae, frustraque ad praemia venit</l>
 <l>ultima, si primi Salio reddentur honores.</l>
-<milestone ed="p" n="348" unit="card"/>
+</div2>
+<div2 n="348" type="card">
 <l>Tum pater Aeneas &ldquo;Vestra&rdquo; inquit &ldquo;munera vobis</l>
 <l>certa manent, pueri, et palmam movet ordine nemo;</l>
 <l n="350">me liceat casus misereri insontis amici.&rdquo;</l>
@@ -3618,7 +3764,8 @@ Changed names and redid headers.
 <l>et clipeum efferri iussit, Didymaonis artem,</l>
 <l n="360">Neptuni sacro Danais de poste refixum.</l>
 <l>Hoc iuvenem egregium praestanti munere donat;</l>
-<milestone ed="p" n="362" unit="card"/>
+</div2>
+<div2 n="362" type="card">
 <l>Post, ubi confecti cursus, et dona peregit:</l>
 <l>&ldquo;Nunc, si cui virtus animusque in pectore praesens,</l>
 <l>adsit, et evinctis attollat brachia palmis.&rdquo;</l>
@@ -3644,7 +3791,8 @@ Changed names and redid headers.
 <l>quae finis standi? Quo me decet usque teneri?</l>
 <l n="385">Ducere dona iube.&rdquo; Cuncti simul ore fremebant</l>
 <l>Dardanidae, reddique viro promissa iubebant.</l>
-<milestone ed="p" n="387" unit="card"/>
+</div2>
+<div2 n="387" type="card">
 <l>Hic gravis Entellum dictis castigat Acestes,</l>
 <l>proximus ut viridante toro consederat herbae:</l>
 <l>&ldquo;Entelle, heroum quondam fortissime frustra,</l>
@@ -3679,7 +3827,8 @@ Changed names and redid headers.
 <l>idque pio sedet Aeneae, prohat auctor Acestes,</l>
 <l>aequemus pugnas. Erycis tibi terga remitto;</l>
 <l n="420">solve metus; et tu Troianos exue caestus.&rdquo;</l>
-<milestone ed="p" n="421" unit="card"/>
+</div2>
+<div2 n="421" type="card">
 <l>Haec fatus, duplicem ex umeris reiecit amictum</l>
 <l>et magnos membrorum artus, magna ossa lacertosque</l>
 <l>exuit, atque ingens media consistit harena.</l>
@@ -3720,7 +3869,8 @@ Changed names and redid headers.
 <l>nec mora, nec requies: quam multa grandine nimbi</l>
 <l>culminibus crepitant, sic densis ictibus heros</l>
 <l n="460">creber utraque manu pulsat versatque Dareta.</l>
-<milestone ed="p" n="461" unit="card"/>
+</div2>
+<div2 n="461" type="card">
 <l>Tum pater Aeneas procedere longius iras</l>
 <l>et saevire animis Entellum haud passus acerbis;</l>
 <l>sed finem imposuit pugnae, fessumque Dareta</l>
@@ -3745,7 +3895,8 @@ Changed names and redid headers.
 <l>Ille super tales effundit pectore voces:</l>
 <l>&ldquo;Hanc tibi, Eryx, meliorem animam pro morte Daretis</l>
 <l>persolvo; hic victor caestus artemque repono.&rdquo;</l>
-<milestone ed="p" n="485" unit="card"/>
+</div2>
+<div2 n="485" type="card">
 <l n="485">Protinus Aeneas celeri certare sagitta</l>
 <l>invitat qui forte velint, et praemia ponit,</l>
 <l>ingentique manu malum de nave Seresti</l>
@@ -3780,7 +3931,8 @@ Changed names and redid headers.
 <l>plaudentem nigra figit sub nube columbam.</l>
 <l>Decidit exanimis, vitamque reliquit in astris</l>
 <l>aetheriis, fixamque refert delapsa sagittam.</l>
-<milestone ed="p" n="519" unit="card"/>
+</div2>
+<div2 n="519" type="card">
 <l>Amissa solus palma superabat Acestes;</l>
 <l n="520">qui tamen aerias telum contendit in auras,</l>
 <l>ostentans artemque pater arcumque sonantem.</l>
@@ -3807,7 +3959,8 @@ Changed names and redid headers.
 <l>quamvis solus avem caelo deiecit ab alto.</l>
 <l>Proximus ingreditur donis, qui vincula rupit;</l>
 <l>extremus, volucri qui fixit arundine malum.</l>
-<milestone ed="p" n="545" unit="card"/>
+</div2>
+<div2 n="545" type="card">
 <l n="545">At pater Aeneas, nondum certamine misso,</l>
 <l>custodem ad sese comitemque impubis Iuli</l>
 <l>Epytiden vocat, et fidam sic fatur ad aurem:</l>
@@ -3838,7 +3991,8 @@ Changed names and redid headers.
 <l>esse sui dederat monumentum et pignus amoris.</l>
 <l>Cetera Trinacrii pubes senioris Acestae</l>
 <l part="Y">fertur equis.</l>
-<milestone ed="p" n="575" unit="card"/>
+</div2>
+<div2 n="575" type="card">
 <l n="575">Excipiunt plausu pavidos, gaudentque tuentes</l>
 <l>Dardanidae, veterumque adgnoscunt ora parentum.</l>
 <l>Postquam omnem laeti consessum oculosque suorum</l>
@@ -3868,7 +4022,8 @@ Changed names and redid headers.
 <l>accepit Roma, et patrium servavit honorem;</l>
 <l>Troiaque nunc pueri, Troianum dicitur agmen.</l>
 <l>Hac celebrata tenus sancto certamina patri.</l>
-<milestone ed="p" n="604" unit="card"/>
+</div2>
+<div2 n="604" type="card">
 <l>Hic primum fortuna fidem mutata novavit.</l>
 <l n="605">Dum variis tumulo referunt sollemnia ludis,</l>
 <l>Irim de caelo misit Saturnia Iuno</l>
@@ -3888,7 +4043,8 @@ Changed names and redid headers.
 <l n="620">fit Bero&euml;, Tmarii coniunx longaeva Dorycli,</l>
 <l>cui genus et quondam nomen natique fuissent;</l>
 <l>ac sic Dardanidum mediam se matribus infert:</l>
-<milestone ed="p" n="623" unit="card"/>
+</div2>
+<div2 n="623" type="card">
 <l>&ldquo;O miserae, quas non manus&rdquo; inquit &ldquo;Acha&iuml;ca bello</l>
 <l>traxerit ad letum patriae sub moenibus! O gens</l>
 <l n="625">infelix, cui te exitio Fortuna reservat?</l>
@@ -3930,7 +4086,8 @@ Changed names and redid headers.
 <l>pars spoliant aras, frondem ac virgulta facesque</l>
 <l>coniciunt. Furit immissis Volcanus habenis</l>
 <l>transtra per et remos et pictas abiete puppes.</l>
-<milestone ed="p" n="664" unit="card"/>
+</div2>
+<div2 n="664" type="card">
 <l>Nuntius Anchisae ad tumulum cuneosque theatri</l>
 <l n="665">incensas perfert naves Eumelus, et ipsi</l>
 <l>respiciunt atram in nimbo volitare favillam.</l>
@@ -3947,7 +4104,8 @@ Changed names and redid headers.
 <l>diffugiunt, silvasque et sicubi concava furtim</l>
 <l>saxa petunt; piget incepti lucisque, suosque</l>
 <l>mutatae adgnoscunt, excussaque pectore Iuno est.</l>
-<milestone ed="p" n="680" unit="card"/>
+</div2>
+<div2 n="680" type="card">
 <l n="680">Sed non idcirco flammae atque incendia vires</l>
 <l>indomitas posuere; udo sub robore vivit</l>
 <l>stuppa vomens tardum fumum, lentusque carinas</l>
@@ -3968,7 +4126,8 @@ Changed names and redid headers.
 <l>implenturque super puppes; semiusta madescunt</l>
 <l>robora; restinctus donec vapor omnis, et omnes,</l>
 <l>quattuor amissis, servatae a peste carinae.</l>
-<milestone ed="p" n="700" unit="card"/>
+</div2>
+<div2 n="700" type="card">
 <l n="700">At pater Aeneas, casu concussus acerbo,</l>
 <l>nunc huc ingentes, nunc illuc pectore curas</l>
 <l>mutabat versans, Siculisne resideret arvis,</l>
@@ -3988,7 +4147,8 @@ Changed names and redid headers.
 <l>et quidquid tecum invalidum metuensque pericli est,</l>
 <l>delige, et his habeant terris sine moenia fessi:</l>
 <l>urbem appellabunt permisso nomine Acestam.&rdquo;</l>
-<milestone ed="p" n="719" unit="card"/>
+</div2>
+<div2 n="719" type="card">
 <l>Talibus incensus dictis senioris amici,</l>
 <l n="720">tum vero in curas animo diducitur omnes.</l>
 <l>Et nox atra polum bigis subvecta tenebat:</l>
@@ -4016,7 +4176,8 @@ Changed names and redid headers.
 <l>Haec memorans cinerem et sopitos suscitat ignes,</l>
 <l>Pergameumque Larem et canae penetralia Vestae</l>
 <l n="745">farre pio et plena supplex veneratur acerra.</l>
-<milestone ed="p" n="746" unit="card"/>
+</div2>
+<div2 n="746" type="card">
 <l>Extemplo socios primumque arcessit Acesten,</l>
 <l>et Iovis imperium et cari praecepta parentis</l>
 <l>edocet, et quae nunc animo sententia constet.</l>
@@ -4033,7 +4194,8 @@ Changed names and redid headers.
 <l>Tum vicina astris, Erycino in vertice sedes</l>
 <l n="760">fundatur Veneri Idaliae, tumuloque sacerdos</l>
 <l>ac lucus late sacer additur Anchiseo.</l>
-<milestone ed="p" n="762" unit="card"/>
+</div2>
+<div2 n="762" type="card">
 <l>Iamque dies epulata novem gens omnis, et aris</l>
 <l>factus honos: placidi straverunt aequora venti,</l>
 <l>creber et adspirans rursus vocat Auster in altum.</l>
@@ -4051,7 +4213,8 @@ Changed names and redid headers.
 <l>proiicit in fluctus ac vina liquentia fundit.</l>
 <l>Prosequitur surgens a puppi ventus euntes.</l>
 <l>Certatim socii feriunt mare et aequora verrunt.</l>
-<milestone ed="p" n="779" unit="card"/>
+</div2>
+<div2 n="779" type="card">
 <l>At Venus interea Neptunum exercita curis</l>
 <l n="780">adloquitur, talesque effundit pectore questus:</l>
 <l>Iunonis gravis ira nec exsaturabile pectus</l>
@@ -4072,7 +4235,8 @@ Changed names and redid headers.
 <l>Quod superest, oro, liceat dare tuta per undas</l>
 <l>vela tibi, liceat Laurentem attingere Thybrim:</l>
 <l>si concessa peto, si dant ea moenia Parcae.&rdquo;</l>
-<milestone ed="p" n="799" unit="card"/>
+</div2>
+<div2 n="799" type="card">
 <l>Tum Saturnius haec domitor maris edidit alti:</l>
 <l n="800">&ldquo;Fas omne est, Cytherea, meis te fidere regnis,</l>
 <l>unde genus ducis: merui quoque; saepe furores</l>
@@ -4101,7 +4265,8 @@ Changed names and redid headers.
 <l>Tritonesque citi, Phorcique exercitus omnis;</l>
 <l n="825">laeva tenent Thetis, et Melite, Panopeaque virgo,</l>
 <l>Nisaee, Spioque, Thaliaque, Cymodoceque.</l>
-<milestone ed="p" n="827" unit="card"/>
+</div2>
+<div2 n="827" type="card">
 <l>Hic patris Aeneae suspensam blanda vicissim</l>
 <l>gaudia pertemptant mentem: iubet ocius omnes</l>
 <l>attolli malos, intendi brachia velis.</l>
@@ -4127,7 +4292,8 @@ Changed names and redid headers.
 <l>ignorare iubes? Mene huic confidere monstro?</l>
 <l n="850">Aenean credam quid enim fallacibus auris</l>
 <l>et caelo, totiens deceptus fraude sereni?&rdquo;</l>
-<milestone ed="p" n="852" unit="card"/>
+</div2>
+<div2 n="852" type="card">
 <l>Talia dicta dabat, clavumque affixus et haerens</l>
 <l>nusquam amittebat, oculosque sub astra tenebat.</l>
 <l>Ecce deus ramum Lethaeo rore madentem,</l>
@@ -4147,9 +4313,11 @@ Changed names and redid headers.
 <l>sensit, et ipse ratem nocturnis rexit in undis,</l>
 <l>multa gemens, casuque animum concussus amici</l>
 <l n="870">&ldquo;O nimium caelo et pelago confise sereno,</l>
-<l>nudus in ignota, Palinure, iacebis harena!&rdquo;</l></div1>
+<l>nudus in ignota, Palinure, iacebis harena!&rdquo;</l>
+</div2>
+</div1>
 <div1 type="book" n="6">
-<milestone ed="p" n="1" unit="card"/>
+<div2 n="1" type="card">
 <l>Sic fatur lacrimans, classique immittit habenas,</l>
 <l>et tandem Eubo&iuml;cis Cumarum adlabitur oris.</l>
 <l>Obvertunt pelago proras; tum dente tenaci</l>
@@ -4163,7 +4331,8 @@ Changed names and redid headers.
 <l>antrum immane petit, magnum cui mentem animumque</l>
 <l>Delius inspirat vates, aperitque futura.</l>
 <l>Iam subeunt Triviae lucos atque aurea tecta.</l>
-<milestone ed="p" n="14" unit="card"/>
+</div2>
+<div2 n="14" type="card">
 <l>Daedalus, ut fama est, fugiens Mino&iuml;a regna,</l>
 <l n="15">praepetibus pennis ausus se credere caelo,</l>
 <l>insuetum per iter gelidas enavit ad Arctos,</l>
@@ -4192,7 +4361,8 @@ Changed names and redid headers.
 <l>praestiterit, totidem lectas de more bidentes.&rdquo;</l>
 <l n="40">Talibus adfata Aenean (nec sacra morantur</l>
 <l>iussa viri), Teucros vocat alta in templa sacerdos.</l>
-<milestone ed="p" n="42" unit="card"/>
+</div2>
+<div2 n="42" type="card">
 <l>Excisum Euboicae latus ingens rupis in antrum,</l>
 <l>quo lati ducunt aditus centum, ostia centum;</l>
 <l>unde ruunt totidem voces, responsa Sibyllae.</l>
@@ -4228,7 +4398,8 @@ Changed names and redid headers.
 <l>alma, viros. Foliis tantum ne carmina manda,</l>
 <l n="75">ne turbata volent rapidis ludibria ventis;</l>
 <l>ipsa canas oro.&rdquo; Finem dedit ore loquendi.</l>
-<milestone ed="p" n="77" unit="card"/>
+</div2>
+<div2 n="77" type="card">
 <l>At, Phoebi nondum patiens, immanis in antro</l>
 <l>bacchatur vates, magnum si pectore possit</l>
 <l>excussisse deum; tanto magis ille fatigat</l>
@@ -4250,7 +4421,8 @@ Changed names and redid headers.
 <l n="95">Tu ne cede malis, sed contra audentior ito,</l>
 <l>qua tua te Fortuna sinet. Via prima salutis,</l>
 <l>quod minime reris, Graia pandetur ab urbe.&rdquo;</l>
-<milestone ed="p" n="98" unit="card"/>
+</div2>
+<div2 n="98" type="card">
 <l>Talibus ex adyto dictis Cumaea Sibylla</l>
 <l>horrendas canit ambages antroque remugit,</l>
 <l n="100">obscuris vera involvens: ea frena furenti</l>
@@ -4277,7 +4449,8 @@ Changed names and redid headers.
 <l>si fratrem Pollux alterna morte redemit,</l>
 <l>itque reditque viam totiens. Quid Thesea, magnum</l>
 <l>quid memorem Alciden? Et mi genus ab Iove summo.&rdquo;</l>
-<milestone ed="p" n="124" unit="card"/>
+</div2>
+<div2 n="124" type="card">
 <l>Talibus orabat dictis, arasque tenebat,</l>
 <l n="125">cum sic orsa loqui vates: &ldquo;Sate sanguine divom,</l>
 <l>Tros Anchisiade, facilis descensus Averno;</l>
@@ -4310,7 +4483,8 @@ Changed names and redid headers.
 <l>Duc nigras pecudes; ea prima piacula sunto:</l>
 <l>sic demum lucos Stygis et regna invia vivis</l>
 <l n="155">aspicies.&rdquo; Dixit, pressoque obmutuit ore.</l>
-<milestone ed="p" n="156" unit="card"/>
+</div2>
+<div2 n="156" type="card">
 <l>Aeneas maesto defixus lumina voltu</l>
 <l>ingreditur, linquens antrum, caecosque volutat</l>
 <l>eventus animo secum. Cui fidus Achates</l>
@@ -4338,7 +4512,8 @@ Changed names and redid headers.
 <l n="180">procumbunt piceae, sonat icta securibus ilex,</l>
 <l>fraxineaeque trabes cuneis et fissile robur</l>
 <l>scinditur, advolvunt ingentis montibus ornos.</l>
-<milestone ed="p" n="183" unit="card"/>
+</div2>
+<div2 n="183" type="card">
 <l>Nec non Aeneas opera inter talia primus</l>
 <l>hortatur socios, paribusque accingitur armis.</l>
 <l n="185">Atque haec ipse suo tristi cum corde volutat,</l>
@@ -4368,7 +4543,8 @@ Changed names and redid headers.
 <l>ilice, sic leni crepitabat brattea vento.</l>
 <l n="210">Corripit Aeneas extemplo avidusque refringit</l>
 <l>cunctantem, et vatis portat sub tecta Sibyllae.</l>
-<milestone ed="p" n="212" unit="card"/>
+</div2>
+<div2 n="212" type="card">
 <l>Nec minus interea Misenum in litore Teucri</l>
 <l>flebant, et cineri ingrato suprema ferebant.</l>
 <l>Principio pinguem taedis et robore secto</l>
@@ -4393,7 +4569,8 @@ Changed names and redid headers.
 <l>imponit, suaque arma viro, remumque tubamque,</l>
 <l>monte sub a&euml;rio, qui nunc &ldquo;Misenus&rdquo; ab illo</l>
 <l n="235">dicitur, aeternumque tenet per saecula nomen.</l>
-<milestone ed="p" n="236" unit="card"/>
+</div2>
+<div2 n="236" type="card">
 <l>His actis, propere exsequitur praecepta Sibyllae.</l>
 <l>Spelunca alta fuit vastoque immanis hiatu,</l>
 <l>scrupea, tuta lacu nigro nemorumque tenebris,</l>
@@ -4422,12 +4599,14 @@ Changed names and redid headers.
 <l>nunc animis opus, Aenea, nunc pectore firmo.&rdquo;</l>
 <l>Tantum effata, furens antro se immisit aperto;</l>
 <l>ille ducem haud timidis vadentem passibus aequat.</l>
-<milestone ed="p" n="264" unit="card"/>
+</div2>
+<div2 n="264" type="card">
 <l>Di, quibus imperium est animarum, umbraeque silentes,</l>
 <l n="265">et Chaos, et Phlegethon, loca nocte tacentia late,</l>
 <l>sit mihi fas audita loqui; sit numine vestro</l>
 <l>pandere res alta terra et caligine mersas!</l>
-<milestone ed="p" n="268" unit="card"/>
+</div2>
+<div2 n="268" type="card">
 <l>Ibant obscuri sola sub nocte per umbram,</l>
 <l>perque domos Ditis vacuas et inania regna:</l>
 <l n="270">quale per incertam lunam sub luce maligna</l>
@@ -4442,7 +4621,8 @@ Changed names and redid headers.
 <l>Gaudia, mortiferumque adverso in limine Bellum,</l>
 <l n="280">ferreique Eumenidum thalami, et Discordia demens,</l>
 <l>vipereum crinem vittis innexa cruentis.</l>
-<milestone ed="p" n="282" unit="card"/>
+</div2>
+<div2 n="282" type="card">
 <l>In medio ramos annosaque brachia pandit</l>
 <l>ulmus opaca, ingens, quam sedem Somnia volgo</l>
 <l>vana tenere ferunt, foliisque sub omnibus haerent.</l>
@@ -4456,7 +4636,8 @@ Changed names and redid headers.
 <l>et, ni docta comes tenues sine corpore vitas</l>
 <l>admoneat volitare cava sub imagine formae,</l>
 <l>inruat, et frustra ferro diverberet umbras.</l>
-<milestone ed="p" n="295" unit="card"/>
+</div2>
+<div2 n="295" type="card">
 <l n="295">Hinc via, Tartarei quae fert Acherontis ad undas.</l>
 <l>Turbidus hic caeno vastaque voragine gurges</l>
 <l>aestuat, atque omnem Cocyto eructat harenam.</l>
@@ -4499,7 +4680,8 @@ Changed names and redid headers.
 <l>Leucaspim et Lyciae ductorem classis Oronten,</l>
 <l n="335">quos, simul ab Troia ventosa per aequora vectos,</l>
 <l>obruit Auster, aqua involvens navemque virosque.</l>
-<milestone ed="p" n="337" unit="card"/>
+</div2>
+<div2 n="337" type="card">
 <l>Ecce gubernator sese Palinurus agebat,</l>
 <l>qui Libyco nuper cursu, dum sidera servat,</l>
 <l>exciderat puppi mediis effusus in undis.</l>
@@ -4547,7 +4729,8 @@ Changed names and redid headers.
 <l>aeternumque locus Palinuri nomen habebit.&rdquo;</l>
 <l>His dictis curae emotae, pulsusque parumper</l>
 <l>corde dolor tristi: gaudet cognomine terrae.</l>
-<milestone ed="p" n="384" unit="card"/>
+</div2>
+<div2 n="384" type="card">
 <l>Ergo iter inceptum peragunt fluvioque propinquant.</l>
 <l n="385">Navita quos iam inde ut Stygia prospexit ab unda</l>
 <l>per tacitum nemus ire pedemque advertere ripae,</l>
@@ -4581,7 +4764,8 @@ Changed names and redid headers.
 <l>sutilis, et multam accepit rimosa paludem.</l>
 <l n="415">Tandem trans fluvium incolumis vatemque virumque</l>
 <l>informi limo glaucaque exponit in ulva.</l>
-<milestone ed="p" n="417" unit="card"/>
+</div2>
+<div2 n="417" type="card">
 <l>Cerberus haec ingens latratu regna trifauci</l>
 <l>personat, adverso recubans immanis in antro.</l>
 <l>Cui vates, horrere videns iam colla colubris,</l>
@@ -4591,7 +4775,8 @@ Changed names and redid headers.
 <l>fusus humi, totoque ingens extenditur antro.</l>
 <l>Occupat Aeneas aditum custode sepulto,</l>
 <l n="425">evaditque celer ripam inremeabilis undae.</l>
-<milestone ed="p" n="426" unit="card"/>
+</div2>
+<div2 n="426" type="card">
 <l>Continuo auditae voces, vagitus et ingens,</l>
 <l>infantumque animae flentes in limine primo,</l>
 <l>quos dulcis vitae exsortes et ab ubere raptos</l>
@@ -4643,7 +4828,8 @@ Changed names and redid headers.
 <l>respondet curis aequatque Sychaeus amorem.</l>
 <l n="475">Nec minus Aeneas, casu concussus iniquo,</l>
 <l>prosequitur lacrimis longe, et miseratur euntem.</l>
-<milestone ed="p" n="477" unit="card"/>
+</div2>
+<div2 n="477" type="card">
 <l>Inde datum molitur iter. Iamque arva tenebant</l>
 <l>ultima, quae bello clari secreta frequentant.</l>
 <l>Hic illi occurrit Tydeus, hic inclutus armis</l>
@@ -4661,7 +4847,8 @@ Changed names and redid headers.
 <l>ingenti trepidare metu; pars vertere terga,</l>
 <l>ceu quondam petiere rates; pars tollere vocem</l>
 <l>exiguam, inceptus clamor frustratur hiantes.</l>
-<milestone ed="p" n="494" unit="card"/>
+</div2>
+<div2 n="494" type="card">
 <l>Atque hic Priamiden laniatum corpore toto</l>
 <l n="495">Deiphobum videt et lacerum crudeliter ora,</l>
 <l>ora manusque ambas, populataque tempora raptis</l>
@@ -4703,7 +4890,8 @@ Changed names and redid headers.
 <l>attulerint. Pelagine venis erroribus actus,</l>
 <l>an monitu divom? An quae te Fortuna fatigat,</l>
 <l>ut tristes sine sole domos, loca turbida, adires?&rdquo;</l>
-<milestone ed="p" n="535" unit="card"/>
+</div2>
+<div2 n="535" type="card">
 <l n="535">Hac vice sermonum rose&iuml;s Aurora quadrigis</l>
 <l>iam medium aetherio cursu traiecerat axem;</l>
 <l>et fors omne datum traherent per talia tempus;</l>
@@ -4717,7 +4905,8 @@ Changed names and redid headers.
 <l n="545">discedam, explebo numerum, reddarque tenebris.</l>
 <l>I decus, i, nostrum; melioribus utere fatis!&rdquo;</l>
 <l>Tantum effatus, et in verbo vestigia torsit.</l>
-<milestone ed="p" n="548" unit="card"/>
+</div2>
+<div2 n="548" type="card">
 <l>Respicit Aeneas subito, et sub rupe sinistra</l>
 <l>moenia lata videt, triplici circumdata muro,</l>
 <l n="550">quae rapidus flammis ambit torrentibus amnis,</l>
@@ -4746,7 +4935,8 @@ Changed names and redid headers.
 <l>Tum demum horrisono stridentes cardine sacrae</l>
 <l>panduntur portae. Cernis custodia qualis</l>
 <l n="575">vestibulo sedeat, facies quae limina servet?</l>
-<milestone ed="p" n="576" unit="card"/>
+</div2>
+<div2 n="576" type="card">
 <l>Quinquaginta atris immanis hiatibus Hydra</l>
 <l>saevior intus habet sedem. Tum Tartarus ipse</l>
 <l>bis patet in praeceps tantum tenditque sub umbras,</l>
@@ -4799,7 +4989,8 @@ Changed names and redid headers.
 <l n="625">Non, mihi si linguae centum sint oraque centum,</l>
 <l>ferrea vox, omnis scelerum comprendere formas,</l>
 <l>omnia poenarum percurrere nomina possim.&rdquo;</l>
-<milestone ed="p" n="628" unit="card"/>
+</div2>
+<div2 n="628" type="card">
 <l>Haec ubi dicta dedit Phoebi longaeva sacerdos:</l>
 <l>&ldquo;Sed iam age, carpe viam et susceptum perfice munus;</l>
 <l n="630">adceleremus&rdquo; ait; &ldquo;Cyclopum educta caminis</l>
@@ -4809,7 +5000,8 @@ Changed names and redid headers.
 <l>corripiunt spatium medium, foribusque propinquant.</l>
 <l n="635">Occupat Aeneas aditum, corpusque recenti</l>
 <l>spargit aqua, ramumque adverso in limine figit.</l>
-<milestone ed="p" n="637" unit="card"/>
+</div2>
+<div2 n="637" type="card">
 <l>His demum exactis, perfecto munere divae,</l>
 <l>devenere locos laetos et amoena virecta</l>
 <l>fortunatorum nemorum sedesque beatas.</l>
@@ -4852,7 +5044,8 @@ Changed names and redid headers.
 <l>hoc superate iugum; et facili iam tramite sistam.&rdquo;</l>
 <l>Dixit, et ante tulit gressum, camposque nitentis</l>
 <l>desuper ostentat; dehinc summa cacumina linquunt.</l>
-<milestone ed="p" n="679" unit="card"/>
+</div2>
+<div2 n="679" type="card">
 <l>At pater Anchises penitus convalle virenti</l>
 <l n="680">inclusas animas superumque ad lumen ituras</l>
 <l>lustrabat studio recolens, omnemque suorum</l>
@@ -4877,7 +5070,8 @@ Changed names and redid headers.
 <l n="700">Ter conatus ibi collo dare brachia circum,</l>
 <l>ter frustra comprensa manus effugit imago,</l>
 <l><del>par levibus ventis volucrique simillima somno.</del></l>
-<milestone ed="p" n="703" unit="card"/>
+</div2>
+<div2 n="703" type="card">
 <l>Interea videt Aeneas in valle reducta</l>
 <l>seclusum nemus et virgulta sonantia silvis,</l>
 <l n="705">Lethaeumque, domos placidas qui praenatat, amnem.</l>
@@ -4899,7 +5093,8 @@ Changed names and redid headers.
 <l>corpora? Quae lucis miseris tam dira cupido?&rdquo;</l>
 <l>&ldquo;Dicam equidem, nec te suspensum, nate, tenebo&rdquo;</l>
 <l>suscipit Anchises, atque ordine singula pandit.</l>
-<milestone ed="p" n="724" unit="card"/>
+</div2>
+<div2 n="724" type="card">
 <l>&ldquo;Principio caelum ac terras camposque liquentis</l>
 <l n="725">lucentemque globum Lunae Titaniaque astra</l>
 <l>spiritus intus alit, totamque infusa per artus</l>
@@ -4928,12 +5123,14 @@ Changed names and redid headers.
 <l>Lethaeum ad fluvium deus evocat agmine magno,</l>
 <l n="750">scilicet immemores supera ut convexa revisant,</l>
 <l>rursus et incipiant in corpora velle reverti.&rdquo;</l>
-<milestone ed="p" n="752" unit="card"/>
+</div2>
+<div2 n="752" type="card">
 <l>Dixerat Anchises, natumque unaque Sibyllam</l>
 <l>conventus trahit in medios turbamque sonantem,</l>
 <l>et tumulum capit, unde omnes longo ordine possit</l>
 <l n="755">adversos legere, et venientum discere vultus.</l>
-<milestone ed="p" n="756" unit="card"/>
+</div2>
+<div2 n="756" type="card">
 <l>&ldquo;Nunc age, Dardaniam prolem quae deinde sequatur</l>
 <l>gloria, qui maneant Itala de gente nepotes,</l>
 <l>inlustris animas nostrumque in nomen ituras,</l>
@@ -4979,7 +5176,8 @@ Changed names and redid headers.
 <l>Huius in adventum iam nunc et Caspia regna</l>
 <l>responsis horrent divom et Maeotia tellus,</l>
 <l n="800">et septemgemini turbant trepida ostia Nili.</l>
-<milestone ed="p" n="801" unit="card"/>
+</div2>
+<div2 n="801" type="card">
 <l>Nec vero Alcides tantum telluris obivit,</l>
 <l>fixerit aeripedem cervam licet, aut Erymanthi</l>
 <l>pacarit nemora, et Lernam tremefecerit arcu;</l>
@@ -5033,7 +5231,8 @@ Changed names and redid headers.
 <l>tu regere imperio populos, Romane, memento;</l>
 <l>hae tibi erunt artes; pacisque imponere morem,</l>
 <l>parcere subiectis, et debellare superbos.&rdquo;</l>
-<milestone ed="p" n="854" unit="card"/>
+</div2>
+<div2 n="854" type="card">
 <l>Sic pater Anchises, atque haec mirantibus addit:</l>
 <l n="855">&ldquo;Aspice, ut insignis spoliis Marcellus opimis</l>
 <l>ingreditur, victorque viros supereminet omnes!</l>
@@ -5073,7 +5272,8 @@ Changed names and redid headers.
 <l n="890">exin bella viro memorat quae deinde gerenda,</l>
 <l>Laurentisque docet populos urbemque Latini,</l>
 <l>et quo quemque modo fugiatque feratque laborem.</l>
-<milestone ed="p" n="893" unit="card"/>
+</div2>
+<div2 n="893" type="card">
 <l>Sunt geminae Somni portae, quarum altera fertur</l>
 <l>cornea, qua veris facilis datur exitus umbris;</l>
 <l n="895">altera candenti perfecta nitens elephanto,</l>
@@ -5082,14 +5282,17 @@ Changed names and redid headers.
 <l>prosequitur dictis, portaque emittit eburna,</l>
 <l>ille viam secat ad naves sociosque revisit:</l>
 <l n="900">tum se ad Caietae recto fert litore portum.</l>
-<l><del>Ancora de prora iacitur, stant litore puppes.</del></l></div1>
+<l><del>Ancora de prora iacitur, stant litore puppes.</del></l>
+</div2>
+</div1>
 <div1 type="book" n="7">
-<milestone ed="p" n="1" unit="card"/>
+<div2 n="1" type="card">
 <l>Tu quoque litoribus nostris, Aeneia nutrix,</l>
 <l>aeternam moriens famam, Caieta, dedisti;</l>
 <l>et nunc servat honos sedem tuus ossaque nomen</l>
 <l>Hesperia in magna, siqua est ea gloria, signat.</l>
-<milestone ed="p" n="5" unit="card"/>
+</div2>
+<div2 n="5" type="card">
 <l n="5">At pius exsequiis Aeneas rite solutis,</l>
 <l>aggere composito tumuli, postquam alta quierunt</l>
 <l>aequora, tendit iter velis portumque relinquit.</l>
@@ -5110,7 +5313,8 @@ Changed names and redid headers.
 <l>delati in portus neu litora dira subirent,</l>
 <l>Neptunus ventis implevit vela secundis</l>
 <l>atque fugam dedit et praeter vada fervida vexit.</l>
-<milestone ed="p" n="25" unit="card"/>
+</div2>
+<div2 n="25" type="card">
 <l n="25">Iamque rubescebat radiis mare et aethere ab alto</l>
 <l>Aurora in roseis fulgebat lutea bigis:</l>
 <l>cum venti posuere omnisque repente resedit</l>
@@ -5123,7 +5327,8 @@ Changed names and redid headers.
 <l>aethera mulcebant cantu lucoque volabant.</l>
 <l n="35">flectere iter sociis terraeque advertere proras</l>
 <l>imperat et laetus fluvio succedit opaco.</l>
-<milestone ed="p" n="37" unit="card"/>
+</div2>
+<div2 n="37" type="card">
 <l>Nunc age, qui reges, Erato, quae tempora rerum,</l>
 <l>quis Latio antiquo fuerit status, advena classem</l>
 <l>cum primum Ausoniis exercitus appulit oris,</l>
@@ -5168,7 +5373,8 @@ Changed names and redid headers.
 <l>Id vero horrendum ac visu mirabile ferri:</l>
 <l>namque fore inlustrem fama fatisque canebant</l>
 <l n="80">ipsam, sed populo magnum portendere bellum.</l>
-<milestone ed="p" n="81" unit="card"/>
+</div2>
+<div2 n="81" type="card">
 <l>At rex sollicitus monstris oracula Fauni,</l>
 <l>fatidici; genitoris, adit lucosque sub alta</l>
 <l>consulit Albunea, nemorum quae maxima sacro</l>
@@ -5195,7 +5401,8 @@ Changed names and redid headers.
 <l>sed circum late volitans iam Fama per urbes</l>
 <l n="105">Ausonias tulerat, cum Laomedontia pubes</l>
 <l>gramineo ripae religavit ab aggere classem.</l>
-<milestone ed="p" n="107" unit="card"/>
+</div2>
+<div2 n="107" type="card">
 <l>Aeneas primique duces et pulcher Iulus</l>
 <l>corpora sub ramis deponunt arboris altae</l>
 <l>instituuntque dapes et adorea liba per herbam</l>
@@ -5224,7 +5431,8 @@ Changed names and redid headers.
 <l>vestigemus et a portu diversa petamus.</l>
 <l>Nunc pateras libate Iovi precibusque vocate</l>
 <l>Anchisen genitorem, et vina reponite mensis.&rdquo;</l>
-<milestone ed="p" n="135" unit="card"/>
+</div2>
+<div2 n="135" type="card">
 <l n="135">Sic deinde effatus frondenti tempora ramo</l>
 <l>implicat et geniumque loci primamque deorum</l>
 <l>Tellurem nymphasque et adhuc ignota precatur</l>
@@ -5238,7 +5446,8 @@ Changed names and redid headers.
 <l n="145">advenisse diem, quo debita moenia condant.</l>
 <l>Certatim instaurant epulas atque omine magno</l>
 <l>crateras laeti statuunt et vina coronant.</l>
-<milestone ed="p" n="148" unit="card"/>
+</div2>
+<div2 n="148" type="card">
 <l>Postera cum prima lustrabat lampade terras</l>
 <l>orta dies, urbem et finis et litora gentis</l>
 <l n="150">diversi explorant: haec fontis stagna Numici,</l>
@@ -5261,7 +5470,8 @@ Changed names and redid headers.
 <l>nuntius ingentis ignota in veste reportat</l>
 <l>advenisse viros. Ille intra tecta vocari</l>
 <l>imperat et solio medius consedit avito.</l>
-<milestone ed="p" n="170" unit="card"/>
+</div2>
+<div2 n="170" type="card">
 <l n="170">Tectum augustum ingens. centum sublime columnis,</l>
 <l>urbe fuit summa, Laurentis regia Pici,</l>
 <l>horrendum silvis et religione parentum.</l>
@@ -5284,7 +5494,8 @@ Changed names and redid headers.
 <l>Picus, equum domitor; quem capta cupidine coniunx</l>
 <l n="190">aurea percussum virga versumque venenis</l>
 <l>fecit avem Circe sparsitque coloribus alas.</l>
-<milestone ed="p" n="192" unit="card"/>
+</div2>
+<div2 n="192" type="card">
 <l>Tali intus templo divom patriaque Latinus</l>
 <l>sede sedens Teucros ad sese in tecta vocavit,</l>
 <l>atque haec ingressis placido prior edidit ore:</l>
@@ -5305,7 +5516,8 @@ Changed names and redid headers.
 <l>Hinc illum, Corythi Tyrrhena ab sede profectum,</l>
 <l n="210">aurea nunc solio stellantis regia caeli</l>
 <l>accipit et numerum divorum altaribus auget.&rdquo;</l>
-<milestone ed="p" n="212" unit="card"/>
+</div2>
+<div2 n="212" type="card">
 <l>Dixerat, et dicta Ilioneus sic voce secutus:</l>
 <l>&ldquo;Rex, genus egregium Fauni, nec fluctibus actos,</l>
 <l>atra subegit hiemps vestris succedere terris</l>
@@ -5343,7 +5555,8 @@ Changed names and redid headers.
 <l>hoc Priami gestamen erat, cum iura vocatis</l>
 <l>more daret populis, sceptrumque sacerque tiaras</l>
 <l part="Y">Iliadumque labor vestes.&rdquo;</l>
-<milestone ed="p" n="249" unit="card"/>
+</div2>
+<div2 n="249" type="card">
 <l>Talibus Ilionei dictis defixa Latinus</l>
 <l n="250">obtutu tenet ora soloque immobilis haeret</l>
 <l>intentos volvens oculos. Nec purpura regem</l>
@@ -5381,7 +5594,8 @@ Changed names and redid headers.
 <l>supposita de matre nothos furata creavit.</l>
 <l>Talibus Aeneadae donis dictisque Latini</l>
 <l n="285">sublimes in equis redeunt pacemque reportant.</l>
-<milestone ed="p" n="286" unit="card"/>
+</div2>
+<div2 n="286" type="card">
 <l>Ecce autem Inachiis sese referebat ab Argis</l>
 <l>saeva Iovis coniunx aurasque invecta tenebat,</l>
 <l>et laetum Aenean classemque ex aethere longe</l>
@@ -5419,7 +5633,8 @@ Changed names and redid headers.
 <l n="320">Cisseis praegnans ignis enixa iugalis</l>
 <l>quin idem Veneri partus suus et Paris alter</l>
 <l>funestaeque iterum recidiva in Pergama taedae.&rdquo;</l>
-<milestone ed="p" n="323" unit="card"/>
+</div2>
+<div2 n="323" type="card">
 <l>Haec ubi dicta dedit, terras Horrenda petivit:</l>
 <l>luctificam Allecto dirarum ab sede dearum</l>
 <l n="325">infernisque ciet tenebris, cui tristia bella</l>
@@ -5438,7 +5653,8 @@ Changed names and redid headers.
 <l>mille nocendi artes. Fecundum concute pectus,</l>
 <l>disice compositam pacem, sere crimina belli:</l>
 <l n="340">arma velit poscatque simul rapiatque inventus.&rdquo;</l>
-<milestone ed="p" n="341" unit="card"/>
+</div2>
+<div2 n="341" type="card">
 <l>Exin Gorgoneis Allecto infecta venenis</l>
 <l>principio Latium et Laurentis tecta tyranni</l>
 <l>celsa petit tacitumque obsedit limen Amatae,</l>
@@ -5471,7 +5687,8 @@ Changed names and redid headers.
 <l n="370">dissidet, externam reor et sic dicere divos.</l>
 <l>Et Turno, si prima domus repetatur origo,</l>
 <l>Inachus Acrisiusque patres mediaeque Mycenae.&rdquo;</l>
-<milestone ed="p" n="373" unit="card"/>
+</div2>
+<div2 n="373" type="card">
 <l>His ubi nequiquam dictis experta Latinum</l>
 <l>contra stare videt penitusque in viscera lapsum</l>
 <l n="375">serpentis furiale malum totamque pererrat,</l>
@@ -5505,7 +5722,8 @@ Changed names and redid headers.
 <l>solvite crinalis vittas, capite orgia mecum.&rdquo;</l>
 <l>Talem inter silvas, inter deserta ferarum,</l>
 <l n="405">reginam Allecto stimulis agit undique Bacchi.</l>
-<milestone ed="p" n="406" unit="card"/>
+</div2>
+<div2 n="406" type="card">
 <l>Postquam visa satis primos acuisse furores</l>
 <l>consiliumque omnemque domum vertisse Latini,</l>
 <l>protinus hinc fuscis tristis dea tollitur alis</l>
@@ -5535,7 +5753,8 @@ Changed names and redid headers.
 <l>Caelestum vis magna iubet.  Rex ipse Latinus,</l>
 <l>ni dare coniugium et dicto parere fatetur,</l>
 <l>sentiat et tandem Turnum experiatur in armis.&rdquo;</l>
-<milestone ed="p" n="435" unit="card"/>
+</div2>
+<div2 n="435" type="card">
 <l n="435">Hic iuvenis vatem inridens sic orsa vicissim</l>
 <l>ore refert: &ldquo;Classis invectas Thybridis undam</l>
 <l>non, ut rere, meas effugit nuntius auris.</l>
@@ -5546,7 +5765,8 @@ Changed names and redid headers.
 <l>regum inter falsa vatem formidine ludit.</l>
 <l>Cura tibi divom effigies et templa tueri:</l>
 <l>bella viri pacemque gerent, quis bella gerenda.&rdquo;</l>
-<milestone ed="p" n="445" unit="card"/>
+</div2>
+<div2 n="445" type="card">
 <l n="445">Talibus Allecto dictis exarsit in iras,</l>
 <l>at iuveni oranti subitus tremor occupat artus,</l>
 <l>deriguere oculi: tot Erinys sibilat hydris</l>
@@ -5577,7 +5797,8 @@ Changed names and redid headers.
 <l>certatim sese Rutuli exhortantur in arma:</l>
 <l>hunc decus egregium formae movet atque iuventae,</l>
 <l>hunc atavi reges, hunc claris dextera factis.</l>
-<milestone ed="p" n="475" unit="card"/>
+</div2>
+<div2 n="475" type="card">
 <l n="475">Dum Turnus Rutulos animis audacibus implet,</l>
 <l>Allecto in Teucros Stygiis se concitat alis,</l>
 <l>arte nova speculata locum, quo litore pulcher</l>
@@ -5614,7 +5835,8 @@ Changed names and redid headers.
 <l>rimanti, telum ira facit. Vocat agmina Tyrrhus,</l>
 <l>quadrifidam quercum cuneis ut forte coactis</l>
 <l n="510">scindebat, rapta spirans immane securi.</l>
-<milestone ed="p" n="511" unit="card"/>
+</div2>
+<div2 n="511" type="card">
 <l>At saeva e speculis tempus dea nacta nocendi</l>
 <l>ardua tecta petit stabuli et de culmine summo</l>
 <l>pastorale canit signum cornuque recurvo</l>
@@ -5644,7 +5866,8 @@ Changed names and redid headers.
 <l>qui fuit Ausoniisque olim ditissimus arvis:</l>
 <l>quinque greges illi balantum, quina redibant</l>
 <l>armenta, et terram centum vertebat aratris.</l>
-<milestone ed="p" n="540" unit="card"/>
+</div2>
+<div2 n="540" type="card">
 <l n="540">Atque ea per campos aequo dum Marte geruntur,</l>
 <l>promissi dea facta potens, ubi sanguine bellum</l>
 <l>imbuit et primae commisit funera pugnae,</l>
@@ -5677,7 +5900,8 @@ Changed names and redid headers.
 <l>monstrantur, ruptoque ingens Acheronte vorago</l>
 <l n="570">pestiferas aperit fauces, quis condita Erinys,</l>
 <l>invisum numen, terras caelumque levabat.</l>
-<milestone ed="p" n="572" unit="card"/>
+</div2>
+<div2 n="572" type="card">
 <l>Nec minus interea extremam Saturnia bello</l>
 <l>imponit regina manum. Ruit omnis in urbem</l>
 <l>pastorum ex acie numerus caesosque reportant</l>
@@ -5707,7 +5931,8 @@ Changed names and redid headers.
 <l>Nam mihi parta quies, omnisque in limine portus;</l>
 <l>funere felici spolior.&rdquo; Nec plura locutus</l>
 <l n="600">saepsit se tectis rerumque reliquit habenas.</l>
-<milestone ed="p" n="601" unit="card"/>
+</div2>
+<div2 n="601" type="card">
 <l>Mos erat Hesperio in Latio, quem protinus urbes</l>
 <l>Albanae coluere sacrum nunc maxima rerum</l>
 <l>Roma colit, cum prima movent in proelia Martem,</l>
@@ -5748,14 +5973,16 @@ Changed names and redid headers.
 <l>Hic galeam tectis trepidus rapit, ille frementis</l>
 <l>ad iuga cogit equos clipeumque auroque trilicem</l>
 <l n="640">loricam induitur fidoque accingitur ense.</l>
-<milestone ed="p" n="641" unit="card"/>
+</div2>
+<div2 n="641" type="card">
 <l>Pandite nunc Helicona, deae, cantusque movete,</l>
 <l>qui bello exciti reges, quae quemque secutae</l>
 <l>complerint campos acies, quibus Itala iam tum</l>
 <l>floruerit terra alma viris, quibus arserit armis.</l>
 <l n="645">Et meministis enim, divae, et memorare potestis:</l>
 <l>ad nos vix tenuis famae perlabitur aura.</l>
-<milestone ed="p" n="647" unit="card"/>
+</div2>
+<div2 n="647" type="card">
 <l>Primus init bellum Tyrrhenis asper ab oris</l>
 <l>contemptor divom Mezentius agminaque armat.</l>
 <l>Filius huic iuxta Lausus, quo pulchrior alter</l>
@@ -5764,7 +5991,8 @@ Changed names and redid headers.
 <l>ducit Agyllina nequiquam ex urbe secutos</l>
 <l>mille viros, dignus, patriis qui laetior esset</l>
 <l>imperiis et cui pater haud Mezentius esset.</l>
-<milestone ed="p" n="655" unit="card"/>
+</div2>
+<div2 n="655" type="card">
 <l n="655">Post hos insignem palma per gramina currum</l>
 <l>victoresque ostentat equos satus Hercule pulchro</l>
 <l>pulcher Aventinus, clipeoque insigne paternum</l>
@@ -5780,7 +6008,8 @@ Changed names and redid headers.
 <l>terribili impexum saetacum dentibus albis</l>
 <l>indutus capiti, sic regia tecta subibat,</l>
 <l>horridus, Herculeoque umeros innexus amictu.</l>
-<milestone ed="p" n="670" unit="card"/>
+</div2>
+<div2 n="670" type="card">
 <l n="670">Tum gemini fratres Tiburtia moenia linquunt,</l>
 <l>fratris Tiburti dictam cognomine gentem,</l>
 <l>Catillusque acerque Coras, Argiva iuventus,</l>
@@ -5789,7 +6018,8 @@ Changed names and redid headers.
 <l n="675">descendunt centauri, Homolen Othrymque nivalem</l>
 <l>linquentes cursu rapido; dat euntibus ingens</l>
 <l>silva locum et magno cedunt virgulta fragore.</l>
-<milestone ed="p" n="678" unit="card"/>
+</div2>
+<div2 n="678" type="card">
 <l>Nec Praenestinae fundator defuit urbis,</l>
 <l>Volcano genitum pecora inter agrestia regem</l>
 <l n="680">inventumque focis omnis quem credidit aetas</l>
@@ -5803,7 +6033,8 @@ Changed names and redid headers.
 <l>bina manu, fulvosque lupi de pelle galeros</l>
 <l>tegmen habent capiti, vestigia nuda sinistri</l>
 <l n="690">instituere pedis, crudus tegit altera pero.</l>
-<milestone ed="p" n="691" unit="card"/>
+</div2>
+<div2 n="691" type="card">
 <l>At Messapus, equum domitor, Neptunia proles,</l>
 <l>quem neque fas igni cuiquam nec sternere ferro,</l>
 <l>iam pridem resides populos desuetaque bello</l>
@@ -5819,7 +6050,8 @@ Changed names and redid headers.
 <l>Nec quisquam aeratas acies ex agmine tanto</l>
 <l>misceri putet, aeriam sed gorgite ab alto</l>
 <l n="705">urgueri volucrum raucarum ad litora nubem.</l>
-<milestone ed="p" n="705" unit="card"/>
+</div2>
+<div2 n="705" type="card">
 <l>Ecce Sabinorum prisco de sanguine magnum</l>
 <l>agmen agens Clausus magnique ipse agminis instar,</l>
 <l>Claudia nunc a quo diffunditur et tribus et gens</l>
@@ -5837,7 +6069,8 @@ Changed names and redid headers.
 <l n="720">vel cum sole novo densae torrentur aristae</l>
 <l>aut Hermi campo aut Lyciae flaventibus arvis.</l>
 <l>Scuta sonant pulsuque pedum conterrita tellus.</l>
-<milestone ed="p" n="723" unit="card"/>
+</div2>
+<div2 n="723" type="card">
 <l>Hinc Agamemnonius, Troiani nominis hostis,</l>
 <l>curru iungit Halaesus equos Turnoque ferocis</l>
 <l n="725">mille rapit populos, vertunt felicia Baccho</l>
@@ -5848,7 +6081,8 @@ Changed names and redid headers.
 <l n="730">Oscorumque manus. Teretes sunt aclydes illis</l>
 <l>tela, sed haec lento mos est aptare flagello;</l>
 <l>laevas caetra tegit, falcati comminus enses.</l>
-<milestone ed="p" n="733" unit="card"/>
+</div2>
+<div2 n="733" type="card">
 <l>Nec tu carminibus nostris indictus abibis,</l>
 <l>Oebale, quem generasse Telon Sebethide nympha</l>
 <l n="735">fertur, Teleboum Capreas cum regna teneret,</l>
@@ -5860,14 +6094,16 @@ Changed names and redid headers.
 <l>Teutonico ritu soliti torquere cateias,</l>
 <l>tegmina quis capitum raptus de subere cortex,</l>
 <l>aerataeque micant peltae, micat aereus ensis.</l>
-<milestone ed="p" n="744" unit="card"/>
+</div2>
+<div2 n="744" type="card">
 <l>Et te montosae misere in proelia Nersae,</l>
 <l n="745">Ufens, insignem fama et felicibus armis;</l>
 <l>horrida praecipue cui gens adsuetaque multo</l>
 <l>venatu nemorum, duris Aequicula glaebis.</l>
 <l>Armati terram exercent, semperque recentis</l>
 <l>convectare iuvat praedas et vivere rapto.</l>
-<milestone ed="p" n="750" unit="card"/>
+</div2>
+<div2 n="750" type="card">
 <l n="750">Quin et Marruvia venit de gente sacerdos,</l>
 <l>fronde super galeam et felici comptus oliva.</l>
 <l>Archippi regis missu, fortissimus Umbro,</l>
@@ -5879,7 +6115,8 @@ Changed names and redid headers.
 <l>somniferi et Marsis quaesitae montibus herbae.</l>
 <l>Te nemus Angitiae, vitrea te Fucinus unda,</l>
 <l part="Y" n="760">te liquidi flevere lacus.</l>
-<milestone ed="p" n="761" unit="card"/>
+</div2>
+<div2 n="761" type="card">
 <l>Ibat et Hippolyti proles pulcherrima bello,</l>
 <l>Virbius, insignem quem mater Aricia misit,</l>
 <l>eductum Egeriae lucis umentia circum</l>
@@ -5902,7 +6139,8 @@ Changed names and redid headers.
 <l n="780">et iuvenem monstris pavidi effudere marinis.</l>
 <l>Filius ardentis haud setius aequore campi</l>
 <l>exercebat equos curruque in bella ruebat.</l>
-<milestone ed="p" n="783" unit="card"/>
+</div2>
+<div2 n="783" type="card">
 <l>Ipse inter primos praestanti corpore Turnus</l>
 <l>vertitur arma tenens et toto vertice supra est.</l>
 <l n="785">Cui triplici crinita iuba galea alta Chimaeram</l>
@@ -5923,7 +6161,8 @@ Changed names and redid headers.
 <l n="800">praesidet et viridi gaudens Feronia luco;</l>
 <l>qua Saturae iacet atra palus gelidusque per imas</l>
 <l>quaerit iter vallis atque in mare conditur Ufens.</l>
-<milestone ed="p" n="803" unit="card"/>
+</div2>
+<div2 n="803" type="card">
 <l>Hos super advenit Volsca de gente Camilla</l>
 <l>agmen agens equitum et florentis aere catervas,</l>
 <l n="805">bellatrix, non illa colo calathisve Minervae</l>
@@ -5938,9 +6177,11 @@ Changed names and redid headers.
 <l>attonitis inhians animis, ut regius ostro</l>
 <l n="815">velet honos levis umeros, ut fibula crinem</l>
 <l>auro internectat, Lyciam ut gerat ipsa pharetram</l>
-<l>et pastoralem praefixa cuspide myrtum.</l></div1>
+<l>et pastoralem praefixa cuspide myrtum.</l>
+</div2>
+</div1>
 <div1 type="book" n="8">
-<milestone ed="p" n="1" unit="card"/>
+<div2 n="1" type="card">
 <l>Ut belli signum Laurenti Turnus ab arce</l>
 <l>extulit et rauco strepuerunt cornua cantu,</l>
 <l>utque acris concussit equos utque impulit arma,</l>
@@ -5958,7 +6199,8 @@ Changed names and redid headers.
 <l n="15">Quid struat his coeptis, quem, si Fortuna sequatur,</l>
 <l>eventum pugnae cupiat, manifestius ipsi</l>
 <l>quam Turno regi aut regi apparere Latino.</l>
-<milestone ed="p" n="18" unit="card"/>
+</div2>
+<div2 n="18" type="card">
 <l>Talia per Latium. Quae Laomedontius heros</l>
 <l>cuncta videns magno curarum fluctuat aestu,</l>
 <l n="20">atque animum nunc huc celerem, nunc dividit illuc.</l>
@@ -5977,7 +6219,8 @@ Changed names and redid headers.
 <l>visus; eum tenuis glauco velabat amictu</l>
 <l>carbasus, et crinis umbrosa tegebat harundo,</l>
 <l n="35">tum sic adfari et curas his demere dictis:</l>
-<milestone ed="p" n="36" unit="card"/>
+</div2>
+<div2 n="36" type="card">
 <l>&ldquo;O sate gente deum, Troianam ex hostibus urbem</l>
 <l>qui revehis nobis aeternaque Pergama servas,</l>
 <l>exspectate solo Laurenti arvisque Latinis,</l>
@@ -6008,7 +6251,8 @@ Changed names and redid headers.
 <l>stringentem ripas et pinguia culta secantem,</l>
 <l>caeruleus Thybris, caelo gratissimus amnis.</l>
 <l n="65">Hic mihi magna domus, celsis caput urbibus, exit.&rdquo;</l>
-<milestone ed="p" n="66" unit="card"/>
+</div2>
+<div2 n="66" type="card">
 <l>Dixit, deinde lacu fluvius se condidit alto,</l>
 <l>ima petens; nox Aenean somnusque reliquit.</l>
 <l>Surgit et aetherii spectans orientia solis</l>
@@ -6024,7 +6268,8 @@ Changed names and redid headers.
 <l>Adsis o tantum et propius tua numina firmes.&rdquo;</l>
 <l>sic memorat geminasque legit de classe biremis</l>
 <l n="80">remigioque aptat, socios simul instruit armis.</l>
-<milestone ed="p" n="81" unit="card"/>
+</div2>
+<div2 n="81" type="card">
 <l>Ecce autem subitum atque oculis mirabile monstrum;</l>
 <l>candida per silvam cum fetu concolor albo</l>
 <l>procubuit viridique in litore conspicitur sus.</l>
@@ -6046,7 +6291,8 @@ Changed names and redid headers.
 <l>tecta vident, quae nunc Romana potentia caelo</l>
 <l n="100">aequavit, tum res inopes Euandrus habebat:</l>
 <l>ocius advertunt proras urbique propinquant.</l>
-<milestone ed="p" n="102" unit="card"/>
+</div2>
+<div2 n="102" type="card">
 <l>Forte die sollemnem illo rex Arcas honorem</l>
 <l>Amphitryoniadae magno divisque ferebat</l>
 <l>ante urbem in luco. Pallas huic filius una,</l>
@@ -6071,7 +6317,8 @@ Changed names and redid headers.
 <l>adloquere ac nostris succede penatibus hospes.&rdquo;</l>
 <l>excepitque manu dextramque amplexus inhaesit.</l>
 <l n="125">Progressi subeunt luco fluviumque relinquunt.</l>
-<milestone ed="p" n="126" unit="card"/>
+</div2>
+<div2 n="126" type="card">
 <l>Tum regem Aeneas dictis adfatur amicis:</l>
 <l>&ldquo;Optume Graiugenum, cui me Fortuna precari</l>
 <l>et vitta comptos voluit praetendere ramos,</l>
@@ -6098,7 +6345,8 @@ Changed names and redid headers.
 <l>et mare quod supra teneant quodque adluit infra.</l>
 <l n="150">Accipe daque fidem: sunt nobis fortia bello</l>
 <l>pectora, sunt animi et rebus spectata iuventus.&rdquo;</l>
-<milestone ed="p" n="152" unit="card"/>
+</div2>
+<div2 n="152" type="card">
 <l>Dixerat Aeneas. Ille os oculosque loquentis</l>
 <l>iamdudum et totum lustrabat lumine corpus.</l>
 <l>Tum sic pauca refert: &ldquo;Ut te, fortissime Teucrum,</l>
@@ -6122,7 +6370,8 @@ Changed names and redid headers.
 <l>Interea sacra haec, quando huc venistis amici,</l>
 <l>annua, quae differre nefas, celebrate faventes</l>
 <l>nobiscum et iam nunc sociorum adsuescite mensis.&rdquo;</l>
-<milestone ed="p" n="175" unit="card"/>
+</div2>
+<div2 n="175" type="card">
 <l n="175">Haec ubi dicta, dapes iubet et sublata reponi</l>
 <l>pocula gramineoque viros locat ipse sedili</l>
 <l>praecipuumque toro et villosi pelle leonis</l>
@@ -6132,7 +6381,8 @@ Changed names and redid headers.
 <l>dona laboratae Cereris Bacchumque ministrant.</l>
 <l>Vescitur Aeneas simul et Troiana iuventus</l>
 <l>perpetui tergo bovis et lustralibus extis.</l>
-<milestone ed="p" n="184" unit="card"/>
+</div2>
+<div2 n="184" type="card">
 <l>Postquam exempta fames et amor compressus edendi,</l>
 <l n="185">rex Euandrus ait: &ldquo;Non haec sollemnia nobis,</l>
 <l>has ex more dapes, hanc tanti numinis aram</l>
@@ -6168,7 +6418,8 @@ Changed names and redid headers.
 <l>impleri nemus et colles clamore relinqui.</l>
 <l>reddidit una boum vocem vastoque sub antro</l>
 <l>mugiit et Caci spem custodita fefellit.</l>
-<milestone ed="p" n="219" unit="card"/>
+</div2>
+<div2 n="219" type="card">
 <l>Hic vero Alcidae furiis exarserat atro</l>
 <l n="220">felle dolor: rapit arma manu nodisque gravatum</l>
 <l>robur et aerii cursu petit ardua montis.</l>
@@ -6212,7 +6463,8 @@ Changed names and redid headers.
 <l>Hic Cacum in tenebris incendia vana vomentem</l>
 <l n="260">corripit in nodum complexus et angit inhaerens</l>
 <l>elisos oculos et siccum sanguine guttur.</l>
-<milestone ed="p" n="262" unit="card"/>
+</div2>
+<div2 n="262" type="card">
 <l>Panditur extemplo foribus domus atra revolsis,</l>
 <l>abstractaeque boves abiurataeque rapinae</l>
 <l>caelo ostenduntur, pedibusque informe cadaver</l>
@@ -6231,7 +6483,8 @@ Changed names and redid headers.
 <l>velavitque comas foliisque innexa pependit</l>
 <l>et sacer implevit dextram scyphus. Ocius omnes</l>
 <l>in mensam laeti libant divosque precantur.</l>
-<milestone ed="p" n="280" unit="card"/>
+</div2>
+<div2 n="280" type="card">
 <l n="280">Devexo interea propior fit Vesper Olympo,</l>
 <l>iamque sacerdotes primusque Potitius ibant,</l>
 <l>pellibus in morem cincti, flammasque ferebant.</l>
@@ -6258,7 +6511,8 @@ Changed names and redid headers.
 <l>Talia carminibus celebrant; super omnia Caci</l>
 <l>speluncam adiciunt spirantemque ignibus ipsum.</l>
 <l n="305">Consonat omne nemus strepitu collesque resultant.</l>
-<milestone ed="p" n="306" unit="card"/>
+</div2>
+<div2 n="306" type="card">
 <l>Exim se cuncti divinis rebus ad urbem</l>
 <l>perfectis referunt. Ibat rex obsitus aevo</l>
 <l>et comitem Aenean iuxta natumque tenebat</l>
@@ -6290,7 +6544,8 @@ Changed names and redid headers.
 <l>Fortuna omnipotens et ineluctabile fatum</l>
 <l n="335">his posuere locis matrisque egere tremenda</l>
 <l>Carmentis nymphae monita et deus auctor Apollo.</l>
-<milestone ed="p" n="337" unit="card"/>
+</div2>
+<div2 n="337" type="card">
 <l>Vix ea dicta: dehinc progressus monstrat et aram</l>
 <l>et Carmentalem Romani nomine portam</l>
 <l>quam memorant, nymphae priscum Carmentis honorem,</l>
@@ -6324,7 +6579,8 @@ Changed names and redid headers.
 <l>ingentem Aenean duxit stratisque locavit</l>
 <l>effultum foliis et pelle Libystidis ursae.</l>
 <l>Nox ruit et fuscis tellurem amplectitur alis.</l>
-<milestone ed="p" n="370" unit="card"/>
+</div2>
+<div2 n="370" type="card">
 <l n="370">At Venus haud animo nequiquam exterrita mater</l>
 <l>Laurentumque minis et duro mota tumultu</l>
 <l>Volcanum adloquitur thalamoque haec coniugis aureo</l>
@@ -6362,7 +6618,8 @@ Changed names and redid headers.
 <l>viribus indubitare tuis.&rdquo; Ea verba locutus</l>
 <l n="405">optatos dedit amplexus placidumque petivit</l>
 <l>coniugis infusus gremio per membra soporem.</l>
-<milestone ed="p" n="407" unit="card"/>
+</div2>
+<div2 n="407" type="card">
 <l>Inde ubi prima quies medio iam noctis abactae</l>
 <l>curriculo expulerat somnum, cum femina primum,</l>
 <l>cui tolerare colo vitam tenuique Minerva</l>
@@ -6380,7 +6637,8 @@ Changed names and redid headers.
 <l>stricturae Chalybum et fornacibus ignis anhelat,</l>
 <l>Volcani domus et Volcania nomine tellus.</l>
 <l>Hoc tunc ignipotens caelo descendit ab alto.</l>
-<milestone ed="p" n="424" unit="card"/>
+</div2>
+<div2 n="424" type="card">
 <l>Ferrum exercebant vasto Cyclopes in antro,</l>
 <l n="425">Brontesque Steropesque et nudus membra Pyragmon.</l>
 <l>His informatum manibus iam parte polita</l>
@@ -6411,7 +6669,8 @@ Changed names and redid headers.
 <l>aera lacu. Gemit impositis incudibus antrum.</l>
 <l>Illi inter sese multa vi bracchia tollunt</l>
 <l>in numerum versantque tenaci forcipe massam.</l>
-<milestone ed="p" n="454" unit="card"/>
+</div2>
+<div2 n="454" type="card">
 <l>Haec pater Aeoliis properat dum Lemnius oris,</l>
 <l n="455">Euandrum ex humili tecto lux suscitat alma</l>
 <l>et matutini volucrum sub culmine cantus.</l>
@@ -6428,7 +6687,8 @@ Changed names and redid headers.
 <l>Congressi iungunt dextras mediisque residunt</l>
 <l>aedibus et licito tandem sermone fruuntur.</l>
 <l>Rex prior haec:</l>
-<milestone ed="p" n="470" unit="card"/>
+</div2>
+<div2 n="470" type="card">
 <l n="470">&ldquo;Maxume Teucrorum ductor, quo sospite numquam</l>
 <l>res equidem Troiae victas aut regna fatebor,</l>
 <l>nobis ad belli auxilium pro nomine tanto</l>
@@ -6479,7 +6739,8 @@ Changed names and redid headers.
 <l>adsuescat primis et te miretur ab annis.</l>
 <l>Arcadas huic equites bis centum, robora pubis</l>
 <l>lecta dabo totidemque suo tibi nomine Pallas.&rdquo;</l>
-<milestone ed="p" n="520" unit="card"/>
+</div2>
+<div2 n="520" type="card">
 <l n="520">Vix ea fatus erat, defixique ora tenebant</l>
 <l>Aeneas Anchisiades et fidus Achates</l>
 <l>multaque dura suo tristi cum corde putabant,</l>
@@ -6501,7 +6762,8 @@ Changed names and redid headers.
 <l>quas poenas mihi, Turne, dabis; quam multa sub undas</l>
 <l>scuta virum galeasque et fortia corpora volves,</l>
 <l n="540">Thybri pater! Poscant acies et foedera rumpant.&rdquo;</l>
-<milestone ed="p" n="541" unit="card"/>
+</div2>
+<div2 n="541" type="card">
 <l>Haec ubi dicta dedit, solio se tollit ab alto</l>
 <l>et primum Herculeis sopitas ignibus aras</l>
 <l>excitat hesternumque larem parvosque penatis</l>
@@ -6515,7 +6777,8 @@ Changed names and redid headers.
 <l>Dantur equi Teucris Tyrrhena petentibus arva;</l>
 <l>ducunt exsortem Aeneae, quem fulva leonis</l>
 <l>pellis obit totum, praefulgens unguibus aureis.</l>
-<milestone ed="p" n="554" unit="card"/>
+</div2>
+<div2 n="554" type="card">
 <l>Fama volat parvam subito volgata per urbem,</l>
 <l n="555">ocius ire equites Tyrrheni ad litora regis.</l>
 <l>vota metu duplicant matres, propiusque periclo</l>
@@ -6547,7 +6810,8 @@ Changed names and redid headers.
 <l>complexu teneo, gravior neu nuntius auris</l>
 <l>volneret.&rdquo; Haec genitor digressu dicta supremo</l>
 <l>fundebat: famuli conlapsum in tecta ferebant.</l>
-<milestone ed="p" n="585" unit="card"/>
+</div2>
+<div2 n="585" type="card">
 <l n="585">Iamque adeo exierat portis equitatus apertis,</l>
 <l>Aeneas inter primos et fidus Achates,</l>
 <l>inde alii Troiae proceres, ipse agmine Pallas</l>
@@ -6571,7 +6835,8 @@ Changed names and redid headers.
 <l n="605">iam poterat legio et latis tendebat in arvis.</l>
 <l>Huc pater Aeneas et bello lecta iuventus</l>
 <l>succedunt fessique et equos et corpora curant.</l>
-<milestone ed="p" n="608" unit="card"/>
+</div2>
+<div2 n="608" type="card">
 <l>At Venus aetherios inter dea candida nimbos</l>
 <l>dona ferens aderat; natumque in valle reducta</l>
 <l n="610">ut procul egelido secretum flumine vidit,</l>
@@ -6594,7 +6859,8 @@ Changed names and redid headers.
 <l>haud vatum ignarus venturique inscius aevi</l>
 <l>fecerat ignipotens, illic genus omne futurae</l>
 <l>stirpis ab Ascanio. pugnataque in ordine bella.</l>
-<milestone ed="p" n="630" unit="card"/>
+</div2>
+<div2 n="630" type="card">
 <l n="630">fecerat et viridi fetam Mavortis in antro</l>
 <l>procubuisse lupam, geminos huic ubera circum</l>
 <l>ludere pendentis pueros et lambere matrem</l>
@@ -6636,7 +6902,8 @@ Changed names and redid headers.
 <l>et scelerum poenas et te, Catilina, minaci</l>
 <l>pendentem scopulo Furiarumque ora trementem,</l>
 <l n="670">secretosque pios, his dantem iura Catonem.</l>
-<milestone ed="p" n="671" unit="card"/>
+</div2>
+<div2 n="671" type="card">
 <l>Haec inter tumidi late maris ibat imago</l>
 <l>aurea, sed fluctu spumabant caerula cano;</l>
 <l>et circum argento clari delphines in orbem</l>
@@ -6695,12 +6962,15 @@ Changed names and redid headers.
 <l>finxerat; Euphrates ibat iam mollior undis,</l>
 <l>extremique hominum Morini, Rhenusque bicornis,</l>
 <l>indomitique Dahae, et pontem indignatus Araxes.</l>
-<milestone ed="p" n="729" unit="card"/>
+</div2>
+<div2 n="729" type="card">
 <l>Talia per clipeum Volcani, dona parentis,</l>
 <l n="730">miratur rerumque ignarus imagine gaudet,</l>
-<l>attollens umero famamque et fata nepotum.</l></div1>
+<l>attollens umero famamque et fata nepotum.</l>
+</div2>
+</div1>
 <div1 type="book" n="9">
-<milestone ed="p" n="1" unit="card"/>
+<div2 n="1" type="card">
 <l>Atque ea diversa penitus dum parte geruntur,</l>
 <l>Irim de caelo misit Saturnia Iuno</l>
 <l>audacem ad Turnum. Luco tum forte parentis</l>
@@ -6725,7 +6995,8 @@ Changed names and redid headers.
 <l>quisquis in arma vocas.&rdquo; Et sic effatus ad undam</l>
 <l>processit summoque hausit de gurgite lymphas,</l>
 <l>multa deos orans, oneravitque aethera votis.</l>
-<milestone ed="p" n="25" unit="card"/>
+</div2>
+<div2 n="25" type="card">
 <l n="25">Iamque omnis campis exercitus ibat apertis,</l>
 <l>dives equum, dives picta&iuml; vestis et auri;</l>
 <l>Messapus primas acies, postrema coercent</l>
@@ -6748,7 +7019,8 @@ Changed names and redid headers.
 <l>Ergo etsi conferre manum pudor iraque monstrat,</l>
 <l n="45">obiciunt portas tamen et praecepta facessunt</l>
 <l>armatique cavis expectant turribus hostem.</l>
-<milestone ed="p" n="47" unit="card"/>
+</div2>
+<div2 n="47" type="card">
 <l>Turnus ut ante volans tardum praecesserat agmen</l>
 <l>viginti lectis equitum comitatus, et urbi</l>
 <l>improvisus adest; maculis quem Thracius albis</l>
@@ -6779,7 +7051,8 @@ Changed names and redid headers.
 <l>atque omnis facibus pubes accingitur atris.</l>
 <l n="75">Diripuere focos; piceum fert fumida lumen</l>
 <l>taeda et commixtam Volcanus ad astra favillam.</l>
-<milestone ed="p" n="77" unit="card"/>
+</div2>
+<div2 n="77" type="card">
 <l>Quis deus, o musae, tam saeva incendia Teucris</l>
 <l>avertit? Tantos ratibus quis depulit ignes?</l>
 <l>Dicite. Prisca fides facto, sed fama perennis.</l>
@@ -6810,7 +7083,8 @@ Changed names and redid headers.
 <l>Dixerat idque ratum Stygii per flumina fratris,</l>
 <l n="105">per pice torrentis atraque voragine ripas</l>
 <l>adnuit et totum nutu tremefecit Olympum.</l>
-<milestone ed="p" n="107" unit="card"/>
+</div2>
+<div2 n="107" type="card">
 <l>Ergo aderat promissa dies et tempora Parcae</l>
 <l>debita complerant, cum Turni iniuria Matrem</l>
 <l>admonuit ratibus sacris depellere taedas.</l>
@@ -6827,7 +7101,8 @@ Changed names and redid headers.
 <l n="120">ima petunt. Hinc virgineae (mirabile monstrum)</l>
 <l>quot prius aeratae steterant ad litora prorae</l>
 <l>reddunt se totidem facies pontoque feruntur.</l>
-<milestone ed="p" n="123" unit="card"/>
+</div2>
+<div2 n="123" type="card">
 <l>Obstipuere animis Rutuli, conterritus ipse</l>
 <l>turbatis Messapus equis, cunctatur et amnis</l>
 <l n="125">rauca sonans revocatque pedem Tiberinus ab alto.</l>
@@ -6873,7 +7148,8 @@ Changed names and redid headers.
 <l n="165">indulgent vino et vertunt crateras aenos.</l>
 <l>Conlucent ignes, noctem custodia ducit</l>
 <l>insomnem ludo.</l>
-<milestone ed="p" n="168" unit="card"/>
+</div2>
+<div2 n="168" type="card">
 <l>Haec super e vallo prospectant Troes et armis</l>
 <l>alta tenent, nec non trepidi formidine portas</l>
 <l n="170">explorant pontisque et propugnacula iungunt,</l>
@@ -6882,7 +7158,8 @@ Changed names and redid headers.
 <l>rectores iuvenum et rerum dedit esse magistros.</l>
 <l>Omnis per muros legio, sortita periclum,</l>
 <l n="175">excubat exercetque vices, quod cuique tuendum est.</l>
-<milestone ed="p" n="176" unit="card"/>
+</div2>
+<div2 n="176" type="card">
 <l>Nisus erat portae custos, acerrimus armis,</l>
 <l>Hyrtacides, comitem Aeneae quem miserat Ida</l>
 <l>venatrix iaculo celerem levibusque sagittis;</l>
@@ -6931,7 +7208,8 @@ Changed names and redid headers.
 <l>adceleremus,&rdquo; ait. Vigiles simul excitat, illi</l>
 <l>succedunt servantque vices: statione relicta</l>
 <l>ipse comes Niso graditur, regemque requirunt.</l>
-<milestone ed="p" n="224" unit="card"/>
+</div2>
+<div2 n="224" type="card">
 <l>Cetera per terras omnis animalia somno</l>
 <l n="225">laxabant curas et corda oblita laborum:</l>
 <l>ductores Teucrum primi et delecta iuventus</l>
@@ -6954,7 +7232,8 @@ Changed names and redid headers.
 <l>adfore cernetis. Nec nos via fallit euntis:</l>
 <l>vidimus obscuris primam sub vallibus urbem</l>
 <l n="245">venatu adsiduo et totum cognovimus amnem.&rdquo;</l>
-<milestone ed="p" n="246" unit="card"/>
+</div2>
+<div2 n="246" type="card">
 <l>Hic annis gravis atque animi maturus Aletes:</l>
 <l>&ldquo;Di patrii, quorum semper sub numine Troia est,</l>
 <l>non tamen omnino Teucros delere paratis,</l>
@@ -7023,7 +7302,8 @@ Changed names and redid headers.
 <l>ante annos animumque gerens curamque virilem,</l>
 <l>multa patri mandata dabat portanda: sed aurae</l>
 <l>omnia discerpunt et nubibus inrita donant.</l>
-<milestone ed="p" n="314" unit="card"/>
+</div2>
+<div2 n="314" type="card">
 <l>Egressi superant fossas noctisque per umbram</l>
 <l n="315">castra inimica petunt, multis tamen ante futuri</l>
 <l>exitio. Passim somno vinoque per herbam</l>
@@ -7077,7 +7357,8 @@ Changed names and redid headers.
 <l>haec rapit atque umeris nequiquam fortibus aptat.</l>
 <l n="365">Tum galeam Messapi habilem cristisque decoram</l>
 <l>induit. Excedunt castris et tuta capessunt.</l>
-<milestone ed="p" n="367" unit="card"/>
+</div2>
+<div2 n="367" type="card">
 <l>Interea praemissi equites ex urbe Latina,</l>
 <l>cetera dum legio campis instructa moratur,</l>
 <l>ibant et Turno regi responsa ferebant,</l>
@@ -7131,7 +7412,8 @@ Changed names and redid headers.
 <l>ecce aliud summa telum librabat ab aure.</l>
 <l>Dum trepidant, it hasta Tago per tempus utrumque</l>
 <l>stridens traiectoque haesit tepefacta cerebro.</l>
-<milestone ed="p" n="420" unit="card"/>
+</div2>
+<div2 n="420" type="card">
 <l n="420">Saevit atrox Volcens nec teli conspicit usquam</l>
 <l>auctorem nec quo se ardens inmittere possit.</l>
 <l>&ldquo;Tu tamen interea calido mihi sanguine poenas</l>
@@ -7158,12 +7440,14 @@ Changed names and redid headers.
 <l>condidit adverso et moriens animam abstulit hosti.</l>
 <l>Tum super exanimum sese proiecit amicum</l>
 <l n="445">confossus placidaque ibi demum morte quievit.</l>
-<milestone ed="p" n="446" unit="card"/>
+</div2>
+<div2 n="446" type="card">
 <l>Fortunati ambo! Siquid mea carmina possunt,</l>
 <l>nulla dies umquam memori vos eximet aevo,</l>
 <l>dum domus Aeneae Capitoli immobile saxum</l>
 <l>accolet imperiumque pater Romanus habebit.</l>
-<milestone ed="p" n="450" unit="card"/>
+</div2>
+<div2 n="450" type="card">
 <l n="450">Victores praeda Rutuli spoliisque potiti</l>
 <l>Volcentem exanimum flentes in castra ferebant.</l>
 <l>Nec minor in castris luctus Rhamnete reperto</l>
@@ -7173,7 +7457,8 @@ Changed names and redid headers.
 <l>caede locum et plenos spumanti sanguine rivos.</l>
 <l>Agnoscunt spolia inter se galeamque nitentem</l>
 <l>Messapi et multo phaleras sudore receptas.</l>
-<milestone ed="p" n="459" unit="card"/>
+</div2>
+<div2 n="459" type="card">
 <l>Et iam prima novo spargebat lumine terras</l>
 <l n="460">Tithoni croceum linquens Aurora cubile:</l>
 <l>iam sole infuso, iam rebus luce retectis</l>
@@ -7188,7 +7473,8 @@ Changed names and redid headers.
 <l n="470">ingentisque tenent fossas et turribus altis</l>
 <l>stant maesti; simul ora virum praefixa movebant,</l>
 <l>nota nimis miseris atroque fluentia tabo.</l>
-<milestone ed="p" n="473" unit="card"/>
+</div2>
+<div2 n="473" type="card">
 <l>Interea pavidam volitans pennata per urbem</l>
 <l>nuntia Fama ruit matrisque adlabitur auris</l>
 <l n="475">Euryali. At subitus miserae calor ossa reliquit,</l>
@@ -7219,7 +7505,8 @@ Changed names and redid headers.
 <l n="500">Illam incendentem luctus Idaeus et Actor</l>
 <l>Illionei monitu et multum lacrimantis Iuli</l>
 <l>corripiunt interque manus sub tecta reponunt.</l>
-<milestone ed="p" n="503" unit="card"/>
+</div2>
+<div2 n="503" type="card">
 <l>At tuba terribilem sonitum procul aere canoro</l>
 <l>increpuit; sequitur clamor caelumque remugit.</l>
 <l n="505">Adcelerant acta pariter testudine Volsci</l>
@@ -7242,13 +7529,15 @@ Changed names and redid headers.
 <l>pinum et fumiferos infert Mezentius ignis;</l>
 <l>at Messapus equum domitor, Neptunia proles,</l>
 <l>rescindit vallum et scalas in moenia poscit.</l>
-<milestone ed="p" n="525" unit="card"/>
+</div2>
+<div2 n="525" type="card">
 <l n="525">Vos, o Calliope, precor, adspirate canenti,</l>
 <l>quas ibi tum ferro strages, quae funera Turnus</l>
 <l>ediderit, quem quisque virum demiserit Orco;</l>
 <l>et mecum ingentis oras evolvite belli,</l>
 <l><del>et meministis enim, divae, et memorare potestis.</del></l>
-<milestone ed="p" n="530" unit="card"/>
+</div2>
+<div2 n="530" type="card">
 <l n="530">Turris erat vasto suspectu et pontibus altis,</l>
 <l>opportuna loco, summis quam viribus omnes</l>
 <l>expugnare Itali summaque evertere opum vi</l>
@@ -7309,7 +7598,8 @@ Changed names and redid headers.
 <l>ipse ter adducta circum caput egit habena</l>
 <l>et media adversi liquefacto tempora plumbo</l>
 <l>diffidit ac multa porrectum extendit harena.</l>
-<milestone ed="p" n="590" unit="card"/>
+</div2>
+<div2 n="590" type="card">
 <l n="590">Tum primum bello celerem intendisse sagittam</l>
 <l>dicitur ante feras solitus terrere fugaces</l>
 <l>Ascanius fortemque manu fudisse Numanum,</l>
@@ -7341,7 +7631,8 @@ Changed names and redid headers.
 <l>Dindyma ubi adsuetis biforem dat tibia cantum!</l>
 <l>Tympana vos buxusque vocat Berecyntia Matris</l>
 <l n="620">Idaeae sinite arma viris et cedite ferro.&rdquo;</l>
-<milestone ed="p" n="621" unit="card"/>
+</div2>
+<div2 n="621" type="card">
 <l>Talia iactantem dictis ac dira canentem</l>
 <l>non tulit Ascanius nervoque obversus equino</l>
 <l>contendit telum diversaque bracchia ducens</l>
@@ -7359,7 +7650,8 @@ Changed names and redid headers.
 <l n="635">His capti Phryges haec Rutulis responsa remittunt.&rdquo;</l>
 <l>Hoc tantum Ascanius. Teucri clamore sequuntur</l>
 <l>laetitiaque fremunt animosque ad sidera tollunt.</l>
-<milestone ed="p" n="638" unit="card"/>
+</div2>
+<div2 n="638" type="card">
 <l>Aetheria tum forte plaga crinitus Apollo</l>
 <l>desuper Ausonias acies urbemque videbat,</l>
 <l n="640">nube sedens, atque his victorem adfatur Iulum:</l>
@@ -7394,7 +7686,8 @@ Changed names and redid headers.
 <l>verberat imber humum, quam multa grandine nimbi</l>
 <l n="670">in vada praecipitant, cum Iuppiter horridus austris</l>
 <l>torquet aquosam hiemem et caelo cava nubila rumpit.</l>
-<milestone ed="p" n="672" unit="card"/>
+</div2>
+<div2 n="672" type="card">
 <l>Pandarus et Bitias, Idaeo Alcanore creti,</l>
 <l>quos Iovis eduxit luco silvestris Iaera</l>
 <l>abietibus iuvenes patriis et montibus aequos,</l>
@@ -7414,7 +7707,8 @@ Changed names and redid headers.
 <l>Tum magis increscunt animis discordibus irae;</l>
 <l>et iam collecti Troes glomerantur eodem</l>
 <l n="690">et conferre manum et procurrere longius audent.</l>
-<milestone ed="p" n="691" unit="card"/>
+</div2>
+<div2 n="691" type="card">
 <l>Ductori Turno diversa in parte furenti</l>
 <l>turbantique viros perfertur nuntius, hostem</l>
 <l>fervere caede nova et portas praebere patentis.</l>
@@ -7441,7 +7735,8 @@ Changed names and redid headers.
 <l>miscent se maria, et nigrae attolluntur harenae;</l>
 <l n="715">tum sonitu Prochyta alta tremit durumque cubile</l>
 <l>Inarime Iovis imperiis imposta Typhoeo.</l>
-<milestone ed="p" n="717" unit="card"/>
+</div2>
+<div2 n="717" type="card">
 <l>Hic Mars armipotens animum viresque Latinis</l>
 <l>addidit et stimulos acris sub pectore vertit</l>
 <l>immisitque Fugam Teucris atrumque Timorem.</l>
@@ -7481,7 +7776,8 @@ Changed names and redid headers.
 <l>conlapsos artus atque arma cruenta cerebro</l>
 <l>sternit humi moriens, atque illi partibus aequis</l>
 <l n="755">huc caput atque illuc umero ex utroque pependit.</l>
-<milestone ed="p" n="756" unit="card"/>
+</div2>
+<div2 n="756" type="card">
 <l>Diffugiunt versi trepida formidine Troes:</l>
 <l>et si continuo victorem ea cura subisset,</l>
 <l>rumpere claustra manu sociosque immittere portis,</l>
@@ -7504,7 +7800,8 @@ Changed names and redid headers.
 <l n="775">Crethea Musarum comitem, cui carmina semper</l>
 <l>et citharae cordi numerosque intendere nervis.</l>
 <l><del>Semper equos atque arma virum pugnasque canebat.</del></l>
-<milestone ed="p" n="778" unit="card"/>
+</div2>
+<div2 n="778" type="card">
 <l>Tandem ductores audita caede suorum</l>
 <l>conveniunt Teucri, Mnestheus acerque Serestus,</l>
 <l n="780">palantisque vident socios hostemque receptum.</l>
@@ -7545,9 +7842,11 @@ Changed names and redid headers.
 <l n="815">Tum demum praeceps saltu sese omnibus armis</l>
 <l>in fluvium dedit: ille suo cum gurgite flavo</l>
 <l>accepit venientem ac mollibus extulit undis</l>
-<l>et laetum sociis abluta caede remisit.</l></div1>
+<l>et laetum sociis abluta caede remisit.</l>
+</div2>
+</div1>
 <div1 type="book" n="10">
-<milestone ed="p" n="1" unit="card"/>
+<div2 n="1" type="card">
 <l>Panditur interea domus omnipotentis Olympi,</l>
 <l>conciliumque vocat divom pater atque hominum rex</l>
 <l>sideream in sedem, terras unde arduus omnis</l>
@@ -7563,7 +7862,8 @@ Changed names and redid headers.
 <l>exitium magnum atque Alpes immittet apertas:</l>
 <l>tum certare odiis, tum res rapuisse licebit.</l>
 <l n="15">Nunc sinite et placitum laeti componite foedus.&rdquo;</l>
-<milestone ed="p" n="16" unit="card"/>
+</div2>
+<div2 n="16" type="card">
 <l>Iuppiter haec paucis; at non Venus aurea contra</l>
 <l>pauca refert:</l>
 <l>&ldquo;O pater, O hominum rerumque aeterna potestas!</l>
@@ -7611,7 +7911,8 @@ Changed names and redid headers.
 <l n="60">atque solum, quo Troia fuit? Xanthum et Simoenta</l>
 <l>redde, oro, miseris iterumque revolvere casus</l>
 <l>da, pater, Iliacos Teucris.&rdquo;</l> 
-<milestone ed="p" n="62" unit="card"/><l>Tum regia Iuno</l>
+</div2>
+<div2 n="62" type="card"><l>Tum regia Iuno</l>
 <l>acta furore gravi: &ldquo;Quid me alta silentia cogis</l>
 <l>rumpere et obductum verbis volgare dolorem?</l>
 <l n="65">Aenean hominum quisquam divomque subegit</l>
@@ -7645,7 +7946,8 @@ Changed names and redid headers.
 <l>aut ego tela dedi fovive cupidine bella?</l>
 <l>Tum decuit metuisse tuis: nunc sera querelis</l>
 <l n="95">haud iustis adsurgis et inrita iurgia iactas.&rdquo;</l>
-<milestone ed="p" n="96" unit="card"/>
+</div2>
+<div2 n="96" type="card">
 <l>Talibus orabat Iuno, cunctique fremebant</l>
 <l>caelicolae adsensu vario, ceu flamina prima</l>
 <l>cum deprensa fremunt silvis et caeca volutant</l>
@@ -7668,7 +7970,8 @@ Changed names and redid headers.
 <l n="115">adnuit et totum nutu tremefecit Olympum.</l>
 <l>Hic finis fandi. Solio tum Iuppiter aureo</l>
 <l>surgit, caelicolae medium quem ad limina ducunt.</l>
-<milestone ed="p" n="118" unit="card"/>
+</div2>
+<div2 n="118" type="card">
 <l>Interea Rutuli portis circum omnibus instant</l>
 <l>sternere caede viros et moenia cingere flammis.</l>
 <l n="120">At legio Aeneadum vallis obsessa tenetur,</l>
@@ -7697,7 +8000,8 @@ Changed names and redid headers.
 <l>Adfuit et Mnestheus, quem pulsi pristina Turni</l>
 <l>aggere moerorum sublimem gloria tollit,</l>
 <l n="145">et Capys: hinc nomen Campanae ducitur urbi.</l>
-<milestone ed="p" n="146" unit="card"/>
+</div2>
+<div2 n="146" type="card">
 <l>Illi inter sese duri certamina belli</l>
 <l>contulerant: media Aeneas freta nocte secabat.</l>
 <l>Namque ut ab Euandro castris ingressus Etruscis</l>
@@ -7715,11 +8019,13 @@ Changed names and redid headers.
 <l n="160">eventus belli varios, Pallasque sinistro</l>
 <l>adfixus lateri iam quaerit sidera, opacae</l>
 <l>noctis iter, iam quae passus terraque marique.</l>
-<milestone ed="p" n="163" unit="card"/>
+</div2>
+<div2 n="163" type="card">
 <l>Pandite nunc Helicona, deae, cantusque movete,</l>
 <l>quae manus interea Tuscis comitetur ab oris</l>
 <l n="165">Aenean armetque rates pelagoque vehatur.</l>
-<milestone ed="p" n="166" unit="card"/>
+</div2>
+<div2 n="166" type="card">
 <l>Massicus aerata princeps secat aequora tigri:</l>
 <l>sub quo mille manus iuvenum, qui moenia Clusi</l>
 <l>quique urbem liquere Cosas, quis tela sagittae</l>
@@ -7739,7 +8045,8 @@ Changed names and redid headers.
 <l>Tercentum adiciunt (mens omnibus una sequendi)</l>
 <l>qui Caerete domo, qui sunt Minionis in arvis,</l>
 <l>et Pyrgi veteres intempestaeque Graviscae.</l>
-<milestone ed="p" n="185" unit="card"/>
+</div2>
+<div2 n="185" type="card">
 <l n="185">Non ego te, Ligurum ductor fortissime bello,</l>
 <l>transierim, Cinyre, et paucis comitate Cupavo,</l>
 <l>cuius olorinae surgunt de vertice pennae,</l>
@@ -7753,7 +8060,8 @@ Changed names and redid headers.
 <l n="195">ingentem remis Centaurum promovet: ille</l>
 <l>instat aquae saxumque undis immane minatur</l>
 <l>arduus et longa sulcat maria alta carina.</l>
-<milestone ed="p" n="198" unit="card"/>
+</div2>
+<div2 n="198" type="card">
 <l>Ille etiam patriis agmen ciet Ocnus ab oris,</l>
 <l>fatidicae Mantus et Tusci filius amnis,</l>
 <l n="200">qui muros matrisque dedit tibi, Mantua, nomen,</l>
@@ -7771,7 +8079,8 @@ Changed names and redid headers.
 <l>spumea semifero sub pectore murmurat unda.</l>
 <l>Tot lecti proceres ter denis navibus ibant</l>
 <l>subsidio Troiae et campos salis aera secabant.</l>
-<milestone ed="p" n="215" unit="card"/>
+</div2>
+<div2 n="215" type="card">
 <l n="215">Iamque dies caelo concesserat almaque curru</l>
 <l>noctivago Phoebe medium pulsabat Olympum:</l>
 <l>Aeneas (neque enim membris dat cura quietem)</l>
@@ -7817,7 +8126,8 @@ Changed names and redid headers.
 <l>matura iam luce dies noctemque fugarat:</l>
 <l>principio sociis edicit, signa sequantur</l>
 <l>atque animos aptent armis pugnaeque parent se.</l>
-<milestone ed="p" n="260" unit="card"/>
+</div2>
+<div2 n="260" type="card">
 <l n="260">Iamque in conspectu Teucros habet et sua castra,</l>
 <l>stans celsa in puppi; clipeum cum deinde sinistra</l>
 <l>extulit ardentem. Clamorem ad sidera tollunt</l>
@@ -7834,7 +8144,8 @@ Changed names and redid headers.
 <l>sanguinei lugubre rubent aut Sirius ardor,</l>
 <l>ille sitim morbosque ferens mortalibus aegris,</l>
 <l n="275">nascitur et laevo contristat lumine caelum.</l>
-<milestone ed="p" n="276" unit="card"/>
+</div2>
+<div2 n="276" type="card">
 <l>Haud tamen audaci Turno fiducia cessit</l>
 <l>litora praecipere et venientis pellere terra.</l>
 <l><del>ultro animos tollit dictis atque increpat ultro</del></l>
@@ -7846,7 +8157,8 @@ Changed names and redid headers.
 <l>Audentis Fortuna iuvat,&rdquo;</l>
 <l n="285">haec ait et secum versat, quos ducere contra</l>
 <l>vel quibus obsessos possit concredere muros.</l>
-<milestone ed="p" n="287" unit="card"/>
+</div2>
+<div2 n="287" type="card">
 <l>Interea Aeneas socios de puppibus altis</l>
 <l>pontibus exponit. Multi servare recursus</l>
 <l>languentis pelagi et brevibus se credere saltu,</l>
@@ -7868,7 +8180,8 @@ Changed names and redid headers.
 <l n="305">solvitur atque viros mediis exponit in undis</l>
 <l>fragmina remorum quos et fluitantia transtra</l>
 <l>impediunt, retrahitque pedem simul unda relabens.</l>
-<milestone ed="p" n="308" unit="card"/>
+</div2>
+<div2 n="308" type="card">
 <l>Nec Turnum segnis retinet mora, sed rapit acer</l>
 <l>totam aciem in Teucros et contra in litore sistit.</l>
 <l n="310">Signa canunt. Primus turmas invasit agrestis</l>
@@ -7906,7 +8219,8 @@ Changed names and redid headers.
 <l>Tum Numitor iaculo fratris de corpore rapto</l>
 <l>Aenean petiit; sed non et figere contra</l>
 <l>est licitum, magnique femur perstrinxit Achatae.</l>
-<milestone ed="p" n="345" unit="card"/>
+</div2>
+<div2 n="345" type="card">
 <l n="345">Hic Curibus fidens primaevo corpore Clausus</l>
 <l>advenit et rigida Dryopem ferit eminus hasta</l>
 <l>sub mentum graviter pressa pariterque loquentis</l>
@@ -7924,7 +8238,8 @@ Changed names and redid headers.
 <l>anceps pugna diu, stant obnixa omnia contra:</l>
 <l n="360">haud aliter Troianae acies aciesque Latinae</l>
 <l>concurrunt; haeret pede pes densusque viro vir.</l>
-<milestone ed="p" n="362" unit="card"/>
+</div2>
+<div2 n="362" type="card">
 <l>At parte ex alia, qua saxa rotantia late</l>
 <l>impulerat torrens arbustaque diruta ripis,</l>
 <l>Arcadas insuetos acies inferre pedestris</l>
@@ -7943,7 +8258,8 @@ Changed names and redid headers.
 <l>Ecce, maris magna claudit nos obice pontus,</l>
 <l>deest iam terra fugae: pelagus Troiamne petemus?&rdquo;</l>
 <l>Haec ait et medius densos prorumpit in hostis.</l>
-<milestone ed="p" n="380" unit="card"/>
+</div2>
+<div2 n="380" type="card">
 <l n="380">Obvius huic primum, fatis adductus iniquis,</l>
 <l>fit Lagus. Hunc, magno vellit dum pondere saxum,</l>
 <l>intorto figit telo, discrimina costis</l>
@@ -7963,7 +8279,8 @@ Changed names and redid headers.
 <l>semianimesque micant digiti ferrumque retractant.</l>
 <l>Arcadas accensos monitu et praeclara tuentis</l>
 <l>facta viri mixtus dolor et pudor armat in hostis.</l>
-<milestone ed="p" n="399" unit="card"/>
+</div2>
+<div2 n="399" type="card">
 <l>Tum Pallas biiugis fugientem Rhoetea praeter</l>
 <l n="400">traicit. Hoc spatium tantumque morae fuit Ilo;</l>
 <l>Ilo namque procul validam direxerat hastam,</l>
@@ -7991,7 +8308,8 @@ Changed names and redid headers.
 <l>Haec arma exuviasque viri tua quercus habebit.&rdquo;</l>
 <l>Audiit illa deus: dum texit Imaona Halaesus,</l>
 <l n="425">Arcadio infelix telo dat pectus inermum.</l>
-<milestone ed="p" n="426" unit="card"/>
+</div2>
+<div2 n="426" type="card">
 <l>At non caede viri tanta perterrita Lausus,</l>
 <l>pars ingens belli, sinit agmina: primus Abantem</l>
 <l>oppositum interimit, pugnae nodumque moramque.</l>
@@ -8005,7 +8323,8 @@ Changed names and redid headers.
 <l>in patriam reditus. Ipsos concurrere passus</l>
 <l>haud tamen inter se magni regnator Olympi:</l>
 <l>mox illos sua fata manent maiore sub hoste.</l>
-<milestone ed="p" n="439" unit="card"/>
+</div2>
+<div2 n="439" type="card">
 <l>Interea soror alma monet succedere Lauso</l>
 <l n="440">Turnum, qui volucri curru medium secat agmen.</l>
 <l>Ut vidit socios: &ldquo;Tempus desistere pugnae;</l>
@@ -8046,7 +8365,8 @@ Changed names and redid headers.
 <l>Illa volans umeri surgunt qua tegmina summa</l>
 <l>incidit atque viam clipei molita per oras</l>
 <l>tandem etiam magno strinxit de corpore Turni.</l>
-<milestone ed="p" n="479" unit="card"/>
+</div2>
+<div2 n="479" type="card">
 <l>Hic Turnus ferro praefixum robur acuto</l>
 <l n="480">in Pallanta diu librans iacit atque ita fatur:</l>
 <l>&ldquo;Adspice, num mage sit nostrum penetrabile telum.&rdquo;</l>
@@ -8078,7 +8398,8 @@ Changed names and redid headers.
 <l>O dolor atque decus magnum rediture parenti</l>
 <l>haec te prima dies bello dedit, haec eadem aufert,</l>
 <l>cum tamen ingentis Rutulorum linquis acervos.</l>
-<milestone ed="p" n="510" unit="card"/>
+</div2>
+<div2 n="510" type="card">
 <l n="510">Nec iam fama mali tanti, sed certior auctor</l>
 <l>advolat Aeneae, tenui discrimine leti</l>
 <l>esse suos, versis tempus succurrere Teucris.</l>
@@ -8112,7 +8433,8 @@ Changed names and redid headers.
 <l n="540">Quem congressus agit campo lapsumque superstans</l>
 <l>immolat ingentique umbra tegit; arma Serestus</l>
 <l>lecta refert umeris, tibi, rex Gradive, tropaeum.</l>
-<milestone ed="p" n="543" unit="card"/>
+</div2>
+<div2 n="543" type="card">
 <l>Instaurant acies Volcani stirpe creatus</l>
 <l>Caeculus et veniens Marsorum montibus Umbro:</l>
 <l n="545">Dardanides contra furit. Anxuris ense sinistram</l>
@@ -8145,7 +8467,8 @@ Changed names and redid headers.
 <l>Atque illi longe gradientem et dira frementem</l>
 <l>ut videre, metu versi retroque ruentes</l>
 <l>effunduntque ducem rapiuntque ad litora currus.</l>
-<milestone ed="p" n="575" unit="card"/>
+</div2>
+<div2 n="575" type="card">
 <l n="575">Interea biiugis infert se Lucagus albis</l>
 <l>in medios fraterque Liger; sed frater habenis</l>
 <l>flectit equos, strictum rotat acer Lucagus ensem.</l>
@@ -8177,7 +8500,8 @@ Changed names and redid headers.
 <l>Dardanius, torrentis aquae vel turbinis atri</l>
 <l>more furens. Tandem erumpunt et castra relinquunt</l>
 <l n="605">Ascanius puer et nequiquam obsessa iuventus.</l>
-<milestone ed="p" n="606" unit="card"/>
+</div2>
+<div2 n="606" type="card">
 <l>Iunonem interea compellat Iuppiter ultro:</l>
 <l>&ldquo;O germana mihi atque eadem gratissima coniunx,</l>
 <l>ut rebare, Venus, nec te sententia fallit,</l>
@@ -8205,7 +8529,8 @@ Changed names and redid headers.
 <l n="630">Nunc manet insontem gravis exitus, aut ego veri</l>
 <l>vana feror. Quod ut O potius formidine falsa</l>
 <l>ludar et in melius tua, qui potes, orsa reflectas!&rdquo;</l>
-<milestone ed="p" n="633" unit="card"/>
+</div2>
+<div2 n="633" type="card">
 <l>Haec ubi dicta dedit, caelo se protinus alto</l>
 <l>misit, agens hiemem nimbo succincta per auras,</l>
 <l n="635">Iliacamque aciem et Laurentia castra petivit.</l>
@@ -8226,7 +8551,8 @@ Changed names and redid headers.
 <l n="650">hac dabitur dextra tellus quaesita per undas.&rdquo;</l>
 <l>Talia vociferans sequitur strictumque coruscat</l>
 <l>mucronem nec ferre videt sua gaudia ventos.</l>
-<milestone ed="p" n="653" unit="card"/>
+</div2>
+<div2 n="653" type="card">
 <l>Forte ratis celsi coniuncta crepidine saxi</l>
 <l>expositis stabat scalis et ponte parato,</l>
 <l n="655">qua rex Clusinis advectus Osinius oris.</l>
@@ -8263,7 +8589,8 @@ Changed names and redid headers.
 <l>continuit iuvenemque animi miserata repressit.</l>
 <l>Labitur alta secans fluctuque aestuque secundo</l>
 <l>et patris antiquam Dauni defertur ad urbem.</l>
-<milestone ed="p" n="689" unit="card"/>
+</div2>
+<div2 n="689" type="card">
 <l>At Iovis interea monitis Mezentius ardens</l>
 <l n="690">succedit pugnae Teucrosque invadit ovantis.</l>
 <l>Concurrunt Tyrrhenae acies atque omnibus uni,</l>
@@ -8294,7 +8621,8 @@ Changed names and redid headers.
 <l>missilibus longe et vasto clamore lacessunt:</l>
 <l>ille autem impavidus partis cunctatur in omnis,</l>
 <l>dentibus infrendens, et tergo decutit hastas.</l>
-<milestone ed="p" n="719" unit="card"/>
+</div2>
+<div2 n="719" type="card">
 <l>Venerat antiquis Corythi de finibus Acron,</l>
 <l n="720">Graius homo, infectos linquens profugus hymenaeos.</l>
 <l>Hunc ubi miscentem longe media agmina vidit,</l>
@@ -8323,7 +8651,8 @@ Changed names and redid headers.
 <l>viderit.&rdquo; Hoc dicens eduxit corpore telum:</l>
 <l n="745">olli dura quies oculos et ferreus urget</l>
 <l>somnus, in aeternam clauduntur lumina noctem.</l>
-<milestone ed="p" n="747" unit="card"/>
+</div2>
+<div2 n="747" type="card">
 <l>Caedicus Alcathoum obtruncat, Sacrator Hydaspen</l>
 <l>Partheniumque Rapo et praedurum viribus Orsen,</l>
 <l>Messapus Croniumque Lycaoniumque Erichaeten,</l>
@@ -8332,7 +8661,8 @@ Changed names and redid headers.
 <l>quem tamen haud expers Valerus virtutis avitae</l>
 <l>deicit; at Thronium Salius Saliumque Nealces</l>
 <l>insidiis, iaculo et longe fallente sagitta.</l>
-<milestone ed="p" n="755" unit="card"/>
+</div2>
+<div2 n="755" type="card">
 <l n="755">Iam gravis aequabat luctus et mutua Mavors</l>
 <l>funera: caedebant pariter pariterque ruebant</l>
 <l>victores victique, neque his fuga nota neque illis.</l>
@@ -8347,7 +8677,8 @@ Changed names and redid headers.
 <l>aut summis referens annosam montibus ornum</l>
 <l>ingrediturque solo et caput inter nubila condit:</l>
 <l>talis se vastis infert Mezentius armis.</l>
-<milestone ed="p" n="769" unit="card"/>
+</div2>
+<div2 n="769" type="card">
 <l>Huic contra Aeneas, speculatus in agmine longo,</l>
 <l n="770">obvius ire parat. Manet imperterritus ille,</l>
 <l>hostem magnanimum opperiens, et mole sua stat;</l>
@@ -8370,7 +8701,8 @@ Changed names and redid headers.
 <l>eripit a femine et trepidanti fervidus instat.</l>
 <l>Ingemuit cari graviter genitoris amore,</l>
 <l n="790">ut vidit, Lausus, lacrimaeque per ora volutae.</l>
-<milestone ed="p" n="791" unit="card"/>
+</div2>
+<div2 n="791" type="card">
 <l>Hic mortis durae casum tuaque optima facta,</l>
 <l>siqua fidem tanto est operi latura vetustas,</l>
 <l>non equidem nec te, iuvenis memorande, silebo.</l>
@@ -8413,7 +8745,8 @@ Changed names and redid headers.
 <l n="830">Aeneae magni dextra cadis.&rdquo; Increpat ultro</l>
 <l>cunctantis socios et terra sublevat ipsum,</l>
 <l>sanguine turpantem comptos de more capillos.</l>
-<milestone ed="p" n="833" unit="card"/>
+</div2>
+<div2 n="833" type="card">
 <l>Interea genitor Tiberini ad fluminis undam</l>
 <l>volnera siccabat lymphis corpusque levabat</l>
 <l n="835">arboris adclinis trunco. Procul aerea ramis</l>
@@ -8454,7 +8787,8 @@ Changed names and redid headers.
 <l n="870">Sic cursum in medios rapidus dedit: aestuat ingens</l>
 <l>uno in corde pudor mixtoque insania luctu,</l>
 <l><del>et furiis agitatus amor et conscia virtus.</del></l>
-<milestone ed="p" n="873" unit="card"/>
+</div2>
+<div2 n="873" type="card">
 <l>Atque hic Aenean magna ter voce vocavit.</l>
 <l>Aeneas agnovit enim laetusque precatur:</l>
 <l n="875">&ldquo;Sic pater ille deum faciat, sic altus Apollo,</l>
@@ -8490,9 +8824,11 @@ Changed names and redid headers.
 <l n="905">circumstare odia: hunc, oro, defende furorem</l>
 <l>et me consortem nati concede sepulchro.&rdquo;</l>
 <l>Haec loquitur iuguloque haud inscius accipit ensem</l>
-<l>undantique animam diffundit in arva cruore.</l></div1>
+<l>undantique animam diffundit in arva cruore.</l>
+</div2>
+</div1>
 <div1 type="book" n="11">
-<milestone ed="p" n="1" unit="card"/>
+<div2 n="1" type="card">
 <l>Oceanum interea surgens Aurora reliquit:</l>
 <l>Aeneas, quamquam et sociis dare tempus humandis</l>
 <l>praecipitant curae turbataque funere mens est,</l>
@@ -8521,7 +8857,8 @@ Changed names and redid headers.
 <l>muneribus, maestamque Evandri primus ad urbem</l>
 <l>mittatur Pallas, quem non virtutis egentem</l>
 <l>abstulit atra dies et funere mersit acerbo.&rdquo;</l>
-<milestone ed="p" n="29" unit="card"/>
+</div2>
+<div2 n="29" type="card">
 <l>Sic ait inlacrimans recipitque ad limina gressum,</l>
 <l n="30">corpus ubi exanimi positum Pallantis Acoetes</l>
 <l>servabat senior, qui Parrhasio Evandro</l>
@@ -8552,7 +8889,8 @@ Changed names and redid headers.
 <l>vulneribus pulsum adspicies nec sospite dirum</l>
 <l>optabis nato funus pater. Ei mihi, quantum</l>
 <l>praesidium Ausonia et quantum tu perdis, Iule!&rdquo;</l>
-<milestone ed="p" n="59" unit="card"/>
+</div2>
+<div2 n="59" type="card">
 <l>Haec ubi deflevit, tolli miserabile corpus</l>
 <l n="60">imperat et toto lectos ex agmine mittit</l>
 <l>mille viros, qui supremum comitentur honorem</l>
@@ -8594,7 +8932,8 @@ Changed names and redid headers.
 <l>fata vocant: salve aeternum mihi, maxime Palla,</l>
 <l>aeternumque vale.&rdquo; Nec plura effatus ad altos</l>
 <l>tendebat muros gressumque in castra ferebat.</l>
-<milestone ed="p" n="100" unit="card"/>
+</div2>
+<div2 n="100" type="card">
 <l n="100">Iamque oratores aderant ex urbe Latina,</l>
 <l>velati ramis oleae veniamque rogantes:</l>
 <l>corpora, per campos ferro quae fusa iacebant,</l>
@@ -8617,7 +8956,8 @@ Changed names and redid headers.
 <l>Nunc ite et miseris supponite civibus ignem.&rdquo;</l>
 <l n="120">Dixerat Aeneas. Illi obstipuere silentes</l>
 <l>conversique oculos inter se atque ora tenebant.</l>
-<milestone ed="p" n="122" unit="card"/>
+</div2>
+<div2 n="122" type="card">
 <l>Tum senior semperque odiis et crimine Drances</l>
 <l>infensus iuveni Turno sic ore vicissim</l>
 <l>orsa refert: &ldquo;O fama ingens, ingentior armis</l>
@@ -8635,7 +8975,8 @@ Changed names and redid headers.
 <l>fraxinus, evertunt actas ad sidera pinus,</l>
 <l>robora nec cuneis et olentem scindere cedrum</l>
 <l>nec plaustris cessant vectare gementibus ornos.</l>
-<milestone ed="p" n="139" unit="card"/>
+</div2>
+<div2 n="139" type="card">
 <l>Et iam Fama volans, tanti praenuntia luctus,</l>
 <l n="140">Evandrum Evandrique domos et moenia replet,</l>
 <l>quae modo victorem Latio Pallanta ferebat.</l>
@@ -8679,7 +9020,8 @@ Changed names and redid headers.
 <l>quam debere vides. Meritis vacat hic tibi solus</l>
 <l n="180">fortunaeque locus. Non vitae gaudia quaero,</l>
 <l>nec fas, sed nato Manis perferre sub imos.&rdquo;</l>
-<milestone ed="p" n="182" unit="card"/>
+</div2>
+<div2 n="182" type="card">
 <l>Aurora interea miseris mortalibus almam</l>
 <l>extulerat lucem, referens opera atque labores:</l>
 <l>iam pater Aeneas, iam curvo in litore Tarchon</l>
@@ -8701,7 +9043,8 @@ Changed names and redid headers.
 <l n="200">ardentis spectant socios semustaque servant</l>
 <l>busta neque avelli possunt, nox umida donec</l>
 <l>invertit caelum stellis ardentibus aptum.</l>
-<milestone ed="p" n="203" unit="card"/>
+</div2>
+<div2 n="203" type="card">
 <l>Nec minus et miseri diversa in parte Latini</l>
 <l>innumeras struxere pyras, et corpora partim</l>
 <l n="205">multa virum terrae infodiunt avectaque partim</l>
@@ -8724,7 +9067,8 @@ Changed names and redid headers.
 <l>Multa simul contra variis sententia dictis</l>
 <l>pro Turno, et magnum reginae nomen obumbrat,</l>
 <l>multa virum meritis sustentat fama tropaeis.</l>
-<milestone ed="p" n="225" unit="card"/>
+</div2>
+<div2 n="225" type="card">
 <l n="225">Hos inter motus, medio in flagrante tumultu,</l>
 <l>ecce super maesti magna Diomedis ab urbe</l>
 <l>legati responsa ferunt: nihil omnibus actum</l>
@@ -8743,7 +9087,8 @@ Changed names and redid headers.
 <l n="240">quae referant, fari iubet et responsa reposcit</l>
 <l>ordine cuncta suo. Tum facta silentia linguis,</l>
 <l>et Venulus dicto parens ita farier infit:</l>
-<milestone ed="p" n="243" unit="card"/>
+</div2>
+<div2 n="243" type="card">
 <l>&ldquo;Vidimus, o cives, Diomedem Argivaque castra</l>
 <l>atque iter emensi casus superavimus omnis</l>
 <l n="245">contigimusque manum, qua concidit Ilia tellus.</l>
@@ -8797,14 +9142,16 @@ Changed names and redid headers.
 <l>qua datur; ast armis concurrant arma cavete.&rdquo;</l>
 <l>Et responsa simul quae sint, rex optime, regis</l>
 <l n="295">audisti et quae sit magno sententia bello.&rdquo;</l>
-<milestone ed="p" n="296" unit="card"/>
+</div2>
+<div2 n="296" type="card">
 <l>Vix ea legati, variusque per ora cucurrit</l>
 <l>Ausonidum turbata fremor: ceu saxa morantur</l>
 <l>cum rapidos amnis, fit clauso gurgite murmur</l>
 <l>vicinaeque fremunt ripae crepitantibus undis.</l>
 <l n="300">Ut primum placati animi et trepida ora quierunt,</l>
 <l>praefatus divos solio rex infit ab alto:</l>
-<milestone ed="p" n="302" unit="card"/>
+</div2>
+<div2 n="302" type="card">
 <l>&ldquo;Ante equidem summa de re statuisse, Latini,</l>
 <l>et vellem et fuerat melius, non tempore tali</l>
 <l>cogere concilium. cum muros adsidet hostis.</l>
@@ -8839,7 +9186,8 @@ Changed names and redid headers.
 <l>munera portantis aurique eborisque talenta</l>
 <l>et sellam regni trabeamque insignia nostri.</l>
 <l n="335">Consulite in medium et rebus succurrite fessis.&rdquo;</l>
-<milestone ed="p" n="336" unit="card"/>
+</div2>
+<div2 n="336" type="card">
 <l>Tum Drances idem infensus, quem gloria Turni</l>
 <l>obliqua invidia stimulisque agitabat amaris,</l>
 <l>largus opum et lingua melior, sed frigida bello</l>
@@ -8880,7 +9228,8 @@ Changed names and redid headers.
 <l>sternamur campis. Etiam tu, siqua tibi vis,</l>
 <l>si patrii quid Martis habes, illum aspice contra,</l>
 <l n="375">qui vocat.&rdquo;</l>
-<milestone ed="p" n="376" unit="card"/>
+</div2>
+<div2 n="376" type="card">
 <l>Talibus exarsit dictis violentia Turni;</l>
 <l>dat gemitum rumpitque has imo pectore voces</l>
 <l>&ldquo;Larga quidem, Drance, semper tibi copia fandi</l>
@@ -8904,7 +9253,8 @@ Changed names and redid headers.
 <l>Haud ita me experti Bitias et Pandarus ingens</l>
 <l>et quos mille die victor sub Tartara misi,</l>
 <l>inclusus muris hostilique aggere saeptus.</l>
-<milestone ed="p" n="397" unit="card"/>
+</div2>
+<div2 n="397" type="card">
 <l>&ldquo;Nulla salus bello.&rdquo; Capiti cane talia, demens,</l>
 <l n="400">Dardanio rebusque tuis. Proinde omnia magno</l>
 <l>ne cessa turbare metu atque extollere vires</l>
@@ -8951,7 +9301,8 @@ Changed names and redid headers.
 <l>devovi. &ldquo;Solum Aeneas vocat&rdquo;: et vocet oro,</l>
 <l>nec Drances potius, sive est haec ira deorum,</l>
 <l>morte luat, sive est virtus et gloria, tollat.&rdquo;</l>
-<milestone ed="p" n="445" unit="card"/>
+</div2>
+<div2 n="445" type="card">
 <l n="445">Illi haec inter se dubiis de rebus agebant</l>
 <l>certantes; castra Aeneas aciemque movebat:</l>
 <l>nuntius ingenti per regia tecta tumultu</l>
@@ -8975,7 +9326,8 @@ Changed names and redid headers.
 <l n="465">et cum fratre Coras latis diffundite campis.</l>
 <l>Pars aditus urbis firmet turrisque capessat,</l>
 <l>cetera, qua iusso, mecum manus inferat arma.&rdquo;</l>
-<milestone ed="p" n="468" unit="card"/>
+</div2>
+<div2 n="468" type="card">
 <l>Ilicet in muros tota discurritur urbe.</l>
 <l>Consilium ipse pater et magna incepta Latinus</l>
 <l n="470">deserit ac tristi turbatus tempore differt</l>
@@ -9006,7 +9358,8 @@ Changed names and redid headers.
 <l n="495">aut adsuetus aquae perfundi flumine noto</l>
 <l>emicat adrectisque fremit cervicibus alte</l>
 <l>luxurians, luduntque iubae per colla, per armos.</l>
-<milestone ed="p" n="498" unit="card"/>
+</div2>
+<div2 n="498" type="card">
 <l>Obvia cui Volscorum acie comitante Camilla</l>
 <l>occurrit portisque ab equo regina sub ipsis</l>
 <l n="500">desiluit, quam tota cohors imitata relictis</l>
@@ -9031,7 +9384,8 @@ Changed names and redid headers.
 <l>Tiburtique manus, ducis et tu concipe curam.&rdquo;</l>
 <l n="520">Sic ait, et paribus Messapum in proelia dictis</l>
 <l>hortatur sociosque duces et pergit in hostem.</l>
-<milestone ed="p" n="522" unit="card"/>
+</div2>
+<div2 n="522" type="card">
 <l>Est curvo anfractu valles, adcommoda fraudi</l>
 <l>armorumque dolis, quam densis frondibus atrum</l>
 <l>urget utrimque latus, tenuis quo semita ducit</l>
@@ -9042,7 +9396,8 @@ Changed names and redid headers.
 <l>sive instare iugis et grandia volvere saxa.</l>
 <l n="530">Huc iuvenis nota fertur regione viarum</l>
 <l>arripuitque locum et silvis insedit iniquis.</l>
-<milestone ed="p" n="532" unit="card"/>
+</div2>
+<div2 n="532" type="card">
 <l>Velocem interea superis in sedibus Opim,</l>
 <l>unam ex virginibus sociis sacraque caterva,</l>
 <l>compellabat et has tristis Latonia voces</l>
@@ -9068,7 +9423,8 @@ Changed names and redid headers.
 <l>huic natam, libro et silvestri subere clausam,</l>
 <l n="555">implicat atque habilem mediae circumligat hastae;</l>
 <l>quam dextra ingenti librans ita ad aethera fatur:</l>
-<milestone ed="p" n="557" unit="card"/>
+</div2>
+<div2 n="557" type="card">
 <l>&ldquo;Alma, tibi hanc, nemorum cultrix, Latonia virgo,</l>
 <l>ipse pater famulam voveo; tua prima per auras</l>
 <l>tela tenens supplex hostem fugit. Accipe, testor,</l>
@@ -9109,7 +9465,8 @@ Changed names and redid headers.
 <l>inspoliata feram tumulo patriaeque reponam.&rdquo;</l>
 <l n="595">Dixit; at illa levis caeli delapsa per auras</l>
 <l>insonuit, nigro circumdata turbine corpus.</l>
-<milestone ed="p" n="597" unit="card"/>
+</div2>
+<div2 n="597" type="card">
 <l>At manus interea muris Troiana propinquat</l>
 <l>Etruscique duces equitumque exercitus omnis,</l>
 <l>compositi numero in turmas. Fremit aequore toto</l>
@@ -9131,7 +9488,8 @@ Changed names and redid headers.
 <l n="615">pectora pectoribus rumpunt: excussus Aconteus</l>
 <l>fulminis in morem aut tormento ponderis acti</l>
 <l>praecipitat longe et vitam dispergit in auras.</l>
-<milestone ed="p" n="618" unit="card"/>
+</div2>
+<div2 n="618" type="card">
 <l>Extemplo turbatae acies, versique Latini</l>
 <l>reiciunt parmas et equos ad moenia vertunt.</l>
 <l n="620">Troes agunt, princeps turmas inducit Asilas.</l>
@@ -9162,7 +9520,8 @@ Changed names and redid headers.
 <l n="645">acta tremit duplicatque virum transfixa dolore.</l>
 <l>Funditur ater ubique cruor; dant funera ferro</l>
 <l>certantes pulchramque petunt per vulnera mortem.</l>
-<milestone ed="p" n="648" unit="card"/>
+</div2>
+<div2 n="648" type="card">
 <l>At medias inter caedes exsultat Amazon,</l>
 <l>unum exserta latus pugnae, pharetrata Camilla,</l>
 <l n="650">et nunc lenta manu spargens hastilia denset,</l>
@@ -9179,7 +9538,8 @@ Changed names and redid headers.
 <l>seu circum Hippolyten, seu cum se Martia curru</l>
 <l>Penthesilea refert, magnoque ululante tumultu</l>
 <l>feminea exsultant lunatis agmina peltis.</l>
-<milestone ed="p" n="664" unit="card"/>
+</div2>
+<div2 n="664" type="card">
 <l>Quem telo primum, quem postremum, aspera virgo,</l>
 <l n="665">deicis? Aut quot humi morientia corpora fundis?</l>
 <l>Eunaeum Clitio primum patre, cuius apertum</l>
@@ -9206,7 +9566,8 @@ Changed names and redid headers.
 <l>Advenit qui vestra dies muliebribus armis</l>
 <l>verba redarguerit. Nomen tamen haud leve patrum</l>
 <l>manibus hoc referes, telo cecidisse Camillae.&rdquo;</l>
-<milestone ed="p" n="690" unit="card"/>
+</div2>
+<div2 n="690" type="card">
 <l n="690">Protinus Orsilochum et Buten, duo maxima Teucrum</l>
 <l>corpora, sed Buten aversum cuspide fixit</l>
 <l>loricam galeamque inter, qua colla sedentis</l>
@@ -9242,7 +9603,8 @@ Changed names and redid headers.
 <l>consequitur pennis sublimem in nube columbam</l>
 <l>comprensamque tenet pedibusque eviscerat uncis;</l>
 <l>tum cruor et vulsae labuntur ab aethere plumae.</l>
-<milestone ed="p" n="725" unit="card"/>
+</div2>
+<div2 n="725" type="card">
 <l n="725">At non haec nullis hominum sator atque deorum</l>
 <l>observans oculis summo sedet altus Olympo:</l>
 <l>Tyrrhenum genitor Tarchonem in proelia saeva</l>
@@ -9286,7 +9648,8 @@ Changed names and redid headers.
 <l n="765">hac iuvenis furtim celeris detorquet habenas.</l>
 <l>Hos aditus iamque hos aditus omnemque pererrat</l>
 <l>undique circuitum et certam quatit improbus hastam.</l>
-<milestone ed="p" n="768" unit="card"/>
+</div2>
+<div2 n="768" type="card">
 <l>Forte sacer Cybelo Chloreus olimque sacerdos</l>
 <l>insignis longe Phrygiis fulgebat in armis</l>
 <l n="770">spumantemque agitabat equum, quem pellis a&euml;nis</l>
@@ -9313,7 +9676,8 @@ Changed names and redid headers.
 <l>virginis aut spolia ulla peto (mihi cetera laudem</l>
 <l>facta ferent): haec dira meo dum vulnere pestis</l>
 <l>pulsa cadat, patrias remeabo inglorius urbes.</l>
-<milestone ed="p" n="794" unit="card"/>
+</div2>
+<div2 n="794" type="card">
 <l>Audiit et voti Phoebus succedere partem</l>
 <l n="795">mente dedit, partem volucris dispersit in auras:</l>
 <l>sterneret ut subita turbatam morte Camillam,</l>
@@ -9356,7 +9720,8 @@ Changed names and redid headers.
 <l>sidera: deiecta crudescit pugna Camilla,</l>
 <l>incurrunt densi simul omnis copia Teucrum</l>
 <l n="835">Tyrrhenique duces Evandrique Arcades alae.</l>
-<milestone ed="p" n="836" unit="card"/>
+</div2>
+<div2 n="836" type="card">
 <l>At Triviae custos iamdudum in montibus Opis</l>
 <l>alta sedet summis spectatque interrita pugnas.</l>
 <l>Utque procul medio iuvenum in clamore furentum</l>
@@ -9389,7 +9754,8 @@ Changed names and redid headers.
 <l n="865">Illum exspirantem socii atque extrema gementem</l>
 <l>obliti ignoto camporum in pulvere linquunt,</l>
 <l>Opis ad aetherium pennis aufertur Olympum.</l>
-<milestone ed="p" n="868" unit="card"/>
+</div2>
+<div2 n="868" type="card">
 <l>Prima fugit domina amissa levis ala Camillae;</l>
 <l>turbati fugiunt Rutuli, fugit acer Atinas</l>
 <l n="870">disiectique duces desolatique manipli</l>
@@ -9418,7 +9784,8 @@ Changed names and redid headers.
 <l>tela manu trepidae iaciunt ac robore duro</l>
 <l>stipitibus ferrum sudibusque imitantur obustis</l>
 <l n="895">praecipites primaeque mori pro moenibus ardent.</l>
-<milestone ed="p" n="896" unit="card"/>
+</div2>
+<div2 n="896" type="card">
 <l>Interea Turnum in silvis saevissimus implet</l>
 <l>nuntius, et iuveni ingentem fert Acca tumultum:</l>
 <l>deletas Volscorum acies, cecidisse Camillam,</l>
@@ -9438,9 +9805,11 @@ Changed names and redid headers.
 <l>Continuoque ineant pugnas et proelia temptent,</l>
 <l>ni roseus fessos iam gurgite Phoebus Hibero</l>
 <l>tinguat equos noctemque die labente reducat:</l>
-<l n="915">considunt castris ante urbem et moenia vallant.</l></div1>
+<l n="915">considunt castris ante urbem et moenia vallant.</l>
+</div2>
+</div1>
 <div1 type="book" n="12">
-<milestone ed="p" n="1" unit="card"/>
+<div2 n="1" type="card">
 <l>Turnus ut infractos adverso Marte Latinos</l>
 <l>defecisse videt, sua nunc promissa reposci,</l>
 <l>se signari oculis, ultro implacabilis ardet</l>
@@ -9458,7 +9827,8 @@ Changed names and redid headers.
 <l n="15">desertorem Asiae (sedeant spectentque Latini),</l>
 <l>et solus ferro crimen commune refellam,</l>
 <l>aut habeat victos, cedat Lavinia coniunx.&rdquo;</l>
-<milestone ed="p" n="18" unit="card"/>
+</div2>
+<div2 n="18" type="card">
 <l>Olli sedato respondit corde Latinus:</l>
 <l>&ldquo;O praestans animi iuvenis, quantum ipse feroci</l>
 <l n="20">virtute exsuperas, tanto me impensius aequum est</l>
@@ -9495,7 +9865,8 @@ Changed names and redid headers.
 <l>spargimus; et nostro sequitur de volnere sanguis.</l>
 <l>longe illi dea mater erit, quae nube fugacem</l>
 <l>feminea tegat et vanis sese occulat umbris.&rdquo;</l>
-<milestone ed="p" n="54" unit="card"/>
+</div2>
+<div2 n="54" type="card">
 <l>At regina, nova pugnae conterrita sorte,</l>
 <l n="55">flebat et ardentem generum monitura tenebat:</l>
 <l>&ldquo;Turne, per has ego te lacrimas, per siquis Amatae</l>
@@ -9523,7 +9894,8 @@ Changed names and redid headers.
 <l>non Teucros agat in Rutulos, Teucrum arma quiescant</l>
 <l>et Rutuli; nostro dirimamus sanguine bellum,</l>
 <l n="80">illo quaeratur coniunx Lavinia campo.&rdquo;</l>
-<milestone ed="p" n="81" unit="card"/>
+</div2>
+<div2 n="81" type="card">
 <l>Haec ubi dicta dedit rapidusque in tecta recessit.</l>
 <l>poscit equos gaudetque tuens ante ora frementis,</l>
 <l>Pilumno quos ipsa decus dedit Orithyia,</l>
@@ -9550,14 +9922,16 @@ Changed names and redid headers.
 <l>terrificos ciet atque irasci in cornua temptat,</l>
 <l n="105">arboris obnixus trunco, ventosque lacessit</l>
 <l>ictibus aut sparsa ad pugnam proludit harena.</l>
-<milestone ed="p" n="107" unit="card"/>
+</div2>
+<div2 n="107" type="card">
 <l>Nec minus interea maternis saevos in armis</l>
 <l>Aeneas acuit Martem et se suscitat ira,</l>
 <l>oblato gaudens componi foedere bellum,</l>
 <l n="110">tum socios maestique metum solatur Iuli,</l>
 <l>fata docens, regique iubet responsa Latino</l>
 <l>certa referre viros et pacis dicere leges.</l>
-<milestone ed="p" n="113" unit="card"/>
+</div2>
+<div2 n="113" type="card">
 <l>Postera vix summos spargebat lumine montis</l>
 <l>orta dies, cum primum alto se gurgite tollunt</l>
 <l n="115">solis equi lucemque elatis naribus efflant:</l>
@@ -9579,7 +9953,8 @@ Changed names and redid headers.
 <l>Tum studio effusae matres et volgus inermum</l>
 <l>invalidique senes turris ac tecta domorum</l>
 <l>obsedere, alii portis sublimibus adstant.</l>
-<milestone ed="p" n="134" unit="card"/>
+</div2>
+<div2 n="134" type="card">
 <l>At Iuno e summo, qui nunc Albanus habetur,</l>
 <l n="135">tum neque nomen erat nec honos aut gloria monti,</l>
 <l>prospiciens tumulo campum aspectabat et ambas</l>
@@ -9607,7 +9982,8 @@ Changed names and redid headers.
 <l>aut tu bella cie conceptumque excute foedus:</l>
 <l>auctor ego audendi.&rdquo; Sic exhortata reliquit</l>
 <l n="160">incertam et tristi turbatam volnere mentis.</l>
-<milestone ed="p" n="161" unit="card"/>
+</div2>
+<div2 n="161" type="card">
 <l>Interea reges, ingenti mole Latinus</l>
 <l>quadriiugo vehitur curru, cui tempora circum</l>
 <l>aurati bis sex radii fulgentia cingunt,</l>
@@ -9622,7 +9998,8 @@ Changed names and redid headers.
 <l>Illi ad surgentem conversi lumina solem</l>
 <l>dant fruges manibus salsas et tempora ferro</l>
 <l>summa notant pecudum paterisque altaria libant.</l>
-<milestone ed="p" n="175" unit="card"/>
+</div2>
+<div2 n="175" type="card">
 <l n="175">Tum pius Aeneas stricto sic ense precatur:</l>
 <l>&ldquo;Esto nunc Sol testis et haec mihi Terra voeanti,</l>
 <l>quam propter tantos potui perferre labores,</l>
@@ -9643,7 +10020,8 @@ Changed names and redid headers.
 <l>Sacra deosque dabo; socer arma Latinus habeto,</l>
 <l>imperium sollemne socer; mihi moenia Teucri</l>
 <l>constituent, urbique dabit Lavinia nomen.&rdquo;</l>
-<milestone ed="p" n="195" unit="card"/>
+</div2>
+<div2 n="195" type="card">
 <l n="195">Sic prior Aeneas; sequitur sic deinde Latinus</l>
 <l>suspiciens caelum tenditque ad sidera dextram:</l>
 <l>&ldquo;Haec eadem, Aenea, terram mare sidera iuro</l>
@@ -9665,7 +10043,8 @@ Changed names and redid headers.
 <l>conspectu in medio procerum. Tum rite sacratas</l>
 <l>in flammam iugulant pecudes et viscera vivis</l>
 <l n="215">eripiunt cumulantque oneratis lancibus aras.</l>
-<milestone ed="p" n="216" unit="card"/>
+</div2>
+<div2 n="216" type="card">
 <l>At vero Rutulis inpar ea pugna videri</l>
 <l>iamdudum et vario misceri pectora motu;</l>
 <l>tum magis, ut propius cernunt non viribus aequis.</l>
@@ -9688,7 +10067,8 @@ Changed names and redid headers.
 <l n="235">succedet fama vivusque per ora feretur:</l>
 <l>nos patria amissa dominis parere superbis</l>
 <l>cogemur, qui nunc lenti consedimus arvis.&rdquo;</l>
-<milestone ed="p" n="238" unit="card"/>
+</div2>
+<div2 n="238" type="card">
 <l>Talibus incensa est iuvenum sententia dictis</l>
 <l>iam magis atque magis, serpitque per agmina murmur;</l>
 <l n="240">ipsi Laurentes mutati ipsique Latini.</l>
@@ -9708,7 +10088,8 @@ Changed names and redid headers.
 <l>facta nube premunt, donec vi victus et ipso</l>
 <l n="255">pondere defecit, praedamque ex unguibus ales</l>
 <l>proiecit fluvio penitusque in nubila fugit.</l>
-<milestone ed="p" n="257" unit="card"/>
+</div2>
+<div2 n="257" type="card">
 <l>Tum vero augurium Rutuli clamore salutant</l>
 <l>expediuntque manus; primusque Tolumnius augur</l>
 <l>&ldquo;Hoc erat, hoc, votis,&rdquo; inquit, &ldquo;quod saepe petivi.</l>
@@ -9739,7 +10120,8 @@ Changed names and redid headers.
 <l>tempestas telorum ac ferreus ingruit imber,</l>
 <l n="285">craterasque focosque ferunt. Fugit ipse Latinus</l>
 <l>pulsatos referens infecto foedere divos.</l>
-<milestone ed="p" n="287" unit="card"/>
+</div2>
+<div2 n="287" type="card">
 <l>Infrenant alii currus aut corpora saltu</l>
 <l>subiciunt in equos et strictis ensibus adsunt.</l>
 <l>Messapus regem regisque insigne gerentem,</l>
@@ -9764,7 +10146,8 @@ Changed names and redid headers.
 <l>disicit et sparso late rigat arma cruore.</l>
 <l>Olli dura quies oculos et ferreus urget</l>
 <l n="310">somnus, in aeternam conduntur lumina noctem.</l>
-<milestone ed="p" n="311" unit="card"/>
+</div2>
+<div2 n="311" type="card">
 <l>At pius Aeneas dextram tendebat inermem</l>
 <l>nudato capite atque suos clamore vocabat:</l>
 <l>&ldquo;Quo ruitis? Quaeve ista repens discordia surgit?</l>
@@ -9800,7 +10183,8 @@ Changed names and redid headers.
 <l>Imbrasidas, Glaucum atque Laden, quos Imbrasus ipse</l>
 <l>nutrierat Lycia paribusque ornaverat armis,</l>
 <l n="345">vel conferre manum vel equo praevertere ventos.</l>
-<milestone ed="p" n="346" unit="card"/>
+</div2>
+<div2 n="346" type="card">
 <l>Parte alia media Eumedes in proelia fertur,</l>
 <l>antiqui proles bello praeclara Dolonis,</l>
 <l>nomine avum referens, animo manibusque parentem,</l>
@@ -9838,7 +10222,8 @@ Changed names and redid headers.
 <l n="380">impulit effunditque solo, Turnusque secutus</l>
 <l>imam inter galeam summi thoracis et oras</l>
 <l>abstulit ense caput truncumque reliquit harenae.</l>
-<milestone ed="p" n="383" unit="card"/>
+</div2>
+<div2 n="383" type="card">
 <l>Atque ea dum campis victor dat funera Turnus,</l>
 <l>interea Aenean Mnestheus et fidus Achates</l>
 <l n="385">Ascaniusque comes castris statuere cruentum,</l>
@@ -9867,7 +10252,8 @@ Changed names and redid headers.
 <l>stare vident: subeunt equites, et spicula castris</l>
 <l>densa cadunt mediis. It tristis ad aethera clamor</l>
 <l n="410">bellantum iuvenum et duro sub Marte cadentum.</l>
-<milestone ed="p" n="411" unit="card"/>
+</div2>
+<div2 n="411" type="card">
 <l>Hic Venus, indigno nati concussa dolore,</l>
 <l>dictamnum genetrix Cretaea carpit ab Ida,</l>
 <l>puberibus caulem foliis et flore comantem</l>
@@ -9898,7 +10284,8 @@ Changed names and redid headers.
 <l>Tu facito, mox cum matura adoleverit aetas,</l>
 <l>sis memor, et te animo repetentem exempla tuorum</l>
 <l n="440">et pater Aeneas et avunculus excitet Hector.&rdquo;</l>
-<milestone ed="p" n="441" unit="card"/>
+</div2>
+<div2 n="441" type="card">
 <l>Haec ubi dicta dedit, portis sese extulit ingens,</l>
 <l>telum immane manu quatiens; simul agmine denso</l>
 <l>Antheusque Mnestheusque ruunt omnisque relictis</l>
@@ -9926,7 +10313,8 @@ Changed names and redid headers.
 <l n="465">nec pede congressos aequo nec tela ferentis</l>
 <l>insequitur: solum densa in caligine Turnum</l>
 <l>vestigat lustrans, solum in certamina poscit.</l>
-<milestone ed="p" n="468" unit="card"/>
+</div2>
+<div2 n="468" type="card">
 <l>Hoc concussa metu mentem Iuturna virago</l>
 <l>aurigam Turni media inter lora Metiscum</l>
 <l n="470">excutit et longe lapsum temone relinquit:</l>
@@ -9959,7 +10347,8 @@ Changed names and redid headers.
 <l>iam tandem invadit medios et Marte secundo</l>
 <l>terribilis saevam nullo discrimine caedem</l>
 <l>suscitat irarumque omnis effundit habenas.</l>
-<milestone ed="p" n="500" unit="card"/>
+</div2>
+<div2 n="500" type="card">
 <l n="500">Quis mihi nunc tot acerba deus, quis carmine caedes</l>
 <l>diversas obitumque ducum, quos aequore toto</l>
 <l>inque vicem nunc Turnus agit, nunc Troius heros,</l>
@@ -9989,7 +10378,8 @@ Changed names and redid headers.
 <l>Aeneas Turnusque ruunt per proelia; nunc nunc</l>
 <l>fluctuat ira intus, rumpuntur nescia vinci</l>
 <l>pectora, nunc totis in Volnera viribus itur.</l>
-<milestone ed="p" n="529" unit="card"/>
+</div2>
+<div2 n="529" type="card">
 <l>Murranum hic, atavos et avorum antiqua sonantem</l>
 <l n="530">nomina per regesque actum genus omne Latinos,</l>
 <l>praecipitem scopulo atque ingentis turbine saxi</l>
@@ -10015,7 +10405,8 @@ Changed names and redid headers.
 <l>Tuscorumque phalanx Evandrique Arcades alae,</l>
 <l>pro se quisque viri summa nituntur opum vi:</l>
 <l>nec mora nec requies, vasto certamine tendunt.</l>
-<milestone ed="p" n="554" unit="card"/>
+</div2>
+<div2 n="554" type="card">
 <l>Hic mentem Aeneae genetrix pulcherrima misit,</l>
 <l n="555">iret ut ad muros urbique adverteret agmen</l>
 <l>ocius et subita turbaret clade Latinos.</l>
@@ -10055,7 +10446,8 @@ Changed names and redid headers.
 <l n="590">discurrunt magnisque acuunt stridoribus iras;</l>
 <l>volvitur ater odor tectis, tum murmure caeco</l>
 <l>intus saxa sonant, vacuas it fumus ad auras.</l>
-<milestone ed="p" n="593" unit="card"/>
+</div2>
+<div2 n="593" type="card">
 <l>Accidit haec fessis etiam fortuna Latinis,</l>
 <l>quae totam luctu concussit funditus urbem.</l>
 <l n="595">Regina ut tectis venientem prospicit hostem,</l>
@@ -10077,7 +10469,8 @@ Changed names and redid headers.
 <l>canitiem immundo perfusam pulvere turpans.</l>
 <l><del>Multaque se incusat, qui non acceperit ante</del></l>
 <l><del>Dardanium Aenean generumque adsciverit ultro.</del></l>
-<milestone ed="p" n="614" unit="card"/>
+</div2>
+<div2 n="614" type="card">
 <l>Interea extremo bellator in aequore Turnus</l>
 <l n="615">palantis sequitur paucos iam segnior atque</l>
 <l>iam minus atque minus successu laetus equorum</l>
@@ -10114,7 +10507,8 @@ Changed names and redid headers.
 <l>este boni, quoniam superis aversa voluntas!</l>
 <l>Sancta ad vos anima atque istius nescia culpae</l>
 <l>descendam, magnorum haud umquam indignus avorum.</l>
-<milestone ed="p" n="650" unit="card"/>
+</div2>
+<div2 n="650" type="card">
 <l n="650">Vix ea fatus erat: medios volat ecce per hostis</l>
 <l>vectus equo spumante Saces, adversa sagitta</l>
 <l>saucius ora, ruitque implorans nomine Turnum:</l>
@@ -10162,7 +10556,8 @@ Changed names and redid headers.
 <l>quaecumque est Fortuna, mea est: me verius unum</l>
 <l n="695">pro vobis foedus luere et decernere ferro.&rdquo;</l>
 <l>Discessere omnes medii spatiumque dedere.</l>
-<milestone ed="p" n="697" unit="card"/>
+</div2>
+<div2 n="697" type="card">
 <l>At pater Aeneas audito nomine Turni</l>
 <l>deserit et muros et summas deserit arces</l>
 <l>praecipitatque moras omnis, opera omnia rumpit,</l>
@@ -10212,7 +10607,8 @@ Changed names and redid headers.
 <l>et nunc huc, inde huc incertos implicat orbes</l>
 <l>undique enim densa Teucri inclusere corona,</l>
 <l n="745">atque hinc vasta palus, hinc ardua moenia cingunt.</l>
-<milestone ed="p" n="746" unit="card"/>
+</div2>
+<div2 n="746" type="card">
 <l>Nec minus Aeneas, quamquam tardata sagitta</l>
 <l>interdum genua impediunt cursumque recusant,</l>
 <l>insequitur trepidique pedem pede fervidus urget:</l>
@@ -10233,7 +10629,8 @@ Changed names and redid headers.
 <l>Quinque orbis explent cursu totidemque retexunt</l>
 <l>huc illuc; neque enim levia aut ludicra petuntur</l>
 <l n="765">praemia, sed Turni de vita et sanguine certant.</l>
-<milestone ed="p" n="766" unit="card"/>
+</div2>
+<div2 n="766" type="card">
 <l>Forte sacer Fauno foliis oleaster amaris</l>
 <l>hic steterat, nautis olim venerabile lignum,</l>
 <l>servati ex undis ubi figere dona solebant</l>
@@ -10259,7 +10656,8 @@ Changed names and redid headers.
 <l>Olli sublimes armis animisque refecti,</l>
 <l>hic gladio fidens, hic acer et arduus hasta,</l>
 <l n="790">adsistunt contra certamina Martis anheli.</l>
-<milestone ed="p" n="791" unit="card"/>
+</div2>
+<div2 n="791" type="card">
 <l>Iunonem interea rex omnipotentis Olympi</l>
 <l>adloquitur fulva pugnas de nube tuentem:</l>
 <l>&ldquo;Qua iam finis erit, coniunx? Quid denique restat?</l>
@@ -10312,7 +10710,8 @@ Changed names and redid headers.
 <l n="840">nec gens ulla tuos aeque celebrabit honores.&rdquo;</l>
 <l>Adnuit his Iuno et mentem laetata retorsit.</l>
 <l>Interea excedit caelo nubemque relinquit.</l>
-<milestone ed="p" n="843" unit="card"/>
+</div2>
+<div2 n="843" type="card">
 <l>His actis aliud genitor secum ipse volutat</l>
 <l>Iuturnamque parat fratris dimittere ab armis.</l>
 <l n="845">Dicuntur geminae pestes cognomine Dirae,</l>
@@ -10339,7 +10738,8 @@ Changed names and redid headers.
 <l>fertque refertque sonans clipeumque everberat alis.</l>
 <l>Olli membra novus solvit formidine torpor,</l>
 <l>adrectaeque horrore comae, et vox faucibus haesit.</l>
-<milestone ed="p" n="869" unit="card"/>
+</div2>
+<div2 n="869" type="card">
 <l>At procul ut Dirae stridorem adgnovit et alas,</l>
 <l n="870">infelix crinis scindit Iuturna solutos,</l>
 <l>unguibus ora soror foedans et pectora pugnis:</l>
@@ -10358,7 +10758,8 @@ Changed names and redid headers.
 <l>terra mihi Manisque deam demittet ad imos?&rdquo;</l>
 <l n="885">Tantum effata caput glauco contexit amictu</l>
 <l>multa gemens et se fluvio dea condidit alto.</l>
-<milestone ed="p" n="887" unit="card"/>
+</div2>
+<div2 n="887" type="card">
 <l>Aeneas instat contra telumque coruscat</l>
 <l>ingens arboreum et saevo sic pectore fatur:</l>
 <l>&ldquo;Quae nunc deinde mora est? Aut quid iam, Turne, retractas?</l>
@@ -10391,7 +10792,8 @@ Changed names and redid headers.
 <l>cunctaturque metu letumque instare tremescit;</l>
 <l>nec quo se eripiat, nec qua vi tendat in hostem,</l>
 <l>nec currus usquam videt aurigamve sororem.</l>
-<milestone ed="p" n="919" unit="card"/>
+</div2>
+<div2 n="919" type="card">
 <l>Cunctanti telum Aeneas fatale coruscat,</l>
 <l n="920">sortitus fortunam oculis, et corpore toto</l>
 <l>eminus intorquet. Murali concita numquam</l>
@@ -10425,5 +10827,7 @@ Changed names and redid headers.
 <l>immolat et poenam scelerato ex sanguine sumit,&rdquo;</l>
 <l n="950">hoc dicens ferrum adverso sub pectore condit</l>
 <l>fervidus. Ast illi solvuntur frigore membra</l>
-<l>vitaque cum gemitu fugit indignata sub umbras.</l></div1>
+<l>vitaque cum gemitu fugit indignata sub umbras.</l>
+</div2>
+</div1>
 </body></text></TEI.2>
