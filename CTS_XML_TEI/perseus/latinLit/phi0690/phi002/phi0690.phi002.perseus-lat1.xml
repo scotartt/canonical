@@ -100,7 +100,7 @@ Changed names and redid headers.
 </teiHeader>
 <text>
 <body>
-<div1 type="Book" n="1">
+<div1 type="book" n="1">
 <milestone ed="p" n="1" unit="card"/>
 <l>Quid faciat laetas segetes, quo sidere terram</l>
 <l>vertere, Maecenas, ulmisque adiungere vitis</l>
@@ -631,7 +631,7 @@ Changed names and redid headers.
 <l>ut cum carceribus sese effudere quadrigae,</l>
 <l>addunt in spatia et frustra retinacula tendens</l>
 <l>fertur equis auriga neque audit currus habenas.</l></div1>
-<div1 type="Book" n="2">
+<div1 type="book" n="2">
 <milestone ed="p" n="1" unit="card"/>
 <l>Hactenus arvorum cultus et sidera caeli,</l>
 <l>nunc te, Bacche, canam, nec non silvestria tecum</l>
@@ -1199,7 +1199,7 @@ Changed names and redid headers.
 <milestone ed="p" n="541" unit="card"/>
 <l>Sed nos inmensum spatiis confecimus aequor,</l>
 <l>et iam tempus equum fumantia solvere colla.</l></div1>
-<div1 type="Book" n="3">
+<div1 type="book" n="3">
 <milestone ed="p" n="1" unit="card"/>
 <l>Te quoque, magna Pales, et te memorande canemus</l>
 <l>pastor ab Amphryso, vos, silvae amnesque Lycaei.</l>
@@ -1787,7 +1787,7 @@ Changed names and redid headers.
 <l>ardentes papulae atque immundus olentia sudor</l>
 <l n="565">membra sequebatur nec longo deinde moranti</l>
 <l>tempore contactos artus sacer ignis edebat.</l></div1>
-<div1 type="Book" n="4">
+<div1 type="book" n="4">
 <milestone ed="p" n="1" unit="card"/>
 <l>Protinus aerii mellis caelestia dona</l>
 <l>exsequar: hanc etiam, Maecenas, adspice partem.</l>
